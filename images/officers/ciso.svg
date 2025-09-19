@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="95" fill="#efebe9" stroke="#000" stroke-width="4"/>
+  <!-- Short hair -->
+  <path d="M35,75 Q100,25 165,75 Q140,40 60,40 Z" fill="#5d4037"/>
+  <!-- Eyes -->
+  <circle cx="70" cy="100" r="10" fill="#fff"/>
+  <circle cx="130" cy="100" r="10" fill="#fff"/>
+  <circle cx="70" cy="100" r="5" fill="#000"/>
+  <circle cx="130" cy="100" r="5" fill="#000"/>
+  <!-- Neutral expression -->
+  <line x1="70" y1="140" x2="130" y2="140" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Shield icon -->
+  <path d="M100 155 l-20 10 v10 q20 15 40 0 v-10z" fill="#ff3b3b" stroke="#000" stroke-width="2"/>
+</svg>

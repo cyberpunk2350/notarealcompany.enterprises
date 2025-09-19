@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="95" fill="#ffd699" stroke="#000" stroke-width="4"/>
+  <!-- Hair -->
+  <path d="M40,70 Q100,20 160,70 Q140,30 60,30 Z" fill="#ffab40"/>
+  <!-- Eyes -->
+  <circle cx="70" cy="100" r="10" fill="#fff"/>
+  <circle cx="130" cy="100" r="10" fill="#fff"/>
+  <circle cx="70" cy="100" r="5" fill="#000"/>
+  <circle cx="130" cy="100" r="5" fill="#000"/>
+  <!-- Smile -->
+  <path d="M65 145 Q100 160 135 145" stroke="#000" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Monocle -->
+  <circle cx="130" cy="100" r="12" fill="none" stroke="#000" stroke-width="3"/>
+  <line x1="130" y1="112" x2="145" y2="130" stroke="#000" stroke-width="2"/>
+</svg>

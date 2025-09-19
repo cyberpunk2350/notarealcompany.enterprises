@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="95" fill="#ffe0b2" stroke="#000" stroke-width="4"/>
+  <!-- Hair (slick marketer style) -->
+  <path d="M35,80 Q100,20 165,80 Q145,40 55,40 Z" fill="#f57c00"/>
+  <!-- Eyes -->
+  <circle cx="70" cy="100" r="10" fill="#fff"/>
+  <circle cx="130" cy="100" r="10" fill="#fff"/>
+  <circle cx="70" cy="100" r="5" fill="#000"/>
+  <circle cx="130" cy="100" r="5" fill="#000"/>
+  <!-- Grin -->
+  <path d="M55 140 Q100 160 145 140" stroke="#000" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Microphone / Headset -->
+  <path d="M140 130 q30 0 20 20" stroke="#000" stroke-width="3" fill="none"/>
+  <circle cx="160" cy="150" r="5" fill="#000"/>
+</svg>

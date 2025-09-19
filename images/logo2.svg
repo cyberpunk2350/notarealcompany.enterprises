@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
+  <title id="title">NARC Spray Paint Logo with Rounded Friend Computer Monitor</title>
+  <desc id="desc">Graffiti-style dark logo with oversized NARC text, colorful overspray, and a Friend Computer-inspired monitor with glowing eyes and a rounded smile.</desc>
+
+  <style>
+    :root {
+      --bg: #0a0a0a;
+      --primary: #ff3b3b;
+      --outline: #000000;
+      --screen: #0f1116;
+      --glow: #00ff88;
+      --company: #eaeaea;
+      --motto: #b0b0b0;
+    }
+
+    svg { background: var(--bg); }
+
+    .narc-text { fill: var(--primary); stroke: var(--outline); stroke-width: 14px;
+                 font-size: 180px; font-weight: 900; font-style: italic; letter-spacing:4px;
+                 filter: url(#spray); paint-order: stroke fill; }
+    .company-text, .motto { font-family: "Comic Sans MS", "Comic Sans", cursive; text-anchor: middle; }
+    .company-text { fill: var(--company); font-size:40px; font-weight:700; }
+    .motto { fill: var(--motto); font-size:24px; font-style:italic; }
+
+    .monitor-frame { fill: #1e1e1e; stroke:#000; stroke-width:6px; rx:12; ry:12; }
+    .screen { fill: var(--screen); stroke:#000; stroke-width:4px; filter:url(#crt-glow); }
+    .fc-eye { fill: var(--glow); }
+    .fc-mouth { fill: none; stroke: var(--glow); stroke-width:6; stroke-linecap:round; }
+    .overspray-red { fill: #ff3b3b; opacity:0.15; filter:blur(12px); }
+    .overspray-blue { fill: #33ccff; opacity:0.12; filter:blur(16px); }
+    .overspray-green { fill: #00ff88; opacity:0.15; filter:blur(14px); }
+  </style>
+
+  <defs>
+    <filter id="crt-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#00ff88" flood-opacity="0.7"/>
+    </filter>
+
+    <filter id="spray">
+      <feTurbulence type="fractalNoise" baseFrequency="0.09" numOctaves="3" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="14"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1000" height="500" fill="#0a0a0a"/>
+
+  <!-- Friend Computer-inspired Monitor -->
+  <g transform="translate(30,120)">
+    <!-- Monitor frame -->
+    <rect width="220" height="180" rx="12" ry="12" class="monitor-frame"/>
+    <!-- Screen -->
+    <rect x="18" y="18" width="184" height="126" rx="8" ry="8" class="screen"/>
+    <!-- Eyes (glowing dots) -->
+    <circle cx="65" cy="80" r="8" class="fc-eye"/>
+    <circle cx="145" cy="80" r="8" class="fc-eye"/>
+    <!-- Rounded “smile” -->
+    <path d="M 60 115 Q 110 140 160 115" class="fc-mouth"/>
+    <!-- Monitor base -->
+    <rect x="80" y="180" width="50" height="18" fill="#2a2a2a" rx="4" ry="4"/>
+    <rect x="65" y="198" width="80" height="8" rx="4" fill="#2a2a2a"/>
+  </g>
+
+  <!-- Colorful Overspray Mist -->
+  <g transform="translate(250,190)">
+    <!-- Red spray moved right so only half covers monitor -->
+    <g transform="translate(150,0)">
+      <ellipse cx="100" cy="0" rx="320" ry="100" class="overspray-red"/>
+      <ellipse cx="180" cy="30" rx="300" ry="80" class="overspray-red"/>
+      <ellipse cx="50" cy="20" rx="280" ry="90" class="overspray-red"/>
+    </g>
+
+    <!-- Blue spray -->
+    <g transform="translate(50,0) rotate(30,150,50)">
+      <ellipse cx="100" cy="20" rx="300" ry="100" class="overspray-blue"/>
+      <ellipse cx="160" cy="40" rx="280" ry="80" class="overspray-blue"/>
+    </g>
+
+    <!-- Green neon spray rotated left -->
+    <g transform="translate(0,0) rotate(-30,150,50)">
+      <ellipse cx="120" cy="10" rx="300" ry="90" class="overspray-green"/>
+      <ellipse cx="180" cy="40" rx="280" ry="80" class="overspray-green"/>
+    </g>
+  </g>
+
+  <!-- Oversized Spray-Paint NARC Wordmark -->
+  <g transform="translate(260,210) rotate(-8)">
+    <text x="0" y="0" class="narc-text">NARC</text>
+  </g>
+
+  <!-- Full Company Name + Motto centered under NARC in red spray -->
+  <g transform="translate(500,330)">
+    <text x="0" y="0" class="company-text">Not A Real Company</text>
+    <text x="0" y="40" class="motto">Making Fake Work Feel Real Since 2025</text>
+  </g>
+</svg>

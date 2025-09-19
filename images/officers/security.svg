@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="95" fill="#d7ccc8" stroke="#000" stroke-width="4"/>
+  <!-- Hair -->
+  <path d="M35,70 Q100,15 165,70 Q145,40 55,40 Z" fill="#6d4c41"/>
+  <!-- Eyes -->
+  <circle cx="70" cy="100" r="10" fill="#fff"/>
+  <circle cx="130" cy="100" r="10" fill="#fff"/>
+  <circle cx="70" cy="100" r="5" fill="#000"/>
+  <circle cx="130" cy="100" r="5" fill="#000"/>
+  <!-- Stern Mouth -->
+  <path d="M65 145 Q100 140 135 145" stroke="#000" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Badge -->
+  <rect x="85" y="150" width="30" height="20" fill="#ff3b3b" stroke="#000" stroke-width="2" rx="3"/>
+  <text x="100" y="165" font-size="10" fill="#fff" text-anchor="middle">SEC</text>
+</svg>

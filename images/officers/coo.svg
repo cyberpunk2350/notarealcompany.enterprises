@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="95" fill="#ffe0b2" stroke="#000" stroke-width="4"/>
+  <!-- Hair -->
+  <path d="M35,70 Q100,10 165,70 Q145,40 55,40 Z" fill="#ff8f00"/>
+  <!-- Eyes -->
+  <circle cx="70" cy="100" r="10" fill="#fff"/>
+  <circle cx="130" cy="100" r="10" fill="#fff"/>
+  <circle cx="70" cy="100" r="5" fill="#000"/>
+  <circle cx="130" cy="100" r="5" fill="#000"/>
+  <!-- Smile -->
+  <path d="M65 145 Q100 170 135 145" stroke="#000" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Tie -->
+  <polygon points="100,150 90,190 110,190" fill="#ff3b3b"/>
+</svg>

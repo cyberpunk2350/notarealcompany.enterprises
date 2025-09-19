@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="95" fill="#e3f2fd" stroke="#000" stroke-width="4"/>
+  <!-- Wild hair -->
+  <path d="M40,60 Q100,0 160,60 Q140,30 60,30 Z" fill="#90caf9"/>
+  <!-- Glasses -->
+  <circle cx="70" cy="100" r="14" fill="#fff" stroke="#000" stroke-width="3"/>
+  <circle cx="130" cy="100" r="14" fill="#fff" stroke="#000" stroke-width="3"/>
+  <line x1="84" y1="100" x2="116" y2="100" stroke="#000" stroke-width="3"/>
+  <!-- Smile -->
+  <path d="M60 140 Q100 160 140 140" stroke="#000" stroke-width="4" fill="none"/>
+  <!-- Test tube -->
+  <rect x="90" y="150" width="20" height="30" fill="#00e676" stroke="#000" stroke-width="2" rx="4"/>
+</svg>

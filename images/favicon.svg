@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>NARC Favicon</title>
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#00ffcc" flood-opacity="0.8"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#ff3b3b" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#101010" stroke="#00ffcc" stroke-width="2"/>
+
+  <!-- Friend Computer-inspired monitor -->
+  <rect x="16" y="16" width="32" height="24" rx="4" ry="4" fill="#0a0a0a" stroke="#00ffcc" stroke-width="2" filter="url(#glow)"/>
+  
+  <!-- Eyes -->
+  <circle cx="22" cy="28" r="3" fill="#00ffcc"/>
+  <circle cx="42" cy="28" r="3" fill="#00ffcc"/>
+  
+  <!-- Rounded Smile -->
+  <path d="M22 36 Q32 42 42 36" stroke="#00ffcc" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- NARC letters (very simplified for small size) -->
+  <text x="32" y="58" font-family="Impact, sans-serif" font-size="10" fill="#ff3b3b" text-anchor="middle" stroke="#000" stroke-width="0.5" filter="url(#glow)">NARC</text>
+</svg>
