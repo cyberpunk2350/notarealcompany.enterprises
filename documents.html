@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Documents — NARC</title>
+  <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/theme.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="js/documents.js" defer></script>
+</head>
+
+<body>
+  <!-- Header -->
+  <header class="container">
+    <div class="brand">
+      <img src="images/narc-logo.svg" alt="NARC logo">
+      <div>
+        <h1>Not A Real Company</h1>
+        <div class="small">Making Fake Work Feel Real Since 2025</div>
+      </div>
+    </div>
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="departments.html">Departments</a>
+      <a href="leadership.html">Leadership</a>
+      <a href="documents.html" class="active">Internal Documents</a>
+      <a href="projects.html">Projects</a>
+      <a href="contact.html">Contact</a>
+      <button onclick="toggleTheme()" title="Toggle light/dark"
+        style="margin-left:12px;padding:8px 10px;border-radius:8px;cursor:pointer;">☀ Toggle</button>
+    </nav>
+  </header>
+
+
+  <main class="container">
+    <section class="section">
+      <h2>Corporate Documents</h2>
+      <p class="small">All official NARC documents are listed here. Click any card to view the document in a popup.
+        Hover over cards for a dash of commentary from our Happiness Officer.</p>
+      <div class="memo">Internal: Documents are filed alphabetically by Department-Category-Use-Title. Please do not
+        attempt to alphabetize the Happiness Officer's personal memos.</div>
+
+      <!-- Filters -->
+      <div class="filters-section">
+        <div class="filter-group">
+          <label for="departmentFilter">Filter by Department</label>
+          <select id="departmentFilter">
+            <option value="">All</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="categoryFilter">Filter by Category</label>
+          <select id="categoryFilter">
+            <option value="">All</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Cards container -->
+      <div id="document-cards" class="cards">
+        <div id="loading">Loading documents…</div>
+      </div>
+    </section>
+
+
+    <!-- Modal for document viewer -->
+    <div id="docModal" class="modal">
+      <div class="modal-content">
+        <span class="modal-close">&times;</span>
+        <div id="modal-body"></div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+      <div class="container small">© 2025 Not A Real Company (NARC) — Making Fake Work Feel Real Since 2025</div>
+    </footer>
+</body>
+
+</html>

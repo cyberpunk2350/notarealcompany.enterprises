@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150">
+  <!-- Background -->
+  <rect width="100%" height="100%" rx="20" ry="20" fill="black"/>
+  
+  <!-- NARC text -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="sans-serif" font-size="72" font-weight="bold" fill="red" font-style="italic">
+    NARC
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="85%" text-anchor="middle" font-family="sans-serif" font-size="20" fill="white">
+    Not A Real Company – Making Fake Work Feel Real Since 2025
+  </text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <circle cx="150" cy="150" r="140" fill="none" stroke="black" stroke-width="10"/>
+  <line x1="40" y1="40" x2="260" y2="260" stroke="black" stroke-width="15"/>
+  <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle"
+        font-family="sans-serif" font-size="20" fill="black" font-weight="bold">DO NOT</text>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+        font-family="sans-serif" font-size="28" fill="black" font-weight="bold">DISTRIBUTE</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <circle cx="150" cy="150" r="140" fill="none" stroke="green" stroke-width="10"/>
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle"
+        font-family="monospace" font-size="28" fill="green" font-weight="bold">APPROVED</text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle"
+        font-family="monospace" font-size="20" fill="green">BY THE COMPUTER</text>
+</svg>

@@ -94,7 +94,7 @@ nav a:hover{background:var(--glass)}
 nav a.active{background:var(--card);}
 
 /* corner mini logo */
-header::after{
+/* header::after{
   content:'';
   position:absolute;
   top:12px;
@@ -105,7 +105,7 @@ header::after{
   pointer-events:none;
   border-radius:8px;
   box-shadow:0 6px 18px rgba(0,0,0,0.4);
-}
+} */
 
 /* Hero */
 .hero{

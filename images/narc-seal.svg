@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <!-- Outer ring -->
+  <circle cx="200" cy="200" r="190" fill="white" stroke="black" stroke-width="10"/>
+  
+  <!-- Inner decorative ring -->
+  <circle cx="200" cy="200" r="160" fill="none" stroke="black" stroke-width="4" stroke-dasharray="12 8"/>
+  
+  <!-- NARC text -->
+  <text x="50%" y="45%" text-anchor="middle" font-family="sans-serif" font-size="80" font-weight="bold" fill="red" font-style="italic">
+    NARC
+  </text>
+
+  <!-- Company name -->
+  <text x="50%" y="60%" text-anchor="middle" font-family="sans-serif" font-size="18" fill="black">
+    Not A Real Company
+  </text>
+  
+  <!-- Motto -->
+  <text x="50%" y="75%" text-anchor="middle" font-family="sans-serif" font-size="14" fill="gray" font-style="italic">
+    Making Fake Work Feel Real Since 2025
+  </text>
+</svg>
