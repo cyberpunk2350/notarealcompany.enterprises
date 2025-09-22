@@ -4,14 +4,14 @@
 **Category:** Internal  
 
 ## Overview
-This project implements a full-scale homelab VPN mesh across all lab locations. Connections are fully encrypted using “totally real” ciphers and occasionally handshakes with a carrier pigeon for redundancy.
+A full-scale VPN mesh connecting all lab sites. Encryption is “state-of-the-art” and occasionally checks in with a carrier pigeon for redundancy.
 
-## Notes
-- Servers have been named after classic movie characters.  
-- Mondays are not supported; our VPN dislikes them.  
-- The Happiness Officer insists on emoji logs in every connection attempt.  
+## Highlights
+- Servers are named after classic movie characters.  
+- Mondays are unsupported; the VPN refuses to cooperate.  
+- Logs include emoji for morale tracking.
 
 ## TODO
-- Automate patching scripts to send motivational quotes via VPN banner.  
-- Test carrier-pigeon low-latency messaging.  
-- Conduct a mock incident response for fun.
+- Automate patching with motivational banner messages.  
+- Experiment with low-latency messaging via carrier pigeons.  
+- Conduct mock incident response drills for fun.

@@ -21,13 +21,27 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function parseFilename(filepath) {
     const filename = filepath.split("/").pop();
-    const match = filename.match(/^(.+?)-(.+?)-(.+?)\.(.+)$/); 
-    if (!match) return null;
+    const extIndex = filename.lastIndexOf(".");
+    if (extIndex === -1) return null;
+
+    const ext = filename.slice(extIndex + 1);
+    const nameWithoutExt = filename.slice(0, extIndex);
+
+    // Split into parts: department, category, use, title (remaining parts)
+    const parts = nameWithoutExt.split("-");
+    if (parts.length < 4) return null;
+
+    const department = parts[0];
+    const category = parts[1];
+    const use = parts[2];
+    const title = parts.slice(3).join("-").replace(/_/g, " ");
+
     return {
-      department: match[1],
-      category: match[2],
-      title: match[3].replace(/_/g, " "),
-      ext: match[4],
+      department,
+      category,
+      use,
+      title,
+      ext,
       path: `assets/projects/${filepath}`
     };
   }
@@ -74,6 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <h3>${proj.title}</h3>
         <p><strong>Department:</strong> ${proj.department}</p>
         <p><strong>Category:</strong> ${proj.category}</p>
+        <p><strong>Use:</strong> ${proj.use}</p>
       `;
       card.addEventListener("click", () => openModal(proj));
       projectList.appendChild(card);
@@ -115,6 +130,7 @@ document.addEventListener("DOMContentLoaded", () => {
     modal.style.display = "none";
     modalBody.innerHTML = "";
   });
+
   window.addEventListener("click", e => {
     if (e.target === modal) {
       modal.style.display = "none";
