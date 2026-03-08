@@ -1,10 +1,10 @@
 # ![NARC Logo](../images/narc-banner.svg)
 # Security Policy – Password Rotation
 
-**Document Owner:** Security Operations (SecOps)  
-**Version:** 1.0  
-**Date:** YYYY-MM-DD  
-**Classification:** INTERNAL USE ONLY  
+**Document Owner:** Security Operations (SecOps)<br>
+**Version:** 1.0  <br>
+**Date:** YYYY-MM-DD  <br>
+**Classification:** INTERNAL USE ONLY<br>  
 
 ---
 

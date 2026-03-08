@@ -1,10 +1,10 @@
 # ![NARC Logo](../images/narc-banner.svg)
 # R&D Plan – Project X (Internal)
 
-**Document Owner:** Research & Development (R&D)  
-**Version:** 0.1 – Draft  
-**Date:** YYYY-MM-DD  
-**Classification:** TOP SECRET – INTERNAL  
+**Document Owner:** Research & Development (R&D)  <br>
+**Version:** 0.1 – Draft  <br>
+**Date:** YYYY-MM-DD  <br>
+**Classification:** TOP SECRET – INTERNAL  <br>
 
 ---
 
