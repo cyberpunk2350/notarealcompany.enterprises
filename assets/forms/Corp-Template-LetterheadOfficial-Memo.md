@@ -1,18 +1,5 @@
-![NARC Logo](../images/narc-logo.svg)
-
-**Not A Real Company (NARC)**  
-Enterprises  
-
-Date: [YYYY-MM-DD]  
-To: [Recipient Name]  
-From: [Sender Name]  
-Subject: [Subject Title]
-
----
-
-[Body of memo/document goes here]
-
----
-
-*Making Fake Work Feel Real Since 2025*  
-[Seal Placeholder: ![Seal](../images/narc-seal.svg)]
+> **RETIRED — 2026-04-03 (BR-002)**
+> This file was incorrectly named `Corp-Template-LetterheadOfficial-Memo.md` (missing 's' in Templates).
+> The canonical file is `Corp-Templates-LetterheadOfficial-Memo.md`.
+> This file is not in `assets/index.json` and is not served by the document viewer.
+> **Pending manual deletion** — remove this file from the repository.

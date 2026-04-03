@@ -2,6 +2,8 @@
 
 **Department:** R&D  
 **Category:** Internal  
+**Status:** Active  
+**Clearance:** Green and Above  
 
 ## Overview
 A desk that reminds you to stand, sit, drink water, and occasionally dance. Equipped with a tiny AI assistant named "Deskbot".

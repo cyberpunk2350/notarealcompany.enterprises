@@ -1,4 +1,4 @@
-# ![NARC Seal](../images/narc-seal.svg)
+# ![NARC Internal Use Only Seal](../images/seals/narc-internal-use-only-seal.svg)
 
 ---
 
@@ -24,7 +24,7 @@
 ## Executive Summary (Optional)
 > _Use this section to summarize the purpose and contents of the document._  
 > Example:  
-> “This document defines the standard operating procedures for VPN access, covering setup, security requirements, and troubleshooting guidelines.”
+> "This document defines the standard operating procedures for VPN access, covering setup, security requirements, and troubleshooting guidelines."
 
 ---
 

@@ -2,12 +2,14 @@
 
 **Department:** R&D  
 **Category:** Internal  
+**Status:** Active  
+**Clearance:** Green and Above  
 
 ## Overview
 A collection of simulated Alpha Complex-style bureaucratic memos, forms, and templates. Perfect for training lab members in corporate-style documentation with a playful twist.
 
 ## Features
-- **Official Memos:** Stylized, exaggerated directives from “Friend Computer.”  
+- **Official Memos:** Stylized, exaggerated directives from "Friend Computer."  
 - **Forms and Templates:** HR, IT, and general workflow templates with humorous compliance notes.  
 - **Workflow Simulations:** Practice submitting, approving, and filing documents in a fully fictional corporate environment.
 
@@ -19,4 +21,4 @@ A collection of simulated Alpha Complex-style bureaucratic memos, forms, and tem
 ## TODO
 - Expand template library to cover all departments.  
 - Add automated PDF generation for official-looking memos.  
-- Introduce interactive forms with “mandatory fun” validation.
+- Introduce interactive forms with "mandatory fun" validation.

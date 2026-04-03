@@ -1,10 +1,10 @@
-# ![NARC Seal](../images/narc-seal.svg)
+# ![NARC Internal Use Only Seal](../images/seals/narc-internal-use-only-seal.svg)
 
 ---
 
 # 📑 Quarterly Operations Report  
 **Document Type:** Internal Report  
-**Classification:** ![Confidential Seal](../images/seals/confidential.svg)
+**Classification:** ![Confidential Seal](../images/seals/confidential2.svg)
 
 ---
 
@@ -24,7 +24,7 @@
 ## Executive Summary (Optional)
 > _This space may include a short 2–3 sentence overview of what this report contains._  
 > For example:  
-> “This report summarizes uptime, incident response performance, and major operational initiatives for QX-2025, providing data to support executive decision-making.”
+> "This report summarizes uptime, incident response performance, and major operational initiatives for QX-2025, providing data to support executive decision-making."
 
 ---
 

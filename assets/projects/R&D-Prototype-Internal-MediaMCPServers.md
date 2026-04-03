@@ -1,7 +1,9 @@
 # AI Media MCP Servers
 
-**Department:** R&D<br>
-**Category:** Prototype<br>
+**Department:** R&D  
+**Category:** Prototype  
+**Status:** Active  
+**Clearance:** Orange and Above  
 
 ## Description
 A suite of AI-integrated media management servers enabling Authorized Personnel to delegate the entire physical media lifecycle to their AI overlord of choice. Covers metadata retrieval, disc ripping, transcoding, and container manipulation — because manually typing a filename is a waste of Complexity Points that could be spent on Mandatory Fun Activities.
