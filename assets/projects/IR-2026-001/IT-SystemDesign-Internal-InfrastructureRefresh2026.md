@@ -170,6 +170,8 @@ Proxmox VMs/LXCs → PBS agent → Datto S4P2 (PBS datastore)
 TrueNAS sensitive data pool → ZFS replication → Datto S4P2 (ZFS dataset)
 ```
 
+Note: PBS speaks its own backup protocol for VM/LXC backups. TrueNAS ZFS replication to the Datto uses a separate ZFS dataset on the Datto host, not the PBS datastore. Both run on the same appliance concurrently.
+
 ### 4.4 IOMMU / PCIe Passthrough
 
 ```
@@ -191,7 +193,7 @@ IOMMU groupings must be verified post-CPU swap. If H710 or 10GbE card shares a g
 | Drive access from TrueNAS VM | H710 passed directly to VM; Proxmox host has no access to data drives — separation is architectural |
 | Non-ECC RAM + ZFS | Known tradeoff; accepted for media workload; documented in ADR-005; Alex Firewall's opinions are on file |
 | pve1 decommission before data validation | Phase 2 is gated on Phase 1 exit criteria; pve1 must be idle and migration validated before decommission proceeds |
-| Cluster quorum during pve1 decommission | pve1 cluster master role must be identified and transferred before Phase 2 — failure to do this risks cluster quorum loss |
+| Cluster quorum during pve1 decommission | pve1 cluster master role must be identified and transferred before Phase 2 — failure to do this risks cluster quorum loss; this has been elevated to a blocking open question |
 | Sensitive data exposure during migration | Migration traffic stays on internal 10GbE segment; no external exposure |
 | PBS datastore access | PBS on dedicated Datto appliance; replication traffic on dedicated 10GbE port |
 
@@ -203,22 +205,23 @@ Citizens are reminded that security is not optional. Victor Watchful is always w
 
 **ZFS scrubs:** Weekly on both pools. Monthly is insufficient for drives at this scale. This is not a suggestion.
 
-**ZFS snapshots:** Scheduled on all datasets. Retention policy to be designed before pool creation.
+**ZFS snapshots:** Scheduled on all datasets. Retention policy to be designed before pool creation. "Configure it later" is how retention policies never get configured.
 
-**Firmware baselines:** R720xd BIOS version, H710 IT mode firmware, and iDRAC firmware must be recorded before Phase 1b begins.
+**Firmware baselines:** R720xd BIOS version, H710 IT mode firmware, and iDRAC firmware must be recorded before Phase 1b begins. These are rollback reference points. They do not exist in the record yet. This is a known gap.
 
-**Drive health monitoring:** SMART checks scheduled via TrueNAS. Weekly short tests; monthly long tests on media pool drives.
+**Drive health monitoring:** SMART checks scheduled via TrueNAS. Weekly short tests; monthly long tests on media pool drives. 12TB drives from pve1 must be assessed before pool creation — they are coming off a failing system.
 
-**PBS retention:** Backup retention policy to be configured at PBS standup (Phase 3).
+**PBS retention:** Backup retention policy for VM/LXC backups to be configured at PBS standup (Phase 3). Retention must balance datastore capacity (~2TB usable) against backup coverage requirements.
 
-**ADR maintenance:** ADR-001 through ADR-005 are currently Draft status — updates required before Gitea repository is considered current.
+**ADR maintenance:** ADR-001 through ADR-005 are currently Draft status — they do not yet reflect Decisions 23–37 identified during the post-planning review. ADR updates are required before the Gitea repository is considered current. This is noted. It will be resolved.
 
-**Cluster PVE version alignment:** All cluster nodes must reach PVE9 before cluster features requiring version parity are used.
+**Cluster PVE version alignment:** All cluster nodes must reach PVE9 before cluster features requiring version parity are used. Mixed-version clusters have constraints. The upgrade sequence (Phase 5) must be completed before Phase 8 new host standups join the cluster.
 
 ---
 
 *IT Operations — Computational Resources & Uptime Division (ITCRuD)*
 *Not A Real Company (NARC) — Making Fake Work Feel Real Since 2025*
+*© 2025 NARC — All rights pretend.*
 
 ---
 
@@ -228,6 +231,8 @@ Citizens are reminded that security is not optional. Victor Watchful is always w
 - IT-Runbook-Internal-pve5-TrueNASVMStandup-2026.md
 - IT-MeetingMinutes-Internal-InfrastructurePlanningSession-2026.md (MIN-2026-001)
 - PR-2026-001 — Infrastructure Refresh 2026-001 Primary Hardware Acquisition
-- CR-2026-001 through CR-2026-003
+- CR-2026-001 — NAS Platform Replacement and Infrastructure Expansion
+- CR-2026-002 — PERC H710 D1 Mini IT Mode Flash
+- CR-2026-003 — CPU Swap E5-2695 v2
 - ICR-2026-003 — ECC/Non-ECC RAM Incompatibility Incident
 - Project Gitea repository (ADR-001 through ADR-006): https://git.mylab.zip
