@@ -31,17 +31,5 @@
   "docs/Security-Policy-Internal-PasswordRotation.md",
   "docs/R&D-Plan-Internal-SkunkworksProjectX.md",
   "docs/R&D-Plan-Internal-MediaMCPServers.md",
-  "docs/R&D-SystemDesign-Internal-MediaMCPServers.md",
-  "docs/IT-Plan-Internal-InfrastructureRefresh2026.md",
-  "docs/IT-SystemDesign-Internal-InfrastructureRefresh2026.md",
-  "docs/IT-ChangeRequest-Internal-NASUpgradeInitiation-2026.md",
-  "docs/IT-ChangeRequest-Internal-PERCH710ITModeFlash-2026.md",
-  "docs/IT-ChangeRequest-Internal-CPUSwapE5-2695v2-2026.md",
-  "docs/IT-HardwareAcceptance-Internal-pve5-2026.md",
-  "docs/IT-Memo-Internal-ECC-Incompatibility-Incident-2026.md",
-  "docs/IT-Memo-Internal-ICR-2026-003-AF-Objection.md",
-  "docs/IT-MeetingMinutes-Internal-InfrastructurePlanningSession-2026.md",
-  "docs/IT-PurchaseRequest-Internal-PR-2026-001-HardwareAcquisition.md",
-  "docs/IT-PurchaseRequest-Internal-PR-2026-NNN-Template.md",
-  "docs/IT-Runbook-Internal-pve5-TrueNASVMStandup-2026.md"
+  "docs/R&D-SystemDesign-Internal-MediaMCPServers.md"
 ]
