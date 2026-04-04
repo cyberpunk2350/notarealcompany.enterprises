@@ -13,7 +13,6 @@
 </head>
 
 <body>
-  <!-- Header -->
   <header class="container">
     <div class="brand">
       <img src="images/narc-logo.svg" alt="NARC logo">
@@ -28,14 +27,13 @@
       <a href="about.html">About</a>
       <a href="departments.html">Departments</a>
       <a href="leadership.html">Leadership</a>
-      <a href="documents.html" class="active">Internal Documents</a>
       <a href="projects.html">Projects</a>
+      <a href="documents.html" class="active">Internal Documents</a>
       <a href="contact.html">Contact</a>
       <button onclick="toggleTheme()" title="Toggle light/dark"
         style="margin-left:12px;padding:8px 10px;border-radius:8px;cursor:pointer;">☀ Toggle</button>
     </nav>
   </header>
-
 
   <main class="container">
     <section class="section">
@@ -45,7 +43,6 @@
       <div class="memo">Internal: Documents are filed alphabetically by Department-Category-Use-Title. Please do not
         attempt to alphabetize the Happiness Officer's personal memos.</div>
 
-      <!-- Filters -->
       <div class="filters-section">
         <div class="filter-group">
           <label for="departmentFilter">Filter by Department</label>
@@ -61,25 +58,22 @@
         </div>
       </div>
 
-      <!-- Cards container -->
       <div id="document-cards" class="cards">
         <div id="loading">Loading documents…</div>
       </div>
     </section>
 
-
-    <!-- Modal for document viewer -->
     <div id="docModal" class="modal">
       <div class="modal-content">
         <span class="modal-close">&times;</span>
         <div id="modal-body"></div>
       </div>
     </div>
+  </main>
 
-    <!-- Footer -->
-    <footer>
-      <div class="container small">© 2025 Not A Real Company (NARC) — Making Fake Work Feel Real Since 2025</div>
-    </footer>
+  <footer>
+    <div class="container small">© 2026 Not A Real Company (NARC) — Making Fake Work Feel Real Since 2025</div>
+  </footer>
 </body>
 
 </html>
