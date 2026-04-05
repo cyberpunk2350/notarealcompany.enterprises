@@ -39,7 +39,6 @@ A full modernization of NARC's primary storage and virtualization infrastructure
 | [ICR-2026-003-AF-Objection — Alex Firewall Formal Objection](assets/projects/it/IR-2026-001/IT-Memo-Internal-ICR-2026-003-AF-Objection.md) | ICR-2026-003-AF | Memo |
 | [MIN-2026-001 — Infrastructure Planning Session](assets/projects/it/IR-2026-001/IT-MeetingMinutes-Internal-InfrastructurePlanningSession-2026.md) | MIN-2026-001 | Meeting Minutes |
 | [PR-2026-001 — Hardware Acquisition](assets/projects/it/IR-2026-001/IT-PurchaseRequest-Internal-PR-2026-001-HardwareAcquisition.md) | PR-2026-001 | Purchase Request |
-| [PR Template](assets/projects/it/IR-2026-001/IT-PurchaseRequest-Internal-PR-2026-NNN-Template.md) | — | Template |
 | [Runbook — pve5 TrueNAS VM Standup](assets/projects/it/IR-2026-001/IT-Runbook-Internal-pve5-TrueNASVMStandup-2026.md) | Phase 1a/1b | Runbook |
 
 ## TODO
