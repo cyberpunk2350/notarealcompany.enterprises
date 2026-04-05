@@ -2,93 +2,76 @@
 
 # Not A Real Company (NARC) Website
 
-> **Making Fake Work Feel Real Since 2025**  
-> A homelab-turned-faux-enterprise: infrastructure, policies, leadership drama, and memos included.  
+> **Making Fake Work Feel Real Since 2025**
+> A homelab-turned-faux-enterprise: infrastructure, policies, leadership drama, and memos included.
 
 ---
 
-## 📖 What is this?
+## What is this?
 
-This is the official(ly fake) website for **Not A Real Company (NARC)**.  
-NARC is a parody enterprise environment built in a homelab to practice real-world IT, DevOps, and documentation workflows — but with a wink and a nudge.  
+This is the official(ly fake) website for **Not A Real Company (NARC)**.
 
-Think of it as a **sandbox for corporate bureaucracy**: DNS servers, faux SaaS dashboards, internal documents, leadership bios, project tracking, Alpha Complex–style memos, and more.  
+NARC is a parody enterprise environment built in a homelab to practice real-world IT, DevOps, and documentation workflows — but with a wink and a nudge.
 
-If you’ve ever wanted to practice serious IT patterns while laughing at how seriously corporations take themselves — this is your place.  
+Think of it as a **sandbox for corporate bureaucracy**: DNS servers, faux SaaS dashboards, internal documents, leadership bios, project tracking, Alpha Complex-style memos, and more.
 
 ---
 
-## 🛠️ How it was built
+## How it was built
 
-- **Static Website**: Plain HTML, CSS, and JavaScript (no frameworks, no build pipelines — designed to drop directly onto GitHub Pages or an Nginx server).  
-- **Theme Toggle**: Light/dark mode switch handled by `js/theme.js`.  
-- **Reusable Components**: Navigation and footer are refactor-ready into partials to make the site easier to maintain as it grows.  
-- **Documents & Projects Pages**:  
-  - Markdown and PDF support.  
-  - Files organized in `assets/docs`, `assets/forms`, and `assets/projects`.  
-  - Index JSON files keep lists of available files.  
-  - A small amount of JavaScript (`documents.js`, `projects.js`) dynamically builds card layouts and opens content in modal popups.  
-- **Styling**: All core look & feel (cards, memos, containers, etc.) lives in `css/style.css`.  
-- **Logos & Icons**: Fake-corporate SVG logos, favicons, and playful assets in `images/`.  
-- **Vibes**: Completely "Vibe Coded" with ChatGPT
+- **Static Website** — Plain HTML, CSS, and JavaScript. No frameworks, no build pipeline. Designed to deploy directly to GitHub Pages or an NGINX server.
+- **AI-assisted development** — Built and maintained across multiple structured sessions using Claude (Anthropic) and a multi-session project workflow with branching, working notes, and a canonical lore reference (the NARC Lore Bible).
+- **Theme Toggle** — Light/dark mode via `js/theme.js`.
+- **Documents & Projects Pages** — Markdown and PDF support. Files organized in `assets/docs/`, `assets/forms/`, and `assets/projects/`. Index JSON files drive dynamic card layouts. Project-specific artifacts are co-located in `assets/projects/[project-id]/` subdirectories.
+- **Blog** — Staged in `blogs/` at site root. Full build is a future workstream (BR-004).
+- **Styling** — All core look & feel in `css/style.css`.
+- **Logos & Icons** — Fake-corporate SVG logos, favicons, officer portraits, and seal assets in `images/`.
+
 ---
 
-## 🏗️ Structure
+## Structure
 
 ```
 .
 ├── assets/
-│   ├── docs/        # Internal documents (Markdown, PDFs)
-│   ├── forms/       # Corporate "forms"
-│   ├── projects/    # Markdown/PDF project files
-│   └── index.json   # JSON indexes for dynamic loading
+│   ├── docs/           # Corporate documents (Markdown)
+│   ├── forms/          # Templates and forms
+│   ├── projects/       # Project cards + per-project artifact folders
+│   │   └── IR-2026-001/  # Infrastructure Refresh 2026-001 documents
+│   └── index.json      # Document loader index
+├── blogs/
+│   └── IR-2026-001/    # Blog posts (staged; BR-004 builds the section)
 ├── css/
-│   └── style.css    # Global styling
-├── js/
-│   ├── theme.js     # Light/dark mode toggle
-│   ├── documents.js # Dynamic document handling
-│   └── projects.js  # Dynamic project handling
+│   └── style.css       # Global styling
 ├── images/
-│   └── ...          # Logos, favicons, seals
-├── index.html       # Homepage
+│   ├── officers/       # Leadership portrait SVGs
+│   └── seals/          # Classification seal SVGs
+├── js/
+│   ├── theme.js        # Light/dark mode toggle
+│   ├── documents.js    # Dynamic document card loader
+│   └── projects.js     # Dynamic project card loader
+├── index.html          # Homepage
 ├── about.html
 ├── departments.html
 ├── leadership.html
-├── documents.html
 ├── projects.html
+├── documents.html
 ├── contact.html
-└── README.md        # This file
-
-````
-
----
-
-## 🚀 Deployment
-
-This is how the site is being delployed:
-
-- **ChatGPT**: Vibing the code (seems appropirate)
-- **Nginx**: Local testing on a self hosted Nginx Instace
-- **Local Git Repo**: Code maintained on a self hosted Gitea Repo
-- **Github Repo**: Pushed from Gitea to Github as a read-only repo via remote Push Repo
-- **GitHub Pages**: Published to the world via Github Pages.
+├── founding.html       # Stub — content pending
+└── README.md
+```
 
 ---
 
-## 📚 Contributing (the fake way)
+## Deployment
 
-Pull requests will be routed through the **Happiness Officer** and the **Internal Security Bureaucrat** before being ~~ignored~~ carefully reviewed.
-
-If you’d like to add content:
-
-* Put documents into `assets/docs/` or `assets/forms/`.
-* Put projects into `assets/projects/`.
-* Update the matching `index.json`.
-* Commit with a message that sounds far more important than it is.
+- **Local** — NGINX instance for primary testing
+- **Git** — Self-hosted Gitea repository
+- **Public mirror** — GitHub repository, published via GitHub Pages
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is not a real company.
 This is a parody IT sandbox for homelab practice, documentation experiments, and corporate satire.
