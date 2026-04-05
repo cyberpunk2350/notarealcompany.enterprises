@@ -29,18 +29,18 @@ A full modernization of NARC's primary storage and virtualization infrastructure
 
 | Document | Reference | Type |
 |---|---|---|
-| [IT Operations Plan](assets/projects/IR-2026-001/IT-Plan-Internal-InfrastructureRefresh2026.md) | — | Plan |
-| [System Design Document](assets/projects/IR-2026-001/IT-SystemDesign-Internal-InfrastructureRefresh2026.md) | — | System Design |
-| [CR-2026-001 — NAS Platform Replacement](assets/projects/IR-2026-001/IT-ChangeRequest-Internal-NASUpgradeInitiation-2026.md) | CR-2026-001 | Change Request |
-| [CR-2026-002 — H710 IT Mode Flash](assets/projects/IR-2026-001/IT-ChangeRequest-Internal-PERCH710ITModeFlash-2026.md) | CR-2026-002 | Change Request |
-| [CR-2026-003 — CPU Swap E5-2695 v2](assets/projects/IR-2026-001/IT-ChangeRequest-Internal-CPUSwapE5-2695v2-2026.md) | CR-2026-003 | Change Request |
-| [HAR-2026-001 — pve5 Hardware Acceptance](assets/projects/IR-2026-001/IT-HardwareAcceptance-Internal-pve5-2026.md) | HAR-2026-001 | Hardware Acceptance |
-| [ICR-2026-003 — ECC/Non-ECC RAM Incident](assets/projects/IR-2026-001/IT-Memo-Internal-ECC-Incompatibility-Incident-2026.md) | ICR-2026-003 | Incident Memo |
-| [ICR-2026-003-AF-Objection — Alex Firewall Formal Objection](assets/projects/IR-2026-001/IT-Memo-Internal-ICR-2026-003-AF-Objection.md) | ICR-2026-003-AF | Memo |
-| [MIN-2026-001 — Infrastructure Planning Session](assets/projects/IR-2026-001/IT-MeetingMinutes-Internal-InfrastructurePlanningSession-2026.md) | MIN-2026-001 | Meeting Minutes |
-| [PR-2026-001 — Hardware Acquisition](assets/projects/IR-2026-001/IT-PurchaseRequest-Internal-PR-2026-001-HardwareAcquisition.md) | PR-2026-001 | Purchase Request |
-| [PR Template](assets/projects/IR-2026-001/IT-PurchaseRequest-Internal-PR-2026-NNN-Template.md) | — | Template |
-| [Runbook — pve5 TrueNAS VM Standup](assets/projects/IR-2026-001/IT-Runbook-Internal-pve5-TrueNASVMStandup-2026.md) | Phase 1a/1b | Runbook |
+| [IT Operations Plan](assets/projects/it/IR-2026-001/IT-Plan-Internal-InfrastructureRefresh2026.md) | — | Plan |
+| [System Design Document](assets/projects/it/IR-2026-001/IT-SystemDesign-Internal-InfrastructureRefresh2026.md) | — | System Design |
+| [CR-2026-001 — NAS Platform Replacement](assets/projects/it/IR-2026-001/IT-ChangeRequest-Internal-NASUpgradeInitiation-2026.md) | CR-2026-001 | Change Request |
+| [CR-2026-002 — H710 IT Mode Flash](assets/projects/it/IR-2026-001/IT-ChangeRequest-Internal-PERCH710ITModeFlash-2026.md) | CR-2026-002 | Change Request |
+| [CR-2026-003 — CPU Swap E5-2695 v2](assets/projects/it/IR-2026-001/IT-ChangeRequest-Internal-CPUSwapE5-2695v2-2026.md) | CR-2026-003 | Change Request |
+| [HAR-2026-001 — pve5 Hardware Acceptance](assets/projects/it/IR-2026-001/IT-HardwareAcceptance-Internal-pve5-2026.md) | HAR-2026-001 | Hardware Acceptance |
+| [ICR-2026-003 — ECC/Non-ECC RAM Incident](assets/projects/it/IR-2026-001/IT-Memo-Internal-ECC-Incompatibility-Incident-2026.md) | ICR-2026-003 | Incident Memo |
+| [ICR-2026-003-AF-Objection — Alex Firewall Formal Objection](assets/projects/it/IR-2026-001/IT-Memo-Internal-ICR-2026-003-AF-Objection.md) | ICR-2026-003-AF | Memo |
+| [MIN-2026-001 — Infrastructure Planning Session](assets/projects/it/IR-2026-001/IT-MeetingMinutes-Internal-InfrastructurePlanningSession-2026.md) | MIN-2026-001 | Meeting Minutes |
+| [PR-2026-001 — Hardware Acquisition](assets/projects/it/IR-2026-001/IT-PurchaseRequest-Internal-PR-2026-001-HardwareAcquisition.md) | PR-2026-001 | Purchase Request |
+| [PR Template](assets/projects/it/IR-2026-001/IT-PurchaseRequest-Internal-PR-2026-NNN-Template.md) | — | Template |
+| [Runbook — pve5 TrueNAS VM Standup](assets/projects/it/IR-2026-001/IT-Runbook-Internal-pve5-TrueNASVMStandup-2026.md) | Phase 1a/1b | Runbook |
 
 ## TODO
 - Install E5-2695 v2 CPUs (parts in transit — original CPUs functional and not complaining)
