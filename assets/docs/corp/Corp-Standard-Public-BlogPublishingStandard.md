@@ -1,4 +1,4 @@
-![NARC Banner](../images/narc-banner.svg)
+![NARC Banner](../../images/narc-banner.svg)
 
 # NARC Blog Publishing Standard
 

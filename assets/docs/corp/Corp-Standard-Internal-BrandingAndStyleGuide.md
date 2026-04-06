@@ -1,4 +1,4 @@
-![NARC Banner](../images/narc-banner.svg)
+![NARC Banner](../../images/narc-banner.svg)
 
 # NARC Corporate Style and Branding Guide
 
@@ -101,7 +101,7 @@ Standard document sections:
 Example header:
 
 ```markdown
-![NARC Internal Use Only](../images/seals/narc-internal-use-only-seal.svg)
+![NARC Internal Use Only](../../images/seals/narc-internal-use-only-seal.svg)
 
 # Document Title
 

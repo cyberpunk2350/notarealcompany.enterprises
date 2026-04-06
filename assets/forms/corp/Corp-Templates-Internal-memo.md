@@ -25,4 +25,4 @@
 ---
 
 **Seal:**  
-![Approved by the Computer](../images/seals/approved-by-computer.svg)
+![Approved by the Computer](../../images/seals/approved-by-computer.svg)

@@ -1,4 +1,4 @@
-![NARC Logo](../images/narc-logo.svg)
+![NARC Logo](../../images/narc-logo.svg)
 
 **Not A Real Company (NARC)**  
 Enterprises  
@@ -15,4 +15,4 @@ Subject: [Subject Title]
 ---
 
 *Making Fake Work Feel Real Since 2025*  
-[Seal Placeholder: ![Seal](../images/seals/narc-internal-use-only-seal.svg)]
+[Seal Placeholder: ![Seal](../../images/seals/narc-internal-use-only-seal.svg)]

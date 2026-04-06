@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-logo.svg)
+# ![NARC Logo](../../images/narc-logo.svg)
 # System Design Document – AI Media MCP Servers
 
 **Classification:** TOP SECRET – INTERNAL<br>
@@ -41,7 +41,7 @@ The system consists of six MCP (Model Context Protocol) servers that an AI host 
 
 ## 3. Architecture
 
-![Architecture Diagram Placeholder](../images/docimages/architecture-mediamcpservers.svg)
+![Architecture Diagram](../../images/docimages/architecture-mediamcpservers.svg)
 
 The system follows a monorepo structure with two layers:
 
@@ -126,7 +126,7 @@ All external API communication over HTTPS. API keys stored in `.env` files, whic
 
 ## 6. Maintenance Plan
 
-**Versioning:** Semantic versioning via Changesets. Shared packages versioned independently from servers unless linked. Citizens are reminded that a breaking change to a shared package requires updating all consuming servers in the same changeset — this is not optional.
+**Versioning:** Semantic versioning via Changesets. Shared packages versioned independently from servers unless linked.
 
 **External tool compatibility:** Minimum versions enforced at server startup. When external tools release breaking CLI changes, a new fixture capture is required before the parser can be updated. Do not update parsers based on assumptions. The Computer does not reward assumptions.
 

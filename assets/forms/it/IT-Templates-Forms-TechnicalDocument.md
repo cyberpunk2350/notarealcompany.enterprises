@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-logo.svg)
+# ![NARC Logo](../../images/narc-logo.svg)
 # Technical Documentation Template
 
 **Document Title:** [System / Service Name]  
@@ -13,7 +13,7 @@
 Explain purpose and scope.
 
 ## 2. System Architecture
-![System Diagram Placeholder](../images/system-diagram-placeholder.svg)
+![System Diagram Placeholder](../../images/system-diagram-placeholder.svg)
 
 ## 3. Network Details
 | Component | Hostname | IP Address | Port(s) | Notes |
@@ -35,3 +35,4 @@ database:
   host: db-main01.hq.prod.narc.enterprises
   port: 5432
   user: serviceuser
+```

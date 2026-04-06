@@ -1,4 +1,4 @@
-![NARC Internal Use Only](../images/seals/narc-internal-use-only-seal.svg)
+![NARC Internal Use Only](../../images/seals/narc-internal-use-only-seal.svg)
 
 # NARC Documentation Standards
 
@@ -109,7 +109,7 @@ Canonical seal files are in `images/seals/`. See `Corp-Standard-Internal-Brandin
 All documents should begin with a standardized header:
 
 ```markdown
-![NARC Internal Use Only](../images/seals/narc-internal-use-only-seal.svg)
+![NARC Internal Use Only](../../images/seals/narc-internal-use-only-seal.svg)
 
 # Document Title
 
@@ -147,7 +147,7 @@ All documents should begin with a standardized header:
 
 # 9. Repository Structure
 
-See `NARC-DocRepo-Structure-And-Standards-Reference.md` for the full proposed repository layout.
+See `_meta/session-docs/NARC-DocRepo-Structure-And-Standards-Reference.md` for the full proposed repository layout.
 
 ---
 
@@ -161,4 +161,4 @@ Author → Department Lead → Operations → Approval
 
 # 11. Archival Policy
 
-Deprecated documents are tombstoned in place with a retirement notice and removed from index files. The file is retained in the repository for historical record.
+Deprecated documents are tombstoned with a retirement notice and removed from index files. The file is moved to the `_archive/` folder within the relevant section.

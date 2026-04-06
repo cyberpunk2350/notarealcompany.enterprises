@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-banner.svg)
+# ![NARC Logo](../../images/narc-banner.svg)
 # Security Policy – Password Rotation
 
 **Document Owner:** Security Operations (SecOps)<br>

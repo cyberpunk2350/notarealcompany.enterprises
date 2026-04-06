@@ -1,4 +1,4 @@
-![NARC Internal Use Only](../images/seals/narc-internal-use-only-seal.svg)
+![NARC Internal Use Only](../../images/seals/narc-internal-use-only-seal.svg)
 
 # NARC New Associate Onboarding Packet
 

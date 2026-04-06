@@ -1,4 +1,4 @@
-![NARC Logo](./images/narc-logo.svg)
+![NARC Logo](../../images/narc-logo.svg)
 
 **Non-Disclosure Agreement (NDA)**  
 This agreement is entered into by and between Not A Real Company (NARC) and [Recipient Name].  

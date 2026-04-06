@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-logo.svg)
+# ![NARC Logo](../../images/narc-logo.svg)
 # System Design Document – [Project Name]
 
 ## 1. Executive Summary
@@ -9,7 +9,7 @@ Business case and problem being solved.
 - Non-Functional
 
 ## 3. Architecture
-![Architecture Diagram Placeholder](../images/architecture-placeholder.svg)
+![Architecture Diagram Placeholder](../../images/architecture-placeholder.svg)
 
 ## 4. Data Flow
 Explain how data moves through the system.

@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-banner.svg)
+# ![NARC Logo](../../images/narc-banner.svg)
 # R&D Plan – AI Media MCP Servers (Internal)
 
 **Document Owner:** Research & Development (R&D)<br>

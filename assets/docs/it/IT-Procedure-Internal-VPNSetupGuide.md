@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-banner.svg)
+# ![NARC Logo](../../images/narc-banner.svg)
 # IT Procedure – VPN Setup Guide
 
 **Document Owner:** IT Operations  

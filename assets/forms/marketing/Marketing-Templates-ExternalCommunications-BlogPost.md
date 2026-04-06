@@ -1,4 +1,4 @@
-![NARC Banner](../images/narc-banner.svg)
+![NARC Banner](../../images/narc-banner.svg)
 
 # {{POST_TITLE}}
 
@@ -19,10 +19,6 @@ Provide context for the topic. Explain what problem or idea the post will explor
 
 Describe the issue or motivation.
 
-Example:
-
-> Our infrastructure monitoring stack had grown increasingly complex, largely because we kept adding tools that solved problems we didn't actually have.
-
 ---
 
 ## The Solution
@@ -32,8 +28,6 @@ Explain the approach taken. Include architecture, tools used, and configuration 
 ---
 
 ## Implementation
-
-Provide step-by-step details.
 
 ### Environment Setup
 
@@ -51,8 +45,6 @@ Discuss insights gained: design tradeoffs, operational challenges, unexpected ou
 
 ## Future Work
 
-Explain what improvements or experiments may follow.
-
 ---
 
 ## Conclusion
@@ -62,7 +54,5 @@ Summarize the project and its impact on the NARC infrastructure ecosystem.
 ---
 
 — NARC Engineering Team
-
----
 
 *Not A Real Company — Making Fake Work Feel Real Since 2025*

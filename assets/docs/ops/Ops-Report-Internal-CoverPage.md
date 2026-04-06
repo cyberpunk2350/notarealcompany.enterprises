@@ -1,10 +1,10 @@
-# ![NARC Internal Use Only Seal](../images/seals/narc-internal-use-only-seal.svg)
+# ![NARC Internal Use Only Seal](../../images/seals/narc-internal-use-only-seal.svg)
 
 ---
 
 # 📑 Quarterly Operations Report  
 **Document Type:** Internal Report  
-**Classification:** ![Confidential Seal](../images/seals/confidential2.svg)
+**Classification:** ![Confidential Seal](../../images/seals/confidential2.svg)
 
 ---
 
@@ -14,7 +14,7 @@
 |------|-------|
 | **Prepared By** | Operations Team |
 | **Reviewed By** | CTO |
-| **Approved By** | ![Approved by the Computer](../images/seals/approved-by-computer.svg) |
+| **Approved By** | ![Approved by the Computer](../../images/seals/approved-by-computer.svg) |
 | **Version** | 1.0 |
 | **Date** | YYYY-MM-DD |
 | **Confidentiality** | INTERNAL USE ONLY |

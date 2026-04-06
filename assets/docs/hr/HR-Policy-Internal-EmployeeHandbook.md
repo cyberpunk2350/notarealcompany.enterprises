@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-banner.svg)
+# ![NARC Logo](../../images/narc-banner.svg)
 # Employee Handbook – Internal Policy
 
 **Document Owner:** HR Department  

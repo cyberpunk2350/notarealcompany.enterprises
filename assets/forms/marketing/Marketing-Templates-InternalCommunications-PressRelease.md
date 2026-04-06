@@ -1,4 +1,4 @@
-![NARC Logo](./images/narc-logo.svg)
+![NARC Logo](../../images/narc-logo.svg)
 
 **Press Release**  
 Date: [YYYY-MM-DD]  
