@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-logo.svg)
+# ![NARC Logo](../../../images/narc-logo.svg)
 # System Design Document — Infrastructure Refresh 2026-001
 
 **Classification:** INTERNAL — Red Clearance and Above<br>

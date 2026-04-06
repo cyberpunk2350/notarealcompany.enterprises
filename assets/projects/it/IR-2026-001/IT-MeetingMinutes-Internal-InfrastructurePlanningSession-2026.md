@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-logo.svg)
+# ![NARC Logo](../../../images/narc-logo.svg)
 
 **Not A Real Company (NARC)**
 **Meeting Minutes — Infrastructure Refresh 2026-001 Planning Session**
@@ -8,8 +8,8 @@
 **Location:** NARC Lab — Conference Room B / Virtual (hybrid)
 **Minutes Prepared By:** ARIA (Automated Record and Intelligence Assistant) — NARC AI Note-Taking System v2.1
 **Minutes Reviewed By:** [REDACTED], IT Director, ITCRuD
-**Classification:** ![Internal](../images/seals/internal.svg) INTERNAL — Red Clearance and Above
-**Approved By:** ![Approved by the Computer](../images/seals/approved-by-computer.svg)
+**Classification:** ![Internal](../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above
+**Approved By:** ![Approved by the Computer](../../../images/seals/approved-by-computer.svg)
 
 > *Note from IT Director: For the record, this meeting was originally scoped as an internal ITCRuD technical planning session. The attendee list expanded following a calendar invite reply-all incident that is not being discussed in these minutes. The technical planning was completed. Eventually.*
 
@@ -298,7 +298,7 @@ ARIA notes that this was her first meeting with an external AI consultant in att
 
 *Making Fake Work Feel Real Since 2025*
 
-![NARC Internal Use Only](../images/seals/narc-internal-use-only-seal.svg)
+![NARC Internal Use Only](../../../images/seals/narc-internal-use-only-seal.svg)
 
 ---
 

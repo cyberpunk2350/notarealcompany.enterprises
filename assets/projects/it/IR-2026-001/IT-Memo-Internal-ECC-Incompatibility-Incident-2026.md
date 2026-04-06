@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-logo.svg)
+# ![NARC Logo](../../../images/narc-logo.svg)
 
 **Not A Real Company (NARC)**
 Enterprises
@@ -9,7 +9,7 @@ Enterprises
 **CC:** Robert Lee, COO; Mary Johnson, CTO; Alex Firewall, CISO
 **Subject:** ICR-2026-003 — ECC/Non-ECC RAM Incompatibility Incident: Summary, Decision, and Closure
 
-**Classification:** ![Internal](../images/seals/internal.svg) INTERNAL — Red Clearance and Above
+**Classification:** ![Internal](../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above
 
 ---
 
@@ -113,7 +113,7 @@ Citizens who encounter this memo in future and wonder why the server is running 
 
 *Making Fake Work Feel Real Since 2025*
 
-![NARC Internal Use Only](../images/seals/narc-internal-use-only-seal.svg)
+![NARC Internal Use Only](../../../images/seals/narc-internal-use-only-seal.svg)
 
 ---
 

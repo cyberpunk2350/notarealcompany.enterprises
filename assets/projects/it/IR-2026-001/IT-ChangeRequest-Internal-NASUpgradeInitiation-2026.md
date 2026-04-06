@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-logo.svg)
+# ![NARC Logo](../../../images/narc-logo.svg)
 
 **Not A Real Company (NARC)**
 **IT Change Request — CR-2026-001**
@@ -6,7 +6,7 @@
 **Date Submitted:** 2026-03-01
 **Requester:** [REDACTED], IT Director — ITCRuD
 **Department:** IT Operations — Computational Resources & Uptime Division (ITCRuD)
-**Classification:** ![Internal](../images/seals/internal.svg) INTERNAL — Red Clearance and Above
+**Classification:** ![Internal](../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above
 
 ---
 
@@ -22,7 +22,7 @@
 | **Requested By** | [REDACTED], IT Director, ITCRuD |
 | **Reviewed By** | Robert Lee, COO |
 | **Approved By** | Mary Johnson, CTO |
-| **Secondary Approval** | ![Approved by the Computer](../images/seals/approved-by-computer.svg) |
+| **Secondary Approval** | ![Approved by the Computer](../../../images/seals/approved-by-computer.svg) |
 | **Scheduled Start** | 2026-03-01 |
 | **Expected Completion** | Multi-phase — see project plan |
 
@@ -117,7 +117,7 @@ The change was not initiated in response to an incident. It was initiated in res
 
 *Making Fake Work Feel Real Since 2025*
 
-![NARC Internal Use Only](../images/seals/narc-internal-use-only-seal.svg)
+![NARC Internal Use Only](../../../images/seals/narc-internal-use-only-seal.svg)
 
 ---
 

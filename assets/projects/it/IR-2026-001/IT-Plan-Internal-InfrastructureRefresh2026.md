@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-banner.svg)
+# ![NARC Logo](../../../images/narc-banner.svg)
 # IT Operations Plan — Infrastructure Refresh 2026-001 (Internal)
 
 **Document Owner:** IT Operations — Computational Resources & Uptime Division (ITCRuD)<br>
@@ -99,7 +99,7 @@ Timeline is task-gated rather than calendar-gated. Deviation from expected seque
 | [REDACTED] | IT Director, ITCRuD | |
 | Robert Lee | COO | |
 | Mary Johnson | CTO | |
-| | Approved by the Computer | ![Approved by the Computer](../images/seals/approved-by-computer.svg) |
+| | Approved by the Computer | ![Approved by the Computer](../../../images/seals/approved-by-computer.svg) |
 
 ---
 

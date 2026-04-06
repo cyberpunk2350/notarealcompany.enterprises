@@ -1,4 +1,4 @@
-# ![NARC Logo](../images/narc-logo.svg)
+# ![NARC Logo](../../../images/narc-logo.svg)
 
 **Not A Real Company (NARC)**
 **IT Purchase Request — PR-2026-001**
@@ -6,7 +6,7 @@
 **Date Submitted:** 2026-03-01
 **Requestor:** [REDACTED], IT Director — IT Operations, Computational Resources & Uptime Division (ITCRuD)
 **Department:** IT Operations — ITCRuD
-**Classification:** ![Internal](../images/seals/internal.svg) INTERNAL — Red Clearance and Above
+**Classification:** ![Internal](../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above
 **Related Change Request:** CR-2026-001
 
 ---
@@ -23,7 +23,7 @@
 | **Finance Approval** | John Smith, CFO |
 | **Manager Approval** | Robert Lee, COO |
 | **CTO Approval** | Mary Johnson, CTO |
-| **Approved By** | ![Approved by the Computer](../images/seals/approved-by-computer.svg) |
+| **Approved By** | ![Approved by the Computer](../../../images/seals/approved-by-computer.svg) |
 
 > *Finance Note: John Smith reviewed this request and asked "does this cost money." It does. He approved it anyway. This is documented.*
 
@@ -98,7 +98,7 @@ Items in this request were acquired through appropriate secondary market channel
 
 *Making Fake Work Feel Real Since 2025*
 
-![NARC Internal Use Only](../images/seals/narc-internal-use-only-seal.svg)
+![NARC Internal Use Only](../../../images/seals/narc-internal-use-only-seal.svg)
 
 ---
 
