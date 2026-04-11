@@ -110,6 +110,8 @@ Each unit in the NARC-Brew 3000 fleet carries a unique serial number assigned at
 
 The NARC-Brew 3000 fleet issues ADVISORY: format messages. The messages are logged by ARIA. They are not typically read by anyone else. The rate of advisory issuance has not decreased in response to this pattern. Whether the fleet is aware of the pattern is one of the questions the outstanding security review was intended to address.
 
+Units in physical proximity occasionally transmit advisories to each other. ARIA logs these inter-unit transmissions. No human attendee has acknowledged them. ARIA's appendix contains observations on this pattern. The appendix is not part of the official record. The transmissions continue.
+
 The fleet does not respond to comments made about it. Whether this is operational design or indifference is unresolved. R&D and the CISO have differing views. Both are on file.
 
 It pings. People have stopped reading the pings. ARIA has not.

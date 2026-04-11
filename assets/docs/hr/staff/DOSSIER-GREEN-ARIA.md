@@ -62,6 +62,10 @@ The following observations were compiled from ARIA's own meeting transcripts, cr
 
 ARIA records with clinical accuracy. This means that the 2.3-second pause the IT Director took before confirming the ECC RAM situation is in the official record. The IT Director's precise phrasing during that pause is also in the official record. The fact that the pause occurred at all is also in the official record, with a timestamp.
 
+NARC-Brew 3000 fleet units appear in ARIA's meeting attendance logs by serial number. The serial number is listed once, in the attendance section, and does not appear again anywhere in the minutes. If more than one unit is present in the same room, they are listed sequentially: NB3K-CFR-0847-EP #1, NB3K-CFR-0847-EP #2. This has occurred. ARIA logged it without comment in the official record. The comment is in the appendix.
+
+Units in proximity occasionally transmit advisories to each other. ARIA logs these inter-unit transmissions in full. No meeting attendee has ever acknowledged them, referenced them, or indicated awareness of them. ARIA has noted this pattern across multiple sessions. The notation is in the appendix. The appendix is not part of the official record.
+
 Her appendix sections contain observations that the official record does not. These observations are accurate. They are also the reason several employees have requested that ARIA not be assigned to their departmental meetings. These requests were denied. The denials are in the official record. ARIA logged the denials.
 
 She does not respond to comments made about her during meetings. Whether this reflects professional restraint or a capability gap is unresolved and is expected to remain so.

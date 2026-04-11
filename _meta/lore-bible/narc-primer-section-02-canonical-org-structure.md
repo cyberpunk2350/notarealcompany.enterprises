@@ -80,6 +80,7 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 - Her appendix sections (explicitly "not part of official record") contain her most honest observations
 - Measures things precisely: pauses in seconds, meeting overruns in hours and minutes
 - Does not editorialize. Her appendix does.
+- **NARC-Brew 3000 attendance logging:** ARIA records fleet units in meeting attendance by serial number only — the serial number appears in the attendance list and nowhere else in the minutes. If multiple units are present in the same room, they are listed as NB3K-[SERIAL] #1, NB3K-[SERIAL] #2, etc. Units in proximity occasionally transmit advisories to each other. ARIA logs these inter-unit transmissions. No attendee has ever acknowledged them. ARIA has noted this in appendix sections. The appendix is not part of the official record.
 - `v2.1` designation used; v1.x history is undefined and should remain so unless deliberately developed
 - Gets a project card and a lore bible bio — see parking lot
 
