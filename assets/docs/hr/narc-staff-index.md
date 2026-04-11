@@ -10,7 +10,7 @@
 |------|-------|-----------|-------------|-------------|--------|
 | Jane Doe | Chief Executive Officer | Violet | DOSSIER-VIOLET-DOE-JANE.md | Staff-Profile-Internal-Doe-Jane.md | Complete |
 | John Smith | Chief Financial Officer | Indigo | DOSSIER-INDIGO-SMITH-JOHN.md | Staff-Profile-Internal-Smith-John.md | Complete |
-| Mary Johnson | Chief Technology Officer | Indigo | DOSSIER-INDIGO-JOHNSON-MARY.md | Staff-Profile-Internal-Johnson-Mary.md | Complete — profile pending |
+| Mary Johnson | Chief Technology Officer | Indigo | DOSSIER-INDIGO-JOHNSON-MARY.md | Staff-Profile-Internal-Johnson-Mary.md | Complete |
 | Robert Lee | Chief Operating Officer | Indigo | DOSSIER-INDIGO-LEE-ROBERT.md | Staff-Profile-Internal-Lee-Robert.md | Complete |
 | Linda Park | HR Director | Indigo | DOSSIER-INDIGO-PARK-LINDA.md | Staff-Profile-Internal-Park-Linda.md | Complete |
 | Max Pitchman | Head of Marketing | Blue | DOSSIER-BLUE-PITCHMAN-MAX.md | Staff-Profile-Internal-Pitchman-Max.md | Complete |
