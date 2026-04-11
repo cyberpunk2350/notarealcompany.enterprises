@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/confidential2.svg)
+![Classification Seal](../../../../images/seals/confidential2.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## CHUCK CHEERFUL — HAPPINESS OFFICER
@@ -26,7 +26,7 @@
 
 ### PORTRAIT
 
-![Officer Portrait](../../../images/officers/happiness.svg)
+![Officer Portrait](../../../../images/officers/happiness.svg)
 
 *Annual review photograph, Year 1. Subject arrived with snacks. The snacks were imaginary. Morale impact: measured at 7.4.*
 

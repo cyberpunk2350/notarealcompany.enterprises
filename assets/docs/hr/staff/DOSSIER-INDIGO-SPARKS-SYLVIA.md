@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/confidential2.svg)
+![Classification Seal](../../../../images/seals/confidential2.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## DR. SYLVIA SPARKS — HEAD OF RESEARCH & DEVELOPMENT
@@ -26,7 +26,7 @@
 
 ### PORTRAIT
 
-![Officer Portrait](../../../images/officers/rnd.svg)
+![Officer Portrait](../../../../images/officers/rnd.svg)
 
 *Annual review photograph, Year 2. Year 1 photograph was lost in what R&D classified as a "documentation event." Year 2 photograph was taken immediately afterward, for posterity.*
 

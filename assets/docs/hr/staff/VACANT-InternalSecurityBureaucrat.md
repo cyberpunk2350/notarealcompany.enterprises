@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/internal.svg)
+![Classification Seal](../../../../images/seals/internal.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## [VACANT] — INTERNAL SECURITY BUREAUCRAT

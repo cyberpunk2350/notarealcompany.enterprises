@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/confidential2.svg)
+![Classification Seal](../../../../images/seals/confidential2.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## MAX PITCHMAN — HEAD OF MARKETING
@@ -26,7 +26,7 @@
 
 ### PORTRAIT
 
-![Officer Portrait](../../../images/officers/marketing.svg)
+![Officer Portrait](../../../../images/officers/marketing.svg)
 
 *Annual review photograph, Year 1. Subject requested a reshooting described as "more on-brand." Request was filed.*
 

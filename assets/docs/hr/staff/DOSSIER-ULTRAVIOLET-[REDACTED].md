@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/top-secret.svg)
+![Classification Seal](../../../../images/seals/top-secret.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## [REDACTED] — FOUNDER

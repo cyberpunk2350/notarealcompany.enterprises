@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/confidential2.svg)
+![Classification Seal](../../../../images/seals/confidential2.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## NARC-BREW 3000 — AI-ENABLED COFFEE MACHINE FLEET

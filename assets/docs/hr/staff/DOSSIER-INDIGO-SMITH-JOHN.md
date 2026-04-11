@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/confidential2.svg)
+![Classification Seal](../../../../images/seals/confidential2.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## JOHN SMITH — CHIEF FINANCIAL OFFICER
@@ -26,7 +26,7 @@
 
 ### PORTRAIT
 
-![Officer Portrait](../../../images/officers/cfo.svg)
+![Officer Portrait](../../../../images/officers/cfo.svg)
 
 *Annual review photograph, Year 1. Budget allocation for portrait: within tolerance.*
 

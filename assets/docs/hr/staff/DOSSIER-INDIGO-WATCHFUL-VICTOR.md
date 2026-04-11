@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/confidential2.svg)
+![Classification Seal](../../../../images/seals/confidential2.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## VICTOR WATCHFUL — HEAD OF INTERNAL SECURITY
@@ -26,7 +26,7 @@
 
 ### PORTRAIT
 
-![Officer Portrait](../../../images/officers/security.svg)
+![Officer Portrait](../../../../images/officers/security.svg)
 
 *Annual review photograph, Year 1. Subject was already in the room when the photographer arrived. How long he had been there is not documented.*
 

@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/confidential2.svg)
+![Classification Seal](../../../../images/seals/confidential2.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## LINDA PARK — HR DIRECTOR
@@ -26,7 +26,7 @@
 
 ### PORTRAIT
 
-![Officer Portrait](../../../images/officers/hr.svg)
+![Officer Portrait](../../../../images/officers/hr.svg)
 
 *Annual review photograph, Year 1. Subject arrived precisely on time. This was noted positively.*
 

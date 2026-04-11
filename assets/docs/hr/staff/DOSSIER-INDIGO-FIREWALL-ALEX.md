@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/confidential2.svg)
+![Classification Seal](../../../../images/seals/confidential2.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## ALEX FIREWALL — CHIEF INFORMATION SECURITY OFFICER
@@ -26,7 +26,7 @@
 
 ### PORTRAIT
 
-![Officer Portrait](../../../images/officers/ciso.svg)
+![Officer Portrait](../../../../images/officers/ciso.svg)
 
 *Annual review photograph, Year 1. Subject reviewed the photograph before approving its inclusion in this file. Approval was conditional.*
 

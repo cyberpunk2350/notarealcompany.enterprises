@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/confidential2.svg)
+![Classification Seal](../../../../images/seals/confidential2.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## JANE DOE — CHIEF EXECUTIVE OFFICER
@@ -26,7 +26,7 @@
 
 ### PORTRAIT
 
-![Officer Portrait](../../../images/officers/ceo.svg)
+![Officer Portrait](../../../../images/officers/ceo.svg)
 
 *Annual review photograph, Year 1. Subject declined to smile. This has been noted.*
 

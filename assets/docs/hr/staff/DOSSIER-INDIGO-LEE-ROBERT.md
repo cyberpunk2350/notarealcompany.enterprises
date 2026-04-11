@@ -1,4 +1,4 @@
-![Classification Seal](../../../images/seals/confidential2.svg)
+![Classification Seal](../../../../images/seals/confidential2.svg)
 
 # NARC INTERNAL PERSONNEL FILE
 ## ROBERT LEE — CHIEF OPERATING OFFICER
@@ -26,7 +26,7 @@
 
 ### PORTRAIT
 
-![Officer Portrait](../../../images/officers/coo.svg)
+![Officer Portrait](../../../../images/officers/coo.svg)
 
 *Annual review photograph, Year 1. Processes reviewed prior to photography. Result: convincing.*
 
