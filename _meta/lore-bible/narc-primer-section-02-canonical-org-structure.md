@@ -14,7 +14,7 @@ All ten characters are verified from `leadership.html`.[^1] Personality notes ma
 |------|-------|-----------------|--------------------------|
 | Jane Doe | CEO | "Asks 'what if we just virtualize everything?' during meetings." | Asks this repeatedly in meetings. Virtualization is her solution to most problems.[^2] |
 | John Smith | CFO | "Manages budgets (real and imaginary) and keeps the Monopoly money in order." | Penny-pitcher tendency — notices costs, will mention it, but it is not a catchphrase. Do not overplay.[^3] |
-| Mary Johnson | CTO | "Leads tech & R&D initiatives, secretly fond of blinking status lights (non-blinking variant)." | — |
+| Mary Johnson | CTO | "Leads tech & R&D initiatives, secretly fond of blinking status lights (non-blinking variant)." | Translation layer between Leadership Council and R&D — makes innovation legible upward, makes R&D chaos survivable downward. Calm, measured, minimal speech. Deep respect for reliability as a professional obligation. Approves R&D proposals she structurally disapproves of; adds extensive constraints; pretends the result is an acceptable equilibrium. **Status Light Doctrine:** non-blinking indicators signal system confidence; blinking signals unresolved state. No formal policy exists. Compliance is near-total. Delegates aggressively, observes everything, corrects via process and documentation rather than direct intervention. CTO-COO boundary: Johnson holds technology strategy; Lee runs IT Operations. Relationship is functional and well-delineated. Lee operationalizes; Johnson sets the conditions under which operationalization is permitted. Neither has formally complained about the other. This is noted as unusual.[^4] |
 | Robert Lee | COO | "Makes sure processes run reliably (or at least convincingly so)." | Runs IT Operations. Noted ECC RAM decision in stand-up.[^2] |
 | Linda Park | HR Director | "Onboarding, compliance, and highly efficient email subject lines." | Enforces morale. Distributes imaginary PTO.[^1] |
 | Max Pitchman | Head of Marketing | "Expert in synergy and branding for things that do not yet exist." | Corporate used-car salesman energy — buzzword-heavy, genuinely believes the pitch, not sleazy. Recurring structural joke: Marketing ends up in technical meetings via reply-all or CC accidents; Max treats every meeting as a branding opportunity.[^3] |
@@ -128,11 +128,12 @@ Canonical usage:
 The `README.md` mentions two roles in the contributing section.[^1]
 
 - **Happiness Officer** — "Pull requests will be routed through the Happiness Officer…" — confirmed as Chuck Cheerful[^1]
-- **Internal Security Bureaucrat** — mentioned alongside Happiness Officer in README contributing section — not mapped to a named character[^4]
+- **Internal Security Bureaucrat** — mentioned alongside Happiness Officer in README contributing section — not mapped to a named character[^5]
 
 ---
 
 [^1]: Site-confirmed — verified in NARC site source files (NARC-master.zip, 2026-03-22).
 [^2]: Session-established — developed in session 09 from site source file review; consistent with site text.
 [^3]: Ratified — BR-001 lore-consolidation review, 2026-03-22.
-[^4]: Role confirmed in site source; character assignment uncertain — not yet resolved.
+[^4]: BR-003 review — incorporated from external ChatGPT lore build, reconciled against site canon 2026-04-10.
+[^5]: Role confirmed in site source; character assignment uncertain — not yet resolved.
