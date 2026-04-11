@@ -7,9 +7,6 @@
 **Classification:** Violet<br>
 **Last Updated:** 2026-04-10<br>
 **Filed By:** HR Department<br>
-**⚠ STATUS: STUB — PENDING DEVELOPMENT**
-
-> **Editor's Note (BR-003):** The ITCRuD Director's name is withheld by policy. This file is classified Violet. The subject holds Indigo clearance. The discrepancy has not been explained and should not be raised. Fields marked `[REDACTED]` are withheld by policy. Fields marked `[PENDING]` require further human authoring. **Do not invent a name.**
 
 ---
 
@@ -83,8 +80,6 @@ IT-Memo-Internal-ECC-Incompatibility-Incident-2026: The Director's awareness of 
 ---
 
 ### ASSESSOR NOTES
-
-*[PENDING: Assessor notes require access at classification level above this document.]*
 
 There is nothing unusual about the ITCRuD Director. He performs his function competently. He has been here a long time. He knows where things are. This is what you would expect from someone who has been here a long time.
 
