@@ -60,9 +60,15 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 
 - Reports to Robert Lee (COO)
 - IT Director: **[REDACTED]** — position exists; name withheld by decision; use `[REDACTED]` consistently — do not invent a name. This `[REDACTED]` is distinct from the `[REDACTED]` Founder.
+- Clearance: **Indigo** — confirmed. Personnel file classification: **Violet** — the discrepancy is institutional and is never acknowledged, confirmed, or explained.
+- Employee ID: **NARC-000** — no one knows why or how. The ID system was not designed to accommodate a zero. Investigations into this question are quietly ended with no comment, reason, or justification.
+- Start Date: **UNK** — longest-serving non-founding employee. Rumors suggest he may predate that qualifier. Rumors are not facts and should be disregarded.
 - Responsible for servers, storage, virtualization, networking, backups, cluster management
 - Voice in formal documents: competent, slightly put-upon, documents everything
 - Approved for site-wide introduction — add to site HTML
+- **Lore Beat — COO relationship:** If you were to read between the lines inside the cracks, while tilting your head and squinting, you might think there is some kind of relationship, friendship, or history between the COO and the ITCRuD Director. This is never on display, never acknowledged, never referenced, and never assumed. But they seem like they might know each other and go "way back." There is no evidence. No one would be presumptuous enough to assume or mention it. A subtext so subtle it is definitively not there. Because it is not. Obviously.
+- **Lore Beat — clearance anomaly:** The Indigo clearance is "probably" because he has access to everything and has been around forever, but "shouldn't" have a higher level than his boss (COO, Indigo). This is never acknowledged or confirmed — only quietly assumed by those who have noticed.
+- **Lore Beat — institutional deference:** The ITCRuD Director is not given more deference than any other sub-division director. He has no more authority than any employee at his level. But there is something different about him, and how people treat him. A subtle tone shift. Nothing outright acknowledged, confirmed, admitted, or stated.
 
 ### Supporting Cast
 
