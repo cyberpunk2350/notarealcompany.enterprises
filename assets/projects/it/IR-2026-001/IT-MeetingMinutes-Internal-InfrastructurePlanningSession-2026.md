@@ -1,15 +1,15 @@
-# ![NARC Logo](../../../images/narc-logo.svg)
+# ![NARC Logo](../../../../images/narc-logo.svg)
 
 **Not A Real Company (NARC)**
 **Meeting Minutes — Infrastructure Refresh 2026-001 Planning Session**
 
-**Date:** 2026-03-01
-**Time:** 09:00 — 12:47 (scheduled 09:00 — 11:00)
-**Location:** NARC Lab — Conference Room B / Virtual (hybrid)
-**Minutes Prepared By:** ARIA (Automated Record and Intelligence Assistant) — NARC AI Note-Taking System v2.1
-**Minutes Reviewed By:** [REDACTED], Director, ITCRuD
-**Classification:** ![Internal](../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above
-**Approved By:** ![Approved by the Computer](../../../images/seals/approved-by-computer.svg)
+**Date:** 2026-03-01<br>
+**Time:** 09:00 — 12:47 (scheduled 09:00 — 11:00)<br>
+**Location:** NARC Lab — Conference Room B / Virtual (hybrid)<br>
+**Minutes Prepared By:** ARIA (Automated Record and Intelligence Assistant) — NARC AI Note-Taking System v2.1<br>
+**Minutes Reviewed By:** [REDACTED], Director, ITCRuD<br>
+**Classification:** ![Internal](../../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above<br>
+**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
 
 > *Note from Director, ITCRuD: For the record, this meeting was originally scoped as an internal ITCRuD technical planning session. The attendee list expanded following a calendar invite reply-all incident that is not being discussed in these minutes. The technical planning was completed. Eventually.*
 
@@ -298,7 +298,7 @@ ARIA notes that this was her first meeting with an external AI consultant in att
 
 *Making Fake Work Feel Real Since 2025*
 
-![NARC Internal Use Only](../../../images/seals/narc-internal-use-only-seal.svg)
+![NARC Internal Use Only](../../../../images/seals/narc-internal-use-only-seal.svg)
 
 ---
 

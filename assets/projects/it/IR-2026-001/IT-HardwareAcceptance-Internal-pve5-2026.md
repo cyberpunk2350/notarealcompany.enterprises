@@ -1,4 +1,4 @@
-# ![NARC Logo](../../../images/narc-logo.svg)
+# ![NARC Logo](../../../../images/narc-logo.svg)
 
 **Not A Real Company (NARC)**
 **IT Hardware Acceptance Record — HAR-2026-001**
@@ -7,7 +7,7 @@
 **Asset:** pve5 — Dell PowerEdge R720xd
 **Submitted By:** [REDACTED], IT Director — ITCRuD
 **Department:** IT Operations — Computational Resources & Uptime Division (ITCRuD)
-**Classification:** ![Internal](../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above
+**Classification:** ![Internal](../../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above
 
 ---
 
@@ -180,7 +180,7 @@ This record will be considered complete when all Open Items are resolved and the
 
 *Making Fake Work Feel Real Since 2025*
 
-![NARC Internal Use Only](../../../images/seals/narc-internal-use-only-seal.svg)
+![NARC Internal Use Only](../../../../images/seals/narc-internal-use-only-seal.svg)
 
 ---
 

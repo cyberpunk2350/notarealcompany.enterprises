@@ -1,4 +1,4 @@
-# ![NARC Logo](../../../images/narc-logo.svg)
+# ![NARC Logo](../../../../images/narc-logo.svg)
 
 **Not A Real Company (NARC)**
 Enterprises
@@ -9,7 +9,7 @@ Enterprises
 **CC:** Victor Watchful, Head of Internal Security; File ICR-2026-003
 **Subject:** FORMAL WRITTEN OBJECTION — ICR-2026-003 Resolution: Non-ECC RAM Acceptance
 
-**Classification:** ![Internal](../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above
+**Classification:** ![Internal](../../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above
 **Document Reference:** ICR-2026-003-AF-Objection
 **Filed In Response To:** ICR-2026-003 — ECC/Non-ECC RAM Incompatibility Incident: Summary, Decision, and Closure
 
@@ -87,7 +87,7 @@ CISO, Not A Real Company (NARC)
 
 *Making Fake Work Feel Real Since 2025*
 
-![Authorized Use Only](../../../images/seals/authorized-use-only.svg)
+![Authorized Use Only](../../../../images/seals/authorized-use-only.svg)
 
 ---
 

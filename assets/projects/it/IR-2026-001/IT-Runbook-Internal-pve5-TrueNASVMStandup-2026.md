@@ -1,12 +1,12 @@
-# ![NARC Logo](../../../images/narc-logo.svg)
+# ![NARC Logo](../../../../images/narc-logo.svg)
 # Runbook — pve5 TrueNAS SCALE VM Standup (Phase 1a / 1b)
 
 **Document Owner:** IT Operations — Computational Resources & Uptime Division (ITCRuD)<br>
 **IT Director:** [REDACTED]<br>
 **Version:** 1.0<br>
 **Last Updated:** 2026-03-21<br>
-**Classification:** ![Internal](../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above<br>
-**Approved By:** ![Approved by the Computer](../../../images/seals/approved-by-computer.svg)
+**Classification:** ![Internal](../../../../images/seals/internal.svg) INTERNAL — Red Clearance and Above<br>
+**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 
