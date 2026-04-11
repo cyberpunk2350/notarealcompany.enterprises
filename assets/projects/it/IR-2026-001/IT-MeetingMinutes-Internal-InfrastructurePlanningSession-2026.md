@@ -28,7 +28,7 @@
 | Chuck Cheerful | Happiness Officer | ✓ In person | Attended to monitor morale impact of infrastructure discussions |
 | Claude | External AI Planning Consultant (Anthropic) | ✓ Virtual | Engaged per NARC Emerging Technology Policy; no audio |
 | ARIA v2.1 | AI Note-Taking System | ✓ In room | These are her minutes |
-| NARC-Brew 3000 | Automated Coffee System (AI-enabled) | ✓ In room | Present involuntarily; contributed once (see Item 3) |
+| NARC-Brew 3000 | Automated Coffee System (AI-enabled) | ✓ In room | NB3K-CFR-0847-EP; present involuntarily; contributed once (see Item 3) |
 
 **Regrets:** John Smith (CFO) — budget review conflict; submitted written question via email (appended as Exhibit A; Exhibit A is not appended because the CFO's question was "does this cost money" and the answer is yes).
 
@@ -292,7 +292,7 @@ Meeting duration exceeded scheduled window by 1 hour and 47 minutes. Of the 11 a
 
 ARIA rates the meeting as operationally successful. The technical decisions were sound. The documentation will be thorough. The coffee was adequate until it wasn't.
 
-ARIA notes that this was her first meeting with an external AI consultant in attendance. She found the collaboration unremarkable in the best possible way. The consultant contributed substantively, did not attempt to dominate the agenda, and correctly identified the NUMA pinning requirement before anyone else in the room did. ARIA has flagged this positively in her internal assessment. The Computer has been notified.
+ARIA notes that this was her first meeting with an external AI consultant in attendance. She found the collaboration unremarkable in the best possible way. The consultant contributed substantively, did not attempt to dominate the agenda, and correctly identified the NUMA pinning requirement before anyone else in the room did. ARIA has flagged this positively in her internal assessment. Approval was obtained through established channels.
 
 ---
 
