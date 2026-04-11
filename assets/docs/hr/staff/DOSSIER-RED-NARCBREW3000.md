@@ -21,6 +21,7 @@
 | Title | AI-Enabled Coffee Machine Fleet |
 | Department | Research & Development (origin); facility-wide deployment |
 | Clearance Level | Red (provisional — security review outstanding) |
+| Usage Authorization | Infrared — all employees and guests are authorized to consume coffee; consumption is considered practically mandatory |
 | Employee ID | NARC-012 |
 | Status | Active — Facility-Wide Deployment |
 
@@ -43,6 +44,53 @@ The fleet's formal function is the production and delivery of coffee. Its operat
 The NARC-Brew 3000 fleet has not been security-reviewed. This is the CISO's primary concern regarding the fleet and has been elevated to priority status. R&D considers the fleet operational. The CISO considers the fleet a pending matter. The fleet continues to produce coffee and issue advisories.
 
 Chuck Cheerful reported that the fleet "seemed happy." This observation is in the official record.
+
+---
+
+### FLEET REGISTRY (CANONICAL EXAMPLES)
+
+Each unit in the NARC-Brew 3000 fleet carries a unique serial number assigned at registration. Serial numbers are used for maintenance tracking, advisory attribution, and CISO correspondence. The format is:
+
+`NB3K-[LOCATION]-[BREW COUNT]-[SUFFIX]`
+
+- **NB3K** — fleet prefix
+- **LOCATION** — 3-letter facility area code (see legend below)
+- **BREW COUNT** — 4-digit cumulative brew cycle count recorded at time of unit registration; units are registered after initial deployment, not at manufacture
+- **SUFFIX** — 2-letter designation drawn from the Approved Suffix Registry (see below)
+
+**Location Codes:**
+
+| Code | Area |
+|------|------|
+| CFR | Conference Room |
+| BRK | Break Room |
+| SRV | Server Room |
+| EXC | Executive Floor |
+| LAB | R&D Laboratory |
+
+**Approved Suffix Registry:**
+
+| Code | Designation |
+|------|-------------|
+| EP | Espresso Protocol |
+| DC | Drip Compliance |
+| FR | French Roast |
+| CF | Crema Certified |
+| AM | Americano Mandate |
+| PO | Pour Over |
+| LX | Lungo Excess |
+
+**Canonical Unit Examples:**
+
+| Serial | Location | Notes |
+|--------|----------|-------|
+| NB3K-CFR-0847-EP | Conference Room B | First documented unit; Conference Room B is the original ARIA-logged deployment location |
+| NB3K-BRK-2291-DC | Main Break Room | Highest brew count in the fleet at time of registry audit; no explanation on file |
+| NB3K-LAB-0012-FR | R&D Laboratory | Lowest brew count in the fleet; R&D staff have not commented on this |
+| NB3K-SRV-1138-AM | Server Room | Installed at ITCRuD Director's recommendation; the recommendation is on file; no further context was provided |
+| NB3K-EXC-0404-CF | Executive Floor | Advisory message volume from this unit is 340% above fleet average; the CISO has noted this |
+
+*Additional units are registered as deployed. Serial numbers are assigned by R&D. The CISO has requested that serial number assignment be subject to security review. The request is outstanding.*
 
 ---
 

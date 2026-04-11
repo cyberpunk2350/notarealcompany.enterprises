@@ -93,6 +93,8 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 - Has not been security-reviewed; Alex Firewall has elevated this to priority
 - Chuck Cheerful reports it "seemed happy"
 - Does not respond to comments about itself (whether professional restraint or capability gap is unresolved and should remain so)
+- **Usage authorization: Infrared** — all employees and guests authorized to consume coffee; consumption is considered practically mandatory
+- **Fleet serial number format:** `NB3K-[LOCATION]-[BREW COUNT]-[SUFFIX]` — assigned at registration (post-deployment, not at manufacture); location codes: CFR, BRK, SRV, EXC, LAB; suffix codes: EP (Espresso Protocol), DC (Drip Compliance), FR (French Roast), CF (Crema Certified), AM (Americano Mandate), PO (Pour Over), LX (Lungo Excess). Canonical examples and full registry in DOSSIER-RED-NARCBREW3000.md.
 - Gets a lore bible bio — see parking lot
 
 ### The Founder
