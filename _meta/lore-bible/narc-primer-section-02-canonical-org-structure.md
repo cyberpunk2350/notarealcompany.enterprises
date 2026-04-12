@@ -138,5 +138,5 @@ The `README.md` mentions two roles in the contributing section.[^1]
 [^1]: Site-confirmed — verified in NARC site source files (NARC-master.zip, 2026-03-22).
 [^2]: Session-established — developed in session 09 from site source file review; consistent with site text.
 [^3]: Ratified — BR-001 lore-consolidation review, 2026-03-22.
-[^4]: BR-003 review — incorporated from external ChatGPT lore build, reconciled against site canon 2026-04-10.
+[^4]: Ratified — BR-003 staff-dossiers, 2026-04-10. Incorporates ChatGPT character brief reconciled against site canon; blinking/non-blinking light conflict resolved (Option 2); CTO-COO boundary notes added.
 [^5]: Role confirmed in site source; character assignment uncertain — not yet resolved.

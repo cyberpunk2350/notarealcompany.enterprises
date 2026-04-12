@@ -21,7 +21,7 @@ The lore bible is divided into numbered sections and appendices. Sections 01–0
 |-----------|------|--------|-------|
 | `BR-001` | lore-consolidation-review-v2 | Complete | Produced this document set. |
 | `BR-002` | site-reorg | Planned — unblocked | File renames, seal replacements, parser compliance. See Appendix B for action list. |
-| `BR-003` | staff-dossiers | Planned — unblocked | Detailed character profiles. Requires BR-001 baseline. |
+| `BR-003` | staff-dossiers | Complete | All dossiers, profiles, staff index produced. Lore Bible Section 02 updated throughout. Character lore bios in progress (lore-build repo). |
 | `BR-004` | site-expansion-and-development | Planned — blocked by BR-002 | Site expansion and new content. Requires clean file structure from BR-002. |
 
 ---
@@ -95,7 +95,7 @@ The lore bible is divided into numbered sections and appendices. Sections 01–0
 | Timeline format | 4-column default (Phase / Workstream / Status / Dependencies); project-flexible | 05 |
 | ARIA | Required for all meeting minutes; site-wide | 02 |
 | NARC-Brew 3000 | Fleet; everywhere; largely ignored; R&D origin | 02 |
-| ITCRuD | Site-wide sub-division of IT Operations; IT Director [REDACTED] | 02 |
+| ITCRuD | Site-wide sub-division of IT Operations; Director [REDACTED]; clearance Indigo; file classification Violet | 02 |
 | Session 09 docs | Local only — not pushed to Gitea or live site | 11, 12 |
 
 ---

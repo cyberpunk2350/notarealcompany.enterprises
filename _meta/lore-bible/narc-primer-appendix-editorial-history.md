@@ -173,6 +173,28 @@ No editorial conflicts in this section. BR-002 action items consolidated from ac
 
 ---
 
+## BR-003 — Staff Dossiers (2026-04-10)
+
+**Mary Johnson (CTO) — character notes established**
+Lore Bible Section 02 had no extended character notes for the CTO beyond the site description. A ChatGPT character brief was reviewed and reconciled against site canon in BR-003. One conflict resolved: the site description "secretly fond of blinking status lights (non-blinking variant)" was interpreted as canonical — she is fond of status lights specifically in the non-blinking state (Option 2). The ChatGPT brief's inversion of this preference was rejected. Character notes added: translation layer role, Status Light Doctrine, management approach, relationship notes (Sparks, Lee, Doe, Firewall). Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**ITCRuD Director — character details confirmed**
+The ITCRuD Director's entry in Section 02 previously contained only structural notes (name withheld by policy, reports to COO, responsible for servers/storage/networking/etc.). BR-003 human input confirmed: clearance Indigo; personnel file classification Violet (institutional anomaly, never acknowledged); Employee ID NARC-000 (origin unknown; investigations quietly closed); Start Date UNK (longest-serving non-founding employee; rumors of earlier tenure disregarded). Three lore beats added: COO relationship subtext (subtle, never acknowledged, definitively not there), clearance anomaly (quietly assumed, never confirmed), institutional deference (subtle tone shift, nothing stated). Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**Director, ITCRuD — title standardised**
+Prior site content (MIN-2026-001 and other IR-2026-001 documents) used "IT Director, ITCRuD" as a title variant. Canonical title confirmed as "Director, ITCRuD". All instances in MIN-2026-001 corrected in BR-003. Remaining IR-2026-001 documents flagged for site-wide lore audit (future branch). Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**NARC-Brew 3000 — serial number system and usage authorisation added**
+Fleet serial number format established: `NB3K-[LOCATION]-[BREW COUNT]-[SUFFIX]`. Location codes (CFR, BRK, SRV, EXC, LAB) and suffix registry (EP, DC, FR, CF, AM, PO, LX) defined. Five canonical unit examples registered. Usage authorisation confirmed as Infrared — all employees and guests authorised; consumption practically mandatory. Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**ARIA — NARC-Brew 3000 attendance logging convention established**
+ARIA records NARC-Brew 3000 fleet units in meeting attendance by serial number only. Serial number appears in attendance list and nowhere else in the minutes. Multiple units in the same room listed as #1, #2, etc. Inter-unit advisory transmissions are logged by ARIA in appendix sections. No human attendee has acknowledged inter-unit transmissions. Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**The Computer — direct reference corrected in MIN-2026-001**
+ARIA appendix in MIN-2026-001 contained the phrase "The Computer has been notified." This violates Rule 11 (employees do not invoke The Computer by name). Corrected to "Approval was obtained through established channels." Ratified BR-003 staff-dossiers, 2026-04-10.
+
+---
+
 # BR-001 Issues Register — Archived
 
 All 31 issues raised during the lore-consolidation review. All resolved. Transferred from `narc-primer-index.md` during production conversion.
