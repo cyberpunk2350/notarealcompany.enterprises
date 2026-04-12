@@ -21,7 +21,7 @@
 | ARIA | Automated Record and Intelligence Assistant v2.1 | Green | DOSSIER-GREEN-ARIA.md | Staff-Profile-Internal-ARIA.md | Complete |
 | NARC-Brew 3000 | AI-Enabled Coffee Machine Fleet | Red (provisional) | DOSSIER-RED-NARCBREW3000.md | — | Complete — no profile (non-personnel) |
 | [REDACTED] | Founder | Ultraviolet | DOSSIER-ULTRAVIOLET-[REDACTED].md | — | Redacted |
-| [REDACTED] | ITCRuD IT Director | Indigo (file: Violet) | DOSSIER-[REDACTED]-ITDIRECTOR.md | — | Redacted |
+| [REDACTED] | ITCRuD IT Director | Indigo (file: Violet) | DOSSIER-VIOLET-[REDACTED]-ITDIRECTOR.md | — | Redacted |
 | [VACANT] | Internal Security Bureaucrat | [PENDING] | VACANT-InternalSecurityBureaucrat.md | — | Vacant — Pending Assignment |
 
 ---
