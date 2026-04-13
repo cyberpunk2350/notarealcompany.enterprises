@@ -20,6 +20,7 @@
 | Department | Cybersecurity |
 | Clearance Level | Indigo |
 | Employee ID | NARC-008 |
+| Pronouns | He/him; they/them — both canonical; presents as masculine |
 | Status | Active |
 
 ---

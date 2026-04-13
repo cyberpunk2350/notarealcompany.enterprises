@@ -193,6 +193,9 @@ ARIA records NARC-Brew 3000 fleet units in meeting attendance by serial number o
 **The Computer — direct reference corrected in MIN-2026-001**
 ARIA appendix in MIN-2026-001 contained the phrase "The Computer has been notified." This violates Rule 11 (employees do not invoke The Computer by name). Corrected to "Approval was obtained through established channels." Ratified BR-003 staff-dossiers, 2026-04-10.
 
+**Alex Firewall — pronouns confirmed**
+He/him and they/them are both canonical for Alex Firewall. He presents as masculine. No consistency requirement between or within documents. Confirmed BR-003 staff-dossiers, 2026-04-11.
+
 ---
 
 # BR-001 Issues Register — Archived

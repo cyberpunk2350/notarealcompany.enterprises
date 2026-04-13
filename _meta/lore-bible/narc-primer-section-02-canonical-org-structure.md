@@ -19,7 +19,7 @@ All ten characters are verified from `leadership.html`.[^1] Personality notes ma
 | Linda Park | HR Director | "Onboarding, compliance, and highly efficient email subject lines." | Enforces morale. Distributes imaginary PTO.[^1] |
 | Max Pitchman | Head of Marketing | "Expert in synergy and branding for things that do not yet exist." | Corporate used-car salesman energy — buzzword-heavy, genuinely believes the pitch, not sleazy. Recurring structural joke: Marketing ends up in technical meetings via reply-all or CC accidents; Max treats every meeting as a branding opportunity.[^3] |
 | Dr. Sylvia Sparks | Head of R&D | "Prototypes wildly and documents everything for posterity (and amusement)." | "For science" is her default justification. Repeatedly requests AI consultant secondment.[^2] |
-| Alex Firewall | CISO | "Responsible for cybersecurity, rituals of patching, and polite packet interrogation." | Files formal objections. Has opinions about everything.[^2] |
+| Alex Firewall | CISO | "Responsible for cybersecurity, rituals of patching, and polite packet interrogation." | Files formal objections. Has opinions about everything. Pronouns: he/him and they/them — both canonical; presents as masculine; no consistency requirement.[^4] |
 | Chuck Cheerful | Happiness Officer | "Ensures morale and mandatory fun. Distributes surprise snacks (imaginary when low budget)." | Tracks morale with numerical ratings. Named "Happy Packets" metric. Motto: **"Happiness is Mandatory."**[^2][^3] |
 | Victor Watchful | Head of Internal Security | "Keeps an eye on everything (lovingly). May or may not enjoy dramatic entrances." | Always informed as a precaution. Victor is always informed as a precaution.[^2] |
 
