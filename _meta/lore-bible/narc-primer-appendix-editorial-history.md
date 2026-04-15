@@ -198,6 +198,16 @@ He/him and they/them are both canonical for Alex Firewall. He presents as mascul
 
 ---
 
+## BR-003v2 — Staff Dossiers Continuation (2026-04-14)
+
+**Clearance levels ratified — all named non-Founder staff**
+All clearance level assignments previously marked as inferences are now ratified: Doe=Violet, Smith/Johnson/Lee/Park/Sparks/Firewall/Watchful=Indigo, Pitchman=Blue, Cheerful/ARIA=Green, Brew 3000=Red (provisional), ITCRuD Director=Indigo (personnel file: Violet). Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**Jane Doe — character notes expanded**
+Three-pass decision structure (first pass / second pass / provisional final) established as a named pattern. Document versioning quirk established: Doe produces Working, Revised, and Final variants regardless of actual revision history. "Second Pass" calendar block established as standard follow-up notation. HR documentation timing established: Park waits for the third pass before committing documentation; Doe is unaware of or has chosen not to acknowledge this. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+---
+
 # BR-001 Issues Register — Archived
 
 All 31 issues raised during the lore-consolidation review. All resolved. Transferred from `narc-primer-index.md` during production conversion.
