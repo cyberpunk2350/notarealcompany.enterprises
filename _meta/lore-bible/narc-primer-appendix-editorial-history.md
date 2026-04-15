@@ -206,6 +206,9 @@ All clearance level assignments previously marked as inferences are now ratified
 **Jane Doe — character notes expanded**
 Three-pass decision structure (first pass / second pass / provisional final) established as a named pattern. Document versioning quirk established: Doe produces Working, Revised, and Final variants regardless of actual revision history. "Second Pass" calendar block established as standard follow-up notation. HR documentation timing established: Park waits for the third pass before committing documentation; Doe is unaware of or has chosen not to acknowledge this. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
 
+**John Smith — character notes expanded**
+Cost-awareness register clarified: Smith's penny-pitcher tendency manifests as specific, conditional speech — not a fixed phrase. "Does this cost what I think it costs?" (PR-2026-001 marginal annotation) is the canonical template; derivatives acceptable; do not overplay any single version. Pending Reconciliations spreadsheet established: private document, no external access, contents permanently undefined. "Adjustment (Future Clarification)" line item established as canonical purchase request annotation. Monopoly Money Reserve established as shared Finance institutional language for aspirational budget allocations. Temporal framing speech markers established: "currently," "at this stage," "pending clarification." Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
 ---
 
 # BR-001 Issues Register — Archived
