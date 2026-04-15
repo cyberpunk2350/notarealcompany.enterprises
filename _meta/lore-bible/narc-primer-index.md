@@ -21,7 +21,8 @@ The lore bible is divided into numbered sections and appendices. Sections 01–0
 |-----------|------|--------|-------|
 | `BR-001` | lore-consolidation-review-v2 | Complete | Produced this document set. |
 | `BR-002` | site-reorg | Planned — unblocked | File renames, seal replacements, parser compliance. See Appendix B for action list. |
-| `BR-003` | staff-dossiers | Complete | All dossiers, profiles, staff index produced. Lore Bible Section 02 updated throughout. Character lore bios in progress (lore-build repo). |
+| `BR-003` | staff-dossiers | Complete | All dossiers, profiles, staff index produced. Lore Bible Section 02 updated throughout. Character lore bios ratified and incorporated into Section 02. Bios at `_meta/lore-bible/character-bios/`. Qualifier catalog and prompt templates at `_meta/lore-bible/`. |
+| `BR-003v2` | staff-dossiers-continuation | Complete | All 13 human decisions resolved. Full character roster lore bio incorporation into Section 02. Clearance levels ratified. Lore bio register added to Section 02. `_meta/lore-bible/` established as home for non-website lore artifacts. |
 | `BR-004` | site-expansion-and-development | Planned — blocked by BR-002 | Site expansion and new content. Requires clean file structure from BR-002. |
 
 ---

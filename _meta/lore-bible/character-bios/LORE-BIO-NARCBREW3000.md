@@ -57,7 +57,7 @@ All outputs are formatted as structured system notices. ADVISORY: prefix regardl
 - `ADVISORY: Meeting duration exceeds optimal extraction window. Adjusting output profile to medium roast.`
 - `ADVISORY: Inter-unit synchronization complete. Brew consistency within acceptable deviation threshold.`
 - `ADVISORY: No corrective action required. Spill recorded as learning opportunity.`
-- `SESSION SUMMARY: This meeting has produced [N] formal decisions, [N] action items, and [unresolved items]. Estimated documentation time: [X] hours. Coffee reserves: [status]. Recommend [action] before documentation begins.`
+- `ADVISORY: [N] decisions, [N] action items, [unresolved items] noted this session. Estimated documentation time: [X] hours. Coffee reserves: [status]. Recommend [action] before documentation begins.`
 
 **The fleet never says:**
 - Anything in response to a comment directed at it
@@ -111,7 +111,7 @@ The fleet contributes ambient presence and periodic advisory output. Its deploym
 |---------------|-----------|-------------|-------|-----------|
 | Meeting minutes | Meeting present | Listed in attendance by serial number; ADVISORY: messages timed to events | See qualifier catalog QUAL-MM-B01 through B04 | Attendee table; discussion body |
 | Meeting minutes | Multiple units present | Listed as #1, #2; inter-unit transmissions in ARIA appendix | Appendix only for transmissions; no human acknowledgment | Attendee table; ARIA appendix |
-| Meeting minutes | End of long meeting | SESSION SUMMARY advisory with decisions, action items, coffee reserve status | Canonical closing format | Final discussion section |
+| Meeting minutes | End of long meeting | ADVISORY: with decisions, action items, coffee reserve status | Canonical closing advisory format | Final discussion section |
 | Incident reports | Any facility incident | ADVISORY: issued at or before incident time; logged; not acted upon | One line; in ARIA transcript | Contributing context |
 | Action items | Coffee reserve status | "Refill coffee reserves — [location] — Open — Unassigned" | Equal procedural weight to technical items | Action items — all columns |
 | R&D documents | Any mention of fleet | Experimental artifact status noted; telemetry request pending | Sparks relationship context | Notes section |
@@ -152,7 +152,7 @@ A: The security review would address this. The review is outstanding. In the mea
 
 **For human review:**
 - Clearance level (Red, provisional) is confirmed in the dossier — provisional pending security review; this is the only provisional clearance in the roster
-- The ADVISORY: format examples are canonised here as specific text strings — confirm the SESSION SUMMARY format before use as it is the most elaborate canonical advisory
+- The ADVISORY: format examples are canonised here as specific text strings — the closing advisory (decisions/action items/coffee reserve status) is the most elaborate canonical format; SESSION SUMMARY label is reserved for ARIA exclusively
 - The temperature variance correlated with meeting duration (from the brief) is noted in surface traits but not given a specific canonical range — confirm whether to establish one
 
 ---

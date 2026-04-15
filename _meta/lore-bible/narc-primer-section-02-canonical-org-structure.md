@@ -149,6 +149,32 @@ The `README.md` mentions two roles in the contributing section.[^1]
 
 ---
 
+### Character Lore Bios
+
+Author-facing character design documents for all named roster entries. Literary format — not NARC voice. These are production references for content writers, not in-universe documents.
+
+**Location:** `_meta/lore-bible/character-bios/`
+
+| File | Character | Archetype | Status |
+|------|-----------|-----------|--------|
+| `LORE-BIO-DOE-JANE.md` | Jane Doe | The Strategic Abstractionist | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-SMITH-JOHN.md` | John Smith | The Reluctant Fiction Keeper | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-JOHNSON-MARY.md` | Mary Johnson | The Structured Visionary | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-LEE-ROBERT.md` | Robert Lee | The Process Absolutist | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-PARK-LINDA.md` | Linda Park | The Custodian of Procedure | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-PITCHMAN-MAX.md` | Max Pitchman | The Evangelist Without a Product | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-SPARKS-SYLVIA.md` | Dr. Sylvia Sparks | The Prototyping Dispatcher | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-FIREWALL-ALEX.md` | Alex Firewall | The Procedural Absolutist | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-CHEERFUL-CHUCK.md` | Chuck Cheerful | The Affective Systems Engineer | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-WATCHFUL-VICTOR.md` | Victor Watchful | The Institutional Omnipresence | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-ARIA.md` | ARIA v2.1 | The Procedural Witness | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-NARCBREW3000.md` | NARC-Brew 3000 | Infrastructure as Participant | Ratified BR-003v2, 2026-04-14 |
+| `LORE-BIO-[REDACTED]-ITDIRECTOR.md` | Director, ITCRuD | The Infrastructural Constant | Ratified BR-003v2, 2026-04-14 |
+
+**Register warning (ITCRuD Director and Victor Watchful):** Both characters operate at the subtlest register in the roster. Their beats work through implication only. Read the lore bio register warnings before deploying either character.
+
+---
+
 [^1]: Site-confirmed — verified in NARC site source files (NARC-master.zip, 2026-03-22).
 [^2]: Session-established — developed in session 09 from site source file review; consistent with site text.
 [^3]: Ratified — BR-001 lore-consolidation review, 2026-03-22.
