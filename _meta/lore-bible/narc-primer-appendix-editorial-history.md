@@ -209,6 +209,9 @@ Three-pass decision structure (first pass / second pass / provisional final) est
 **John Smith — character notes expanded**
 Cost-awareness register clarified: Smith's penny-pitcher tendency manifests as specific, conditional speech — not a fixed phrase. "Does this cost what I think it costs?" (PR-2026-001 marginal annotation) is the canonical template; derivatives acceptable; do not overplay any single version. Pending Reconciliations spreadsheet established: private document, no external access, contents permanently undefined. "Adjustment (Future Clarification)" line item established as canonical purchase request annotation. Monopoly Money Reserve established as shared Finance institutional language for aspirational budget allocations. Temporal framing speech markers established: "currently," "at this stage," "pending clarification." Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
 
+**Mary Johnson — character notes expanded**
+Clearance Indigo ratified. Non-interference threshold established: policy holds unless cross-system contamination risk or incident report would exceed 50 pages — design detail only, not a document-level fact. Sparks relationship note added: Johnson has never said "for science" in a professional context; this has been noted. Firewall relationship established: productive adversarial; objections filed and read; documentation updated in response; both parties consider this functional. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
 ---
 
 # BR-001 Issues Register — Archived
