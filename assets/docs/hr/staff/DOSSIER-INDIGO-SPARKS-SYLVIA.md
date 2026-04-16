@@ -5,7 +5,7 @@
 
 **File Reference:** NARC-HR-DOSSIER-007<br>
 **Classification:** Indigo<br>
-**Last Updated:** 2026-04-10<br>
+**Last Updated:** 2026-04-16<br>
 **Filed By:** HR Department<br>
 
 ---
@@ -46,7 +46,7 @@ Dr. Sparks produced the NARC-Brew 3000 fleet. This is on the official record. Sh
 
 | Name | Relationship | Notes |
 |------|-------------|-------|
-| Mary Johnson | CTO | Reports up. R&D operates under CTO oversight. [PENDING: CTO relationship notes pending Johnson dossier development.] |
+| Mary Johnson | CTO | Reports up. R&D operates under CTO oversight. Johnson reviews R&D proposals with surgical precision; constraints are added at sign-off. Sparks treats the constraints as a starting position. |
 | Alex Firewall | CISO | Relationship characterized by formal objection correspondence. NARC-Brew 3000 security review is outstanding. Sparks has filed a response to Firewall's objection. The response cited "for science." |
 | ARIA v2.1 | R&D output | ARIA is an R&D prototype elevated to site-wide deployment. Sparks considers this a validation. |
 | NARC-Brew 3000 | R&D output | Fleet of AI-enabled coffee machines. R&D origin confirmed (CoffeeBot AI project card). |
