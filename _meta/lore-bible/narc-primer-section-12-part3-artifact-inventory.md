@@ -177,6 +177,77 @@ The following artifacts were created in session 09 and are local files only — 
 | Blog posts (12 total) | `blogs/[filename]` from site root | Blog section not yet built. Interim path `blogs/`. BR-004 owns final path. |
 | ADR-004 PERC IT Mode | Gitea repo — `docs/decisions/ADR-004-perc-it-mode.md` | In Gitea; not on website |
 
+## Lore Bible — Meta Artifacts (`_meta/lore-bible/`)
+
+Production reference documents. Not served by the site; author-facing only.
+
+| Artifact | Path | Status | Notes |
+|----------|------|--------|-------|
+| Lore Bible index | `_meta/lore-bible/narc-primer-index.md` | Present — Active | Master table of contents |
+| Section 02 — Canonical Org Structure | `_meta/lore-bible/narc-primer-section-02-canonical-org-structure.md` | Present — Active | Full character roster; expanded BR-003v2 |
+| Appendix C — Editorial History | `_meta/lore-bible/narc-primer-appendix-editorial-history.md` | Present — Active | BR-001, BR-003, BR-003v2 entries |
+| Appendix D — Maintenance Guide | `_meta/lore-bible/narc-primer-appendix-maintenance-guide.md` | Present — Active | |
+| Appendix E — Qualifier Catalog | `_meta/lore-bible/narc-primer-appendix-qualifier-catalog.md` | Present — Active[^5] | Renamed from narc-qualifier-catalog-v1.md; BR-003 |
+| Appendix F — ChatGPT Prompt Templates | `_meta/lore-bible/narc-primer-appendix-chatgpt-prompt-templates.md` | Present — Active[^5] | Renamed from narc-lore-chatgpt-prompt-templates.md; BR-003 |
+
+## Character Lore Bios (`_meta/lore-bible/character-bios/`)
+
+Author-facing character design documents. All ratified BR-003v2, 2026-04-14.[^5]
+
+| Artifact | Path | Status |
+|----------|------|--------|
+| Jane Doe lore bio | `_meta/lore-bible/character-bios/LORE-BIO-DOE-JANE.md` | Present — Ratified |
+| John Smith lore bio | `_meta/lore-bible/character-bios/LORE-BIO-SMITH-JOHN.md` | Present — Ratified |
+| Mary Johnson lore bio | `_meta/lore-bible/character-bios/LORE-BIO-JOHNSON-MARY.md` | Present — Ratified |
+| Robert Lee lore bio | `_meta/lore-bible/character-bios/LORE-BIO-LEE-ROBERT.md` | Present — Ratified |
+| Linda Park lore bio | `_meta/lore-bible/character-bios/LORE-BIO-PARK-LINDA.md` | Present — Ratified |
+| Max Pitchman lore bio | `_meta/lore-bible/character-bios/LORE-BIO-PITCHMAN-MAX.md` | Present — Ratified |
+| Dr. Sylvia Sparks lore bio | `_meta/lore-bible/character-bios/LORE-BIO-SPARKS-SYLVIA.md` | Present — Ratified |
+| Alex Firewall lore bio | `_meta/lore-bible/character-bios/LORE-BIO-FIREWALL-ALEX.md` | Present — Ratified |
+| Chuck Cheerful lore bio | `_meta/lore-bible/character-bios/LORE-BIO-CHEERFUL-CHUCK.md` | Present — Ratified |
+| Victor Watchful lore bio | `_meta/lore-bible/character-bios/LORE-BIO-WATCHFUL-VICTOR.md` | Present — Ratified |
+| ARIA v2.1 lore bio | `_meta/lore-bible/character-bios/LORE-BIO-ARIA.md` | Present — Ratified |
+| NARC-Brew 3000 lore bio | `_meta/lore-bible/character-bios/LORE-BIO-NARCBREW3000.md` | Present — Ratified |
+| ITCRuD Director lore bio | `_meta/lore-bible/character-bios/LORE-BIO-[REDACTED]-ITDIRECTOR.md` | Present — Ratified |
+
+## HR Staff Documents (`assets/docs/hr/`)
+
+Produced in BR-003. Not yet in `assets/index.json` pending CF-001 naming convention resolution.[^5]
+
+| Artifact | Path | Status | Notes |
+|----------|------|--------|-------|
+| Staff index | `assets/docs/hr/narc-staff-index.md` | Present — Active | In assets/index.json |
+| Dossier — Jane Doe | `assets/docs/hr/staff/DOSSIER-VIOLET-DOE-JANE.md` | Present | CF-001: naming convention non-standard |
+| Dossier — John Smith | `assets/docs/hr/staff/DOSSIER-INDIGO-SMITH-JOHN.md` | Present | CF-001 |
+| Dossier — Mary Johnson | `assets/docs/hr/staff/DOSSIER-INDIGO-JOHNSON-MARY.md` | Present | CF-001 |
+| Dossier — Robert Lee | `assets/docs/hr/staff/DOSSIER-INDIGO-LEE-ROBERT.md` | Present | CF-001 |
+| Dossier — Linda Park | `assets/docs/hr/staff/DOSSIER-INDIGO-PARK-LINDA.md` | Present | CF-001 |
+| Dossier — Max Pitchman | `assets/docs/hr/staff/DOSSIER-BLUE-PITCHMAN-MAX.md` | Present | CF-001 |
+| Dossier — Dr. Sylvia Sparks | `assets/docs/hr/staff/DOSSIER-INDIGO-SPARKS-SYLVIA.md` | Present | CF-001 |
+| Dossier — Alex Firewall | `assets/docs/hr/staff/DOSSIER-INDIGO-FIREWALL-ALEX.md` | Present | CF-001 |
+| Dossier — Chuck Cheerful | `assets/docs/hr/staff/DOSSIER-GREEN-CHEERFUL-CHUCK.md` | Present | CF-001 |
+| Dossier — Victor Watchful | `assets/docs/hr/staff/DOSSIER-INDIGO-WATCHFUL-VICTOR.md` | Present | CF-001 |
+| Dossier — ARIA | `assets/docs/hr/staff/DOSSIER-GREEN-ARIA.md` | Present | CF-001 |
+| Dossier — NARC-Brew 3000 | `assets/docs/hr/staff/DOSSIER-RED-NARCBREW3000.md` | Present | CF-001 |
+| Dossier — [REDACTED] Founder | `assets/docs/hr/staff/DOSSIER-ULTRAVIOLET-[REDACTED].md` | Present — Fully redacted | CF-001 |
+| Dossier — [REDACTED] ITCRuD Director | `assets/docs/hr/staff/DOSSIER-VIOLET-[REDACTED]-ITDIRECTOR.md` | Present | CF-001 |
+| Vacancy — Internal Security Bureaucrat | `assets/docs/hr/staff/VACANT-InternalSecurityBureaucrat.md` | Present — Stub | |
+| Profile — Jane Doe | `assets/docs/hr/profiles/Staff-Profile-Internal-Doe-Jane.md` | Present — Active | In assets/index.json |
+| Profile — John Smith | `assets/docs/hr/profiles/Staff-Profile-Internal-Smith-John.md` | Present — Active | In assets/index.json |
+| Profile — Mary Johnson | `assets/docs/hr/profiles/Staff-Profile-Internal-Johnson-Mary.md` | Present — Active | In assets/index.json |
+| Profile — Robert Lee | `assets/docs/hr/profiles/Staff-Profile-Internal-Lee-Robert.md` | Present — Active | In assets/index.json |
+| Profile — Linda Park | `assets/docs/hr/profiles/Staff-Profile-Internal-Park-Linda.md` | Present — Active | In assets/index.json |
+| Profile — Max Pitchman | `assets/docs/hr/profiles/Staff-Profile-Internal-Pitchman-Max.md` | Present — Active | In assets/index.json |
+| Profile — Dr. Sylvia Sparks | `assets/docs/hr/profiles/Staff-Profile-Internal-Sparks-Sylvia.md` | Present — Active | In assets/index.json |
+| Profile — Alex Firewall | `assets/docs/hr/profiles/Staff-Profile-Internal-Firewall-Alex.md` | Present — Active | In assets/index.json |
+| Profile — Chuck Cheerful | `assets/docs/hr/profiles/Staff-Profile-Internal-Cheerful-Chuck.md` | Present — Active | In assets/index.json |
+| Profile — Victor Watchful | `assets/docs/hr/profiles/Staff-Profile-Internal-Watchful-Victor.md` | Present — Active | In assets/index.json |
+| Profile — ARIA | `assets/docs/hr/profiles/Staff-Profile-Internal-ARIA.md` | Present — Active | In assets/index.json |
+
+---
+
+[^5]: Ratified — BR-003 / BR-003v2 staff-dossiers, 2026-04-10 — 2026-04-15.
+
 ## Artifacts — Uncertain or Not Yet Created
 
 | Artifact | Status | Notes |

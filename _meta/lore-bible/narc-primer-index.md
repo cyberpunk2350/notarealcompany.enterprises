@@ -66,8 +66,10 @@ The lore bible is divided into numbered sections and appendices. Sections 01–0
 |------|---------|
 | [`narc-primer-section-13-appendix-open-questions.md`](narc-primer-section-13-appendix-open-questions.md) | **Appendix A:** All 19 open questions from the lore-consolidation review, with resolution summaries. All resolved. |
 | [`narc-primer-section-14-appendix-parking-lot.md`](narc-primer-section-14-appendix-parking-lot.md) | **Appendix B:** Required-deferred items, BR-002 action list, and nice-to-have parked items. |
-| [`narc-primer-appendix-editorial-history.md`](narc-primer-appendix-editorial-history.md) | **Appendix C (Editorial History):** All resolved conflicts, model observations, and lore rulings from BR-001. Issues register and lore rulings table archived here. |
+| [`narc-primer-appendix-editorial-history.md`](narc-primer-appendix-editorial-history.md) | **Appendix C (Editorial History):** All resolved conflicts, model observations, and lore rulings from BR-001. Issues register and lore rulings table archived here. BR-003 and BR-003v2 entries appended. |
 | [`narc-primer-appendix-maintenance-guide.md`](narc-primer-appendix-maintenance-guide.md) | **Appendix D (Maintenance Guide):** Conventions and style guide for updating and extending this lore bible. |
+| [`narc-primer-appendix-qualifier-catalog.md`](narc-primer-appendix-qualifier-catalog.md) | **Appendix E (Qualifier Catalog):** Meeting minutes qualifier entries (QUAL-MM-A01 through A05, QUAL-MM-B01 through B04) and shared character beat qualifiers. BR-003 production artifact. |
+| [`narc-primer-appendix-chatgpt-prompt-templates.md`](narc-primer-appendix-chatgpt-prompt-templates.md) | **Appendix F (ChatGPT Prompt Templates):** Four generation prompt templates for lore-consistent content production. BR-003 production artifact. |
 
 ---
 

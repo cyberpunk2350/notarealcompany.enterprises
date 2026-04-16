@@ -1,6 +1,6 @@
 # NARC Lore Primer — Section 02: Canonical Org Structure
 
-> **Cross-references:** Section 01 (what NARC is), Section 03 (voice/tone), Section 07 (seals/images — officer portraits)
+> **Cross-references:** Section 01 (what NARC is), Section 03 (voice/tone), Section 07 (seals/images — officer portraits), `_meta/lore-bible/character-bios/` (character lore bios — author-facing)
 
 ---
 
@@ -157,19 +157,19 @@ Author-facing character design documents for all named roster entries. Literary 
 
 | File | Character | Archetype | Status |
 |------|-----------|-----------|--------|
-| `LORE-BIO-DOE-JANE.md` | Jane Doe | The Strategic Abstractionist | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-SMITH-JOHN.md` | John Smith | The Reluctant Fiction Keeper | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-JOHNSON-MARY.md` | Mary Johnson | The Structured Visionary | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-LEE-ROBERT.md` | Robert Lee | The Process Absolutist | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-PARK-LINDA.md` | Linda Park | The Custodian of Procedure | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-PITCHMAN-MAX.md` | Max Pitchman | The Evangelist Without a Product | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-SPARKS-SYLVIA.md` | Dr. Sylvia Sparks | The Prototyping Dispatcher | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-FIREWALL-ALEX.md` | Alex Firewall | The Procedural Absolutist | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-CHEERFUL-CHUCK.md` | Chuck Cheerful | The Affective Systems Engineer | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-WATCHFUL-VICTOR.md` | Victor Watchful | The Institutional Omnipresence | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-ARIA.md` | ARIA v2.1 | The Procedural Witness | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-NARCBREW3000.md` | NARC-Brew 3000 | Infrastructure as Participant | Ratified BR-003v2, 2026-04-14 |
-| `LORE-BIO-[REDACTED]-ITDIRECTOR.md` | Director, ITCRuD | The Infrastructural Constant | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-DOE-JANE.md`](character-bios/LORE-BIO-DOE-JANE.md) | Jane Doe | The Strategic Abstractionist | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-SMITH-JOHN.md`](character-bios/LORE-BIO-SMITH-JOHN.md) | John Smith | The Reluctant Fiction Keeper | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-JOHNSON-MARY.md`](character-bios/LORE-BIO-JOHNSON-MARY.md) | Mary Johnson | The Structured Visionary | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-LEE-ROBERT.md`](character-bios/LORE-BIO-LEE-ROBERT.md) | Robert Lee | The Process Absolutist | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-PARK-LINDA.md`](character-bios/LORE-BIO-PARK-LINDA.md) | Linda Park | The Custodian of Procedure | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-PITCHMAN-MAX.md`](character-bios/LORE-BIO-PITCHMAN-MAX.md) | Max Pitchman | The Evangelist Without a Product | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-SPARKS-SYLVIA.md`](character-bios/LORE-BIO-SPARKS-SYLVIA.md) | Dr. Sylvia Sparks | The Prototyping Dispatcher | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-FIREWALL-ALEX.md`](character-bios/LORE-BIO-FIREWALL-ALEX.md) | Alex Firewall | The Procedural Absolutist | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-CHEERFUL-CHUCK.md`](character-bios/LORE-BIO-CHEERFUL-CHUCK.md) | Chuck Cheerful | The Affective Systems Engineer | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-WATCHFUL-VICTOR.md`](character-bios/LORE-BIO-WATCHFUL-VICTOR.md) | Victor Watchful | The Institutional Omnipresence | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-ARIA.md`](character-bios/LORE-BIO-ARIA.md) | ARIA v2.1 | The Procedural Witness | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-NARCBREW3000.md`](character-bios/LORE-BIO-NARCBREW3000.md) | NARC-Brew 3000 | Infrastructure as Participant | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-[REDACTED]-ITDIRECTOR.md`](character-bios/LORE-BIO-[REDACTED]-ITDIRECTOR.md) | Director, ITCRuD | The Infrastructural Constant | Ratified BR-003v2, 2026-04-14 |
 
 **Register warning (ITCRuD Director and Victor Watchful):** Both characters operate at the subtlest register in the roster. Their beats work through implication only. Read the lore bio register warnings before deploying either character.
 
@@ -181,3 +181,7 @@ Author-facing character design documents for all named roster entries. Literary 
 [^4]: Ratified — BR-003 staff-dossiers, 2026-04-10. Incorporates ChatGPT character brief reconciled against site canon; blinking/non-blinking light conflict resolved (Option 2); CTO-COO boundary notes added.
 [^5]: Role confirmed in site source; character assignment uncertain — not yet resolved.
 [^6]: Ratified — BR-003v2 staff-dossiers-continuation, 2026-04-14. Character lore bios incorporated into Section 02; clearance levels ratified for all named non-Founder staff.
+
+---
+
+*Section 02 last updated: BR-003v2 staff-dossiers-continuation, 2026-04-14 — 2026-04-15. Full character roster expanded; clearances ratified; character lore bios sub-section added; all confirmed details from lore bios incorporated.*
