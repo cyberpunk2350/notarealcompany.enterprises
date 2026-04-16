@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (Robert Lee — COO.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 ---
 
@@ -150,6 +150,11 @@ A: Yes, if an operational or process dimension is present — and at NARC, one u
 **For human review:**
 - Clearance level (Indigo) is inferred — consistent with C-suite peer status; flag if ratification changes this
 - The ITCRuD Director subtext is handled identically in the lore bible and this bio — confirm the register is right before this bio is used as a generation source, as getting the subtlety wrong in a document would flatten the beat
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Indigo ratified (D-13)
+- Documentation-as-reality framework, personal minutes index, retroactive process steps, multiple concurrent runbooks — all incorporated into Section 02
+- ITCRuD Director subtext register confirmed correct — do not make explicit in generated content
 
 ---
 

@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (Jane Doe — CEO.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 ---
 
@@ -147,6 +147,13 @@ A: Within the frame of a NARC document, this question does not arise — her eff
 **For human review:**
 - Clearance level (Violet) is confirmed in the dossier as a founding officer assignment — consistent with her being the functional top of the visible org; no conflict
 - The "three-pass" structure is introduced here for the first time as a named pattern — it is consistent with the ChatGPT brief and the site description but has not previously been a named convention; flag if you want to keep it unnamed
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Violet ratified (D-13)
+- Three-pass decision structure confirmed as named pattern; incorporated into Section 02
+- Working/Revised/Final versioning quirk incorporated
+- Second Pass calendar block incorporated
+- HR documentation timing (Park/Doe) incorporated
 
 ---
 

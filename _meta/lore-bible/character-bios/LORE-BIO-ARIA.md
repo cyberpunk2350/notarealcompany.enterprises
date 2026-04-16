@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (ARIA v2.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 ---
 
@@ -152,6 +152,12 @@ A: She preserves all variants. She does not reconcile them. The official record 
 **For human review:**
 - Clearance level (Green) is inferred — operational AI; wide access, no authority; flag if ratification changes this
 - The "request to discontinue recording — non-binding" behavior is canonised here as a specific response pattern — confirm before use in documents where someone tries to stop her recording
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Green ratified (D-13)
+- Non-binding recording request pattern confirmed canonical; no shutdown mechanism; compliance trigger permanently undefined (D-04)
+- Official record/appendix inversion, 0.5-second pause threshold, parallel tracks, Victor arrival logging, Lee re-cataloging observation — all incorporated into Section 02
+- "What constitutes a meeting" remains open (Q-21) — human-authored development item; do not generate
 
 ---
 

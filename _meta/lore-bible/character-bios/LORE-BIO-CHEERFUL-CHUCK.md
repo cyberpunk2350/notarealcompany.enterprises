@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (Chuck Cheerful — Happiness Officer.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 ---
 
@@ -149,6 +149,12 @@ A: No. He logged it as a positive adoption event. His internal morale delta for 
 - Clearance level (Green) is inferred — mid-tier; morale/HR-adjacent but not C-suite; flag if ratification changes this
 - The NARC-Brew 3000 fleet Happy Packets score of 7.2 is introduced here for the first time as a specific figure — confirm before use; it can be adjusted
 - The "absence of complaint as positive indicator" methodology is canonised here — confirm it is the right register (it is played straight, not highlighted)
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Green ratified (D-13)
+- Fleet Happy Packets score 7.2 confirmed (D-07)
+- Absence-of-complaint methodology confirmed canonical; played straight (D-07)
+- Happy Packets dashboard, three-tier attendance taxonomy, imaginary snack ceremony — all incorporated into Section 02
 
 ---
 

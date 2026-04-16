@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (Victor Watchful — Head of Internal Security.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 > **Register warning:** Victor Watchful operates at the same subtle frequency as the ITCRuD Director, and possibly lower. His beats work entirely through implication and stated fact. Explanation collapses the character completely. Every quirk in this bio is effective only if it is written without comment. The FAQ and deployment notes exist primarily to prevent overstatement. Read them before deploying him.
 
@@ -157,6 +157,13 @@ A: Not established. The question has not been raised in any document. This is th
 **For human review:**
 - Clearance level (Indigo) is inferred — security function access by role; flag if ratification changes this
 - The chair behavior (chairs adjacent, never occupied) and the door behavior (already open, no recorded input) are canonised here for the first time as specific observable facts — confirm before use; they are the most overtly supernatural details in the roster and should be used very sparingly
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Indigo ratified (D-13)
+- Chair/door behaviors confirmed as subtext only; plausible deniability maintained; never overtly supernatural; never commented upon (D-03)
+- ARIA meeting start-time discrepancy (records show meeting started slightly before anyone remembers) — incorporated, no explanation offered
+- Pre-informed stakeholder classification, CONTINUITY RECORD logbook, ARIA arrival logging — all incorporated into Section 02
+- Register warning remains active — overstatement kills the character
 
 ---
 

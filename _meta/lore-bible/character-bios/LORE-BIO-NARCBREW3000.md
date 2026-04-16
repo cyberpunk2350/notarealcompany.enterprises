@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (NARC-Brew 3000 — Character Lore Profil.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 > **Classification note:** NARC-Brew 3000 is not personnel. It is infrastructure-as-participant. This bio uses the character design format for consistency with the roster, but its cross-reference table and FAQ reflect its non-human status. It does not have a site profile variant.
 
@@ -154,6 +154,14 @@ A: The security review would address this. The review is outstanding. In the mea
 - Clearance level (Red, provisional) is confirmed in the dossier — provisional pending security review; this is the only provisional clearance in the roster
 - The ADVISORY: format examples are canonised here as specific text strings — the closing advisory (decisions/action items/coffee reserve status) is the most elaborate canonical format; SESSION SUMMARY label is reserved for ARIA exclusively
 - The temperature variance correlated with meeting duration (from the brief) is noted in surface traits but not given a specific canonical range — confirm whether to establish one
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Red (provisional) ratified (D-13)
+- ADVISORY: label confirmed; beverage-scoped only; SESSION SUMMARY belongs to ARIA (D-05) — bio patched
+- Happy Packets fleet score 7.2 confirmed (D-07)
+- Temperature variance: leave unspecified; mutable (D-06)
+- "User surprise optimization", "learning opportunity" labels incorporated into Section 02
+- Closing ADVISORY format (decisions/action items/coffee reserves) confirmed as canonical closing format
 
 ---
 

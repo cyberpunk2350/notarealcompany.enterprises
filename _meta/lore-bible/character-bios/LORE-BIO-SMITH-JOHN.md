@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (John Smith — CFO.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 ---
 
@@ -149,6 +149,11 @@ A: Like Johnson, there is a meaningful gap. His approval means the cost is accep
 **For human review:**
 - Clearance level (Indigo) is inferred — consistent with C-suite peer status; flag if ratification changes this
 - The "does this cost money" simplification is explicitly retired in the FAQ — confirm this is the right call before finalising, as it's a retcon of early session usage
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Indigo ratified (D-13)
+- "Does this cost money" — confirmed as informal register template only; derivatives acceptable; do not overplay (D-01)
+- Cost-awareness register, Pending Reconciliations spreadsheet, Adjustment line item, Monopoly Money Reserve incorporated into Section 02
 
 ---
 

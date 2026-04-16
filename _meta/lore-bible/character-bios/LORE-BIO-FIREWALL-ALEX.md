@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (Alex Firewall - CISO.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 > **Pronoun note:** Alex Firewall uses he/him and they/them — both are valid at any point. He presents as masculine. No consistency requirement between or within documents.
 
@@ -154,6 +154,13 @@ He/him and they/them are both canonical. Alex Firewall presents as masculine. Ei
 **For human review:**
 - Clearance level (Indigo) is inferred — security clearance inherent to CISO role; flag if ratification changes this
 - The objection format (statement / risk classification / anticipated response pre-filled as "proceed regardless" / follow-up slot) is canonised here for the first time as a specific structure — confirm before use in generated change requests or incident documents
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Indigo ratified (D-13)
+- 4-field objection format confirmed canonical (D-10)
+- Outstanding Review Register, filed/open distinction, "systems that should not exist but do" index — all incorporated into Section 02
+- Firewall/ITCRuD dynamic confirmed as unnamed observed behavior (D-02)
+- Packet-sniffing ferret status: canonical unresolved, will not be established
 
 ---
 

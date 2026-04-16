@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (Max Pitchman — Head of Marketing.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 ---
 
@@ -151,6 +151,12 @@ A: Yes — this is the signature contradiction and it is canonical. It should ne
 **For human review:**
 - Clearance level (Blue) is inferred — department head, non-critical-infrastructure domain; this is the only non-Indigo C-suite-adjacent assignment in the roster; flag if ratification changes it
 - The "technically accurate from a brand perspective" line is canonised here as a precise qualifier with a specific meaning — confirm before use as a recurring beat
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Blue ratified (D-13) — only non-Indigo C-suite-adjacent assignment; confirmed
+- "Technically accurate from a brand perspective" confirmed as canonical recurring qualifier with variation rule (D-12)
+- Pre-Approved Taglines folder, Buzzword Optimization Tracker, initiative name taxonomy — all incorporated into Section 02
+- Departments-adopt-his-framing beat confirmed canonical; implied structurally only, never stated directly
 
 ---
 

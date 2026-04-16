@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (Dr. Sylvia Sparks — R&D Head.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 ---
 
@@ -153,6 +153,12 @@ A: Yes — as a recurring action item that is submitted quarterly regardless of 
 - Clearance level (Indigo) is inferred — R&D heads classified projects; flag if ratification changes this
 - The 34-page combined incident thread count is introduced here as a design detail — it is not canonical until confirmed; flag if you want it removed or adjusted
 - The "FOR SCIENCE (RETROSPECTIVE CONFIRMATION REQUIRED)" rationale field entry is canonised here for the first time as a specific text string — confirm before use
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Indigo ratified (D-13)
+- 34-page incident thread count confirmed as canonical design detail; mutable (D-08)
+- "FOR SCIENCE (RETROSPECTIVE CONFIRMATION REQUIRED)" confirmed as canonical rationale field string with variation rule (D-09)
+- Successful accidents index, prototype name versioning, 50-page threshold as design ceiling — all incorporated into Section 02
 
 ---
 

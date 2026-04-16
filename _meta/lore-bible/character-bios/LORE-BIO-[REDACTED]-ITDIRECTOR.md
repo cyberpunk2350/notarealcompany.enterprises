@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (ITCRuD Director.md) reconciled against site canon, BR-003 dossier, and lore bible Section 02 beats
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 > **Register warning:** This character operates at a subtler frequency than any other in the roster. His lore beats work through implication, not statement. Any document that makes the subtext explicit has broken the character. The FAQ and lore flags sections of this bio exist primarily to prevent that. Read them before deploying him.
 
@@ -158,6 +158,14 @@ A: Rarely. He is a systems character — his presence outside infrastructure con
 - The dossier filename was updated to `DOSSIER-VIOLET-[REDACTED]-ITDIRECTOR.md` — the staff index should be checked for consistency
 - Clearance level (Indigo, file Violet) is confirmed by human input in BR-003 — this is the only confirmed clearance in the roster aside from the Founder
 - The "over-documented equilibrium state" with Firewall is introduced here for the first time as a named dynamic — flag if you want it to remain unnamed, consistent with how other subtext is handled in this character
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Indigo (file Violet) confirmed — BR-003 human input; ratified D-13
+- "Over-documented equilibrium state" naming resolved: unnamed; describe observed behavior only (D-02)
+- Documentation style note (over-specified, legacy naming conventions) incorporated into Section 02
+- Firewall/ITCRuD dynamic incorporated as unnamed observed behavior
+- Dossier filename `DOSSIER-VIOLET-[REDACTED]-ITDIRECTOR.md` — confirmed; staff index updated BR-003
+- Register warning remains active — a single overstatement collapses this character entirely
 
 ---
 

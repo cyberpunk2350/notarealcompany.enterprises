@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (Mary Johnson - CTO.md) reconciled against site canon and BR-003 inline lore development
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 > **Template note:** This is the first lore bio produced and serves as the format reference for the full roster. Flag anything in the structure or depth that should be adjusted before the next character is written.
 
@@ -154,6 +154,12 @@ A: She consumes coffee. She has not commented publicly on the fleet. If a unit i
 **For human review:**
 - Clearance level (Indigo) is inferred, not confirmed — update this file when ratified
 - The "secretly fond of blinking status lights (non-blinking variant)" site description is canonically reconciled as: she is fond of status lights specifically in the non-blinking state — do not reopen this
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Indigo ratified (D-13)
+- Non-interference threshold (50-page ceiling) confirmed as design detail only
+- Sparks relationship note incorporated; Firewall relationship incorporated
+- Blinking/non-blinking resolution confirmed — BR-003, do not reopen
 
 ---
 

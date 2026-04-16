@@ -4,7 +4,7 @@
 **Source:** ChatGPT Character Brief (Linda Park — HR Director.md) reconciled against site canon and BR-003 dossier
 **Last Updated:** 2026-04-11
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — pending human review
+**Status:** Ratified — BR-003v2, 2026-04-14
 
 ---
 
@@ -151,6 +151,13 @@ A: Yes. She waits for the correct form submission before acknowledging awareness
 **For human review:**
 - Clearance level (Indigo) is inferred — consistent with HR Director having access to all personnel files; flag if ratification changes this
 - The self-referential HR file access loop is noted in core design — confirm this is the right register for that detail (it's played straight, not highlighted)
+
+**Ratification status — BR-003v2, 2026-04-14:**
+- Clearance Indigo ratified (D-13)
+- Email prefix definitions [ACTION REQUIRED] / [REMINDER] / [FINAL REMINDER] confirmed canonical (D-11)
+- Open exposure, retroactive calendar invites, "arrived but did not meaningfully engage", pre-prepared forms — all incorporated into Section 02
+- HR documentation timing vis-à-vis Doe incorporated
+- Self-referential HR loop register confirmed — played straight
 
 ---
 
