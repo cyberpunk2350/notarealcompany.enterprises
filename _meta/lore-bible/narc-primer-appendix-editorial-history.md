@@ -244,6 +244,16 @@ Documentation style note added: over-specified by habit; configuration notes may
 
 ---
 
+## BR-003v3 — Staff Dossiers Final (2026-04-17)
+
+**Dossier verification — clean**
+All 15 dossiers in `assets/docs/hr/staff/` scanned against D-01 through D-13 decision outcomes. No violations found. One maintenance issue identified and resolved: `DOSSIER-INDIGO-SPARKS-SYLVIA.md` contained a stale `[PENDING: CTO relationship notes pending Johnson dossier development.]` bracket note in the Mary Johnson Known Associates field, carried over from before the CTO dossier was completed in BR-003. Replaced with ratified CTO relationship notes consistent with Section 02 and LORE-BIO-SPARKS-SYLVIA.md. Committed `e05be43`, BR-003v3, 2026-04-17.
+
+**Lore FAQ authored — Appendix G**
+Author-facing plain-English reference document created: `narc-primer-appendix-lore-faq.md`. Covers all foundational NARC concepts in ten sections: what NARC is, The Computer, clearance levels, ITCRuD, Happy Packets, ARIA, the Founder, NARC-Brew 3000, the homelab, and the humor mechanics. Explicitly author-facing — no in-universe voice. The one place in the lore bible that explains the joke directly. Added to index as Appendix G; BR-003v3 entry added to branch reference table. Parking lot Lore FAQ item marked complete; In-universe FAQ unblocked. BR-003v3, 2026-04-17.
+
+---
+
 # BR-001 Issues Register — Archived
 
 All 31 issues raised during the lore-consolidation review. All resolved. Transferred from `narc-primer-index.md` during production conversion.

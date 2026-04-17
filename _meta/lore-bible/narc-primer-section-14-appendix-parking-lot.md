@@ -20,8 +20,8 @@ Items explicitly scoped and parked pending external conditions.
 | PR-2026-002 Supplemental Purchase Request | Session 09 | Template exists. Candidates: Datto S4P2 M.2 NVMe, drive caddies, ECC RAM, pve4/pve6 hardware. |
 | NARC website blog section build | Session 09 / BR-004 | 12 posts exist. Interim path: `blogs/` from root. Final path and section design owned by BR-004. |
 | Stale image reference fix — R&D-SystemDesign-Internal-MediaMCPServers.md | Session 08 | §3: `architecture-placeholder.svg` → `architecture-mediamcpservers.svg`. BR-002 action. |
-| Lore FAQ — author-facing | BR-003 parking lot | What is NARC, what are Happy Packets, etc. Author-facing reference. Priority: next branch after BR-003v2 closeout. |
-| In-universe FAQ — site-renderable | BR-003 parking lot | Derived from Lore FAQ; NARC voice. Blocked by: Lore FAQ first. |
+| ~~Lore FAQ — author-facing~~ | BR-003 parking lot | **Complete — BR-003v3, 2026-04-17.** `narc-primer-appendix-lore-faq.md` (Appendix G). |
+| In-universe FAQ — site-renderable | BR-003 parking lot | Derived from Lore FAQ; NARC voice. Lore FAQ now complete — this item is unblocked. |
 | ARIA — "what constitutes a meeting" development | BR-003v2 Q-21 | Human-authored lore beat. Includes no-shutdown-path thread (D-04). Do not generate. |
 | lore-build cleanup — original lore bio files | BR-003v2 | Files at `narc-lore-build/branchs/BR-003 - Staff Dossiers/Lore Bios/` superseded by `_meta/lore-bible/character-bios/`. HITL archiving/removal. |
 | Dossier file rename scheme (CF-001) | BR-003 | Naming convention conflict; isolated in `assets/docs/hr/staff/`; human decision pending. |
