@@ -2,7 +2,7 @@
 **Type:** Author-facing character design document
 **Format:** Lore Bio v1
 **Source:** Human character brief (2026-04-13); Gemini bio `TheCat.md` reviewed — partial adoption with adjustments; Lore Bible Section 02 (org structure, ARIA, NARC-Brew 3000 as precedent for non-human roster entries)
-**Last Updated:** 2026-04-17
+**Last Updated:** 2026-04-18
 **Filed Under:** Lore Bible Section 02 expansion
 **Status:** Draft — BR-003v3, 2026-04-17. Pending human ratification.
 
@@ -29,7 +29,7 @@ The NARC-Brew 3000 provides the structural precedent: a non-human entity with a 
 
 ### The HR File
 
-Unit-FELIS holds NARC personnel file NARC-HR-DOSSIER-015-FELIS (provisional numbering; exact reference pending HR confirmation). The onboarding form was completed with full field accuracy. The file exists in the HR system. It carries the standard institutional seal.
+Unit-FELIS holds NARC personnel file NARC-HR-DOSSIER-017. The onboarding form was completed with full field accuracy. The file exists in the HR system. It carries the standard institutional seal.
 
 Linda Park's position on the file is that she did not create it, does not endorse the circumstances of its creation, and has noted that the cat's onboarding documentation is more completely filed than a non-trivial portion of current human staff. She has not specified what percentage. She considers this a Human Resources observation, not a Human Resources endorsement. The file is maintained with full administrative accuracy. This is HR policy applied consistently to all files in the system.
 
