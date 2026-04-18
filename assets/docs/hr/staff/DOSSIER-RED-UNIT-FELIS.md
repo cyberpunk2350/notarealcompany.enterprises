@@ -19,6 +19,7 @@
 | Field | Value |
 |-------|-------|
 | Full Name | Unit-FELIS |
+| Also Known As | "The Cat" — informal designation used in all pre-onboarding correspondence; retired upon formal file creation but remains in common use |
 | Preferred Designation | Unit-FELIS |
 | Title | Biological Persistence Anomaly |
 | Department | Unassigned |
@@ -86,9 +87,41 @@ General staff awareness of the payroll entry is broader than HR would prefer. De
 
 ### INCIDENT HISTORY
 
-No formal incidents on file attributable to Unit-FELIS.
+**Pre-Onboarding Correspondence Record (summarized)**
 
-The CISO has noted that the absence of documented incidents does not constitute evidence of the absence of incidents. This notation is in the Outstanding Review Register. Unit-FELIS has not responded.
+The period prior to formal onboarding generated a volume of interdepartmental correspondence that HR considers disproportionate to the subject matter. A summary is provided below. Full correspondence is on file. Access requires HR Director approval.
+
+**INC-FELIS-001 — Initial Facility Report**
+A staff member submitted a query to Facilities via the standard ticketing system requesting clarification on whether a cat had been authorized for the premises and, if so, which department was responsible. Facilities confirmed no authorization had been issued and referred the matter to HR. HR acknowledged receipt. The cat remained on the premises.
+
+**INC-FELIS-002 — All-Staff Notice**
+HR issued a brief all-staff notice advising that an animal had been observed in the facility and requesting that staff refrain from feeding it, as this would encourage continued presence. The notice was acknowledged by a majority of staff. Feeding continued. The cat continued to be present.
+
+**INC-FELIS-003 — Follow-Up Notice**
+HR issued a follow-up notice reiterating the guidance from INC-FELIS-002. The notice was more specific in tone. It noted that the previous notice had been acknowledged and that the behavior it addressed had continued regardless, and expressed the expectation that staff would apply the guidance going forward. Eleven staff members replied to express that the cat appeared to be hungry. HR noted these replies. Feeding continued.
+
+**INC-FELIS-004 — Escalation to Department Heads**
+The matter was escalated to department heads with a request to identify whether any department had authorized or encouraged the animal's presence and to confirm whether any staff within their department were responsible for its continued appearance. No department claimed responsibility. Max Pitchman's response suggested that the cat's presence might represent a brand opportunity pending further review. This response was filed. The suggestion was not acted upon. The matter was referred back to HR.
+
+**INC-FELIS-005 — Facilities Assessment**
+Facilities conducted an assessment to determine likely entry points. The assessment identified three possible vectors. All three were addressed through standard maintenance procedures. The cat continued to appear in the facility. Whether these are the same three vectors or additional ones was not established. Facilities has not submitted a follow-up assessment.
+
+**INC-FELIS-006 — CISO Query**
+Alex Firewall submitted a formal query requesting confirmation of whether the animal had been assessed for network-adjacent risk given observed proximity to active workstations and cable infrastructure. The query was acknowledged. No assessment was conducted. The query was added to the Outstanding Review Register. It remains open.
+
+**INC-FELIS-007 — Happy Packets Assessment**
+Chuck Cheerful submitted an unsolicited morale assessment noting that the cat's presence had produced a measurable positive effect on staff wellbeing indicators over the preceding two-week period. The assessment assigned a preliminary Happy Packets score of 7.8. HR noted the assessment. HR did not adopt it as a basis for policy. Feeding continued.
+
+**INC-FELIS-008 — Third and Final Notice**
+HR issued a third notice. The tone was final. It noted that previous notices had been issued and acknowledged, that the behaviors addressed by those notices had continued without change, and that the matter was being escalated to the attention of the Leadership Council. The notice did not specify what escalation to the Leadership Council would produce. The cat was present in the meeting where the Leadership Council reviewed the matter. ARIA logged its attendance. This was not addressed in the meeting record. It is in the appendix.
+
+**INC-FELIS-009 — Leadership Council Review**
+The matter was reviewed at the Leadership Council level. The outcome of the review was that the situation would be monitored and addressed through appropriate channels at the appropriate time. No timeline was specified. No responsible party was assigned. The matter was returned to HR. Jane Doe noted, separately and not for the formal record, that the cat appeared to have good instincts about the infrastructure planning discussion it had sat through. This observation was not attributed to her in any formal document. It is noted here for completeness.
+
+**INC-FELIS-010 — Onboarding File Creation**
+At a date subsequent to INC-FELIS-009, a personnel onboarding form for Unit-FELIS was submitted to HR through standard channels with complete field accuracy. The form was processed. The file was created. The correspondence volume regarding the cat's unauthorized facility presence declined to zero following this event and has not resumed.
+
+The cat is now Unit-FELIS. The matter is considered administratively closed. The CISO's outstanding review (INC-FELIS-006) remains open. The payroll anomaly (see above) was not present in the record prior to onboarding and appeared subsequently. Its relationship to the onboarding process has not been formally investigated.
 
 ---
 
@@ -103,6 +136,8 @@ The CISO has noted that the absence of documented incidents does not constitute 
 ### ASSESSOR NOTES
 
 Unit-FELIS maintains a continuous facility presence that the record supports with consistency across multiple session logs, payroll entries, and at least one Happy Packets assessment. The onboarding file is complete. The payroll anomaly is unresolved. The security review is outstanding.
+
+The pre-onboarding correspondence record documents a sustained institutional effort to address the situation that produced no change in the underlying situation and concluded, eventually, with the situation being formalized. The assessor has no further comment on this trajectory.
 
 The assessor notes that Unit-FELIS was present in the corridor outside this office during the preparation of these notes. They appeared comfortable. This has been noted.
 
