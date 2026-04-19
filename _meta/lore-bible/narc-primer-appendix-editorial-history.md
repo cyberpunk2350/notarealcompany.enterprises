@@ -252,6 +252,20 @@ All 15 dossiers in `assets/docs/hr/staff/` scanned against D-01 through D-13 dec
 **Lore FAQ authored — Appendix G**
 Author-facing plain-English reference document created: `narc-primer-appendix-lore-faq.md`. Covers all foundational NARC concepts in ten sections: what NARC is, The Computer, clearance levels, ITCRuD, Happy Packets, ARIA, the Founder, NARC-Brew 3000, the homelab, and the humor mechanics. Explicitly author-facing — no in-universe voice. The one place in the lore bible that explains the joke directly. Added to index as Appendix G; BR-003v3 entry added to branch reference table. Parking lot Lore FAQ item marked complete; In-universe FAQ unblocked. BR-003v3, 2026-04-17.
 
+**Supporting cast lore bios — Gemini review and ratification**
+Four supporting cast lore bios produced and ratified from Gemini bio sources reviewed against established canon. All incorporated into Section 02; bio register extended to 17 entries. BR-003v3, 2026-04-18.
+
+*[REDACTED] Founder:* Ghost story framing confirmed canonical. Dossier NARC-HR-DOSSIER-013 established as the only physical institutional evidence of the Founder's existence. Three `[REDACTED]` Known Associates rows noted as lore detail. Development items A-01 through A-05 flagged for founding page session. Gemini bio substantially rejected (converted Founder from absent mythology to active presence). Ratified BR-003v3, 2026-04-18.
+
+*The Computer:* Passive institutional constant framing confirmed. Seal-as-only-output confirmed. "What The Computer Is Not" constraint list ratified: does not override Outstanding Review Register; does not normalize Watchful anomalies; does not retroactively legitimize R&D accidents; does not have established Founder relationship. "Bureaucratic gravity" as design concept adopted from Gemini bio; mechanization proposals rejected. Development items B-01 through B-05 flagged. Ratified BR-003v3, 2026-04-18.
+
+*Mortimer Chalk — Official Historian:* New character. Yellow clearance. Primary deliverable: NARC company founding page. Completeness paradox as central character tension. Founding page properties established: accurate at Yellow clearance; structurally incomplete; subtly wrong in undiscoverable ways; unknowingly significant in places. Designated founding page author (human-confirmed). UNK start date treated as believed filing error — do not resolve. Dossier `DOSSIER-YELLOW-CHALK-MORTIMER.md` produced. Ratified BR-003v3, 2026-04-18.
+
+*Unit-FELIS — The Cat:* New character. Red (provisional) clearance. AKA "The Cat." Pre-onboarding correspondence arc INC-FELIS-001 through 011 established and ratified. Payroll anomaly permanent and unresolved. ARIA "where appropriate" judgment criteria unspecified — canonical. Watchful / adjacent chair (three documented occasions) ratified. Arrival "not established" parallel with Watchful ratified (appendix only). Departmental concerns established with distinct scopes: Watchful/Internal Security — access control; Firewall/CISO — input device proximity; Lee+ITCRuD Director — equipment proximity and ticket trend monitoring. Dossier `DOSSIER-RED-UNIT-FELIS.md` produced. Ratified BR-003v3, 2026-04-18.
+
+**Narrative consistency review — added to parking lot**
+Full cross-character review of all bios, dossiers, profiles, and Section 02 for consistency within the larger narrative flagged as a required task before any major content expansion. Priority: before founding page session. BR-003v3, 2026-04-18.
+
 ---
 
 # BR-001 Issues Register — Archived
