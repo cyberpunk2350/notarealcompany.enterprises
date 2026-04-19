@@ -1,4 +1,4 @@
-# ![NARC Banner](../images/narc-banner.svg)
+# ![NARC Banner](../../images/narc-banner.svg)
 
 ---
 
@@ -13,8 +13,8 @@
 | **CC:** | Robert Lee, COO; Alex Firewall, CISO |
 | **RE:** | Infrastructure Refresh 2026-001 — Storage Architecture and Network Allocation |
 | **DATE:** | 2026-03-21 |
-| **CLASSIFICATION:** | ![Internal](../images/seals/internal.svg) INTERNAL — Red Clearance and Above |
-| **APPROVED BY:** | ![Approved by the Computer](../images/seals/approved-by-computer.svg) |
+| **CLASSIFICATION:** | ![Internal](../../images/seals/internal.svg) INTERNAL — Red Clearance and Above |
+| **APPROVED BY:** | ![Approved by the Computer](../../images/seals/approved-by-computer.svg) |
 
 **Summary:** ZFS pool layout for the primary media pool has been ratified as RAIDZ2 (6-wide, ~104TB usable). The secondary sensitive data pool will use mirror pairs at installation time. The PERC H710 D1 Mini has been flashed to IT mode using the fohdeesha crossflash guide. NIC allocation assigns the 10GbE port 1 to TrueNAS VM passthrough. All decisions are recorded in Architecture Decision Records ADR-002 through ADR-005. The vdev layout is permanent. This has been noted in at least four separate documents now.
 

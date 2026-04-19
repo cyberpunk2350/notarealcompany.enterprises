@@ -1,4 +1,4 @@
-# ![NARC Banner](../images/narc-banner.svg)
+# ![NARC Banner](../../images/narc-banner.svg)
 
 ---
 
@@ -13,8 +13,8 @@
 | **CC:** | Robert Lee, COO; Mary Johnson, CTO |
 | **RE:** | Infrastructure Refresh 2026-001 — Phase 1 Status and Platform Selection Summary |
 | **DATE:** | 2026-03-21 |
-| **CLASSIFICATION:** | ![Internal](../images/seals/internal.svg) INTERNAL — Red Clearance and Above |
-| **APPROVED BY:** | ![Approved by the Computer](../images/seals/approved-by-computer.svg) |
+| **CLASSIFICATION:** | ![Internal](../../images/seals/internal.svg) INTERNAL — Red Clearance and Above |
+| **APPROVED BY:** | ![Approved by the Computer](../../images/seals/approved-by-computer.svg) |
 
 **Summary:** The IT department's primary storage infrastructure has been designated a Legacy Optimization Opportunity and is being replaced. A Dell PowerEdge R720xd has been procured, Proxmox VE 9 is installed, and the storage controller has been configured. Platform selection has been completed: TrueNAS SCALE running as a Proxmox VM with PCIe passthrough. An AI planning consultant was engaged. It performed adequately. This memo summarizes the decisions made; the full technical narrative follows below for those who wish to understand why.
 

@@ -1,9 +1,9 @@
 # NARC Infrastructure Refresh 2026-001 — Post 3: On the Establishment of Documentation Standards, Governance Frameworks, and the Formal Engagement of an Artificial Intelligence Planning Consultant
 
-**DOCUMENT CLASSIFICATION:** Internal — Mandatory Reading
-**ISSUING DEPARTMENT:** Infrastructure & Computational Resources Division (ICRD), in coordination with the NARC Knowledge Management Office
-**DOCUMENT STATUS:** Approved. Reading is not optional. Comprehension is encouraged but not enforced.
-**CLEARANCE REQUIRED:** All clearance levels. Infrared citizens may find this document confusing. This is expected.
+**DOCUMENT CLASSIFICATION:** Internal — Mandatory Reading<br>
+**ISSUING DEPARTMENT:** Infrastructure & Computational Resources Division (ICRD), in coordination with the NARC Knowledge Management Office<br>
+**DOCUMENT STATUS:** Approved. Reading is not optional. Comprehension is encouraged but not enforced.<br>
+**CLEARANCE REQUIRED:** All clearance levels. Infrared citizens may find this document confusing. This is expected.<br>
 
 ---
 

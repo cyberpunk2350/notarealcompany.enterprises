@@ -1,4 +1,4 @@
-# ![NARC Banner](../images/narc-banner.svg)
+# ![NARC Banner](../../images/narc-banner.svg)
 
 ---
 
@@ -13,8 +13,8 @@
 | **CC:** | Robert Lee, COO; Dr. Sylvia Sparks, Head of R&D |
 | **RE:** | Infrastructure Refresh 2026-001 — Project Documentation Standards and AI Consultant Review |
 | **DATE:** | 2026-03-21 |
-| **CLASSIFICATION:** | ![Internal](../images/seals/internal.svg) INTERNAL — Red Clearance and Above |
-| **APPROVED BY:** | ![Approved by the Computer](../images/seals/approved-by-computer.svg) |
+| **CLASSIFICATION:** | ![Internal](../../images/seals/internal.svg) INTERNAL — Red Clearance and Above |
+| **APPROVED BY:** | ![Approved by the Computer](../../images/seals/approved-by-computer.svg) |
 
 **Summary:** A structured documentation framework has been established for Infrastructure Refresh 2026-001, comprising a Gitea project repository, Architecture Decision Records, a phased project plan, and a session continuity protocol. An AI planning consultant was engaged and produced measurable value, particularly in identifying gaps in ITCRuD's assumptions before they became operational problems. This memo summarizes the framework; the narrative below provides context for why it exists and how it actually worked.
 

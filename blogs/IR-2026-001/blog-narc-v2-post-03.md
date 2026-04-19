@@ -1,15 +1,15 @@
-# ![NARC Banner](../images/narc-banner.svg)
+# ![NARC Banner](../../images/narc-banner.svg)
 
 # IT Operations Report — Project Documentation Standards and AI Consultant Engagement Review
 ## NARC Infrastructure Refresh 2026-001: Governance, Knowledge Management, and Lessons Noted
 
-**Document Owner:** IT Operations — Computational Resources & Uptime Division (ITCRuD)
-**IT Director:** [REDACTED]
-**Reviewed By:** Robert Lee, COO / Dr. Sylvia Sparks, Head of R&D
-**Approved By:** ![Approved by the Computer](../images/seals/approved-by-computer.svg)
-**Version:** 1.0
-**Date:** 2026-03-21
-**Classification:** ![Internal](../images/seals/internal.svg) INTERNAL — Red Clearance and Above
+**Document Owner:** IT Operations — Computational Resources & Uptime Division (ITCRuD)<br>
+**IT Director:** [REDACTED]<br>
+**Reviewed By:** Robert Lee, COO / Dr. Sylvia Sparks, Head of R&D<br>
+**Approved By:** ![Approved by the Computer](../../images/seals/approved-by-computer.svg)<br>
+**Version:** 1.0<br>
+**Date:** 2026-03-21<br>
+**Classification:** ![Internal](../../images/seals/internal.svg) INTERNAL — Red Clearance and Above<br>
 
 ---
 
