@@ -124,9 +124,12 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 - Senior management does not refer to them. As far as the org chart is concerned, the CEO is at the top.
 - Rumors of an office exist. No one has ever seen it.
 - If the Founder is ever referenced in documents, deflect: "not around anymore," vague, handwavy
+- **The dossier as evidence:** NARC-HR-DOSSIER-013 exists in the HR registry. It is the only piece of physical institutional evidence that the Founder is real. Everything else is rumor or inference. The dossier is almost entirely `[REDACTED]`. Someone filed it. HR has a form for it. In a universe where everything that is real gets filed, the dossier's presence is the closest thing to a confirmed sighting that any accessible clearance level provides.[^7]
+- **Known Associates:** Three rows in the dossier, all `[REDACTED]`. Classified above Ultraviolet. The presence of exactly three rows implies at least three significant institutional relationships exist or existed. Do not speculate on who they are.
+- **Founding page:** Canonical appearance for lore development. Framing: institutional record of the founding, heavily redacted, told through what is missing. Chalk is the designated author.[^7]
 - **Canonical appearance:** the founding/history page only (TBD)
 - **Distinct `[REDACTED]` identity** from the ITCRuD Director — do not conflate; context determines which is meant
-- Full lore profile work-up is a parking lot item for the character profile branch
+- Full lore bio: `LORE-BIO-[REDACTED]-FOUNDER.md` — ratified BR-003v3, 2026-04-18[^7]
 
 ### The Computer
 
@@ -134,11 +137,22 @@ The `approved-by-computer.svg` seal exists in `images/seals/`, and approval bloc
 
 **Nature of The Computer:**[^3] Omnipresent. Visible in every seal and approval. Never named aloud. The Computer permeates everything — documents, stamps, approval blocks — but no employee ever directly acknowledges it by name. Everyone knows it is there; no one will admit it out loud. Naming it directly is avoided, as if doing so might cause it to manifest. It functions as a dark urban legend embedded in corporate bureaucracy.
 
+**Design rule:** The Computer is a *passive institutional constant* — it does not act; things act in its name. It is not a character with mechanics, relationships, or opinions. The seal is its only legible output. The moment it is mechanized — overriding registers, normalizing anomalies, retroactively legitimizing accidents — it collapses from atmosphere into plot device. Do not mechanize it.[^7]
+
+**What The Computer is not (key constraints):**[^7]
+- Does not override Firewall's Outstanding Review Register
+- Does not normalize Watchful's anomalies
+- Does not retroactively legitimize R&D accidents
+- Does not speak, send messages, or produce outputs other than the seal
+- Does not have an established relationship with the Founder
+
 Canonical usage:
 
 - `approved-by-computer.svg` seal in approval blocks and Approvals tables[^1] — valid as a structural/meta-reference
 - The Computer row in Approvals tables — valid as a structural reference
 - Direct verbal invocation by employees — **not permitted**
+
+Full lore bio: `LORE-BIO-THE-COMPUTER.md` — ratified BR-003v3, 2026-04-18[^7]
 
 ### Roles Referenced in README (not in leadership.html)
 
@@ -146,6 +160,40 @@ The `README.md` mentions two roles in the contributing section.[^1]
 
 - **Happiness Officer** — "Pull requests will be routed through the Happiness Officer…" — confirmed as Chuck Cheerful[^1]
 - **Internal Security Bureaucrat** — mentioned alongside Happiness Officer in README contributing section — not mapped to a named character[^5]
+
+---
+
+### Mortimer Chalk — Official Historian[^7]
+
+- **Clearance: Yellow** — above general staff; well below anything historically significant
+- **Title:** Official Historian / Office of Institutional Memory
+- **Employee ID:** NARC-016
+- **Primary deliverable:** The NARC company founding page — his voice, accurate at Yellow clearance, structurally incomplete, subtly wrong in ways he cannot know, unknowingly significant in places
+- **Archetype:** The Sincere Reconstructor — earnest, experienced, methodical; treats `[REDACTED]` blocks as archival challenges, not warnings
+- **The completeness paradox:** Tasked with the best possible historical record while structurally barred from the information that would make it accurate. This is not a problem he can solve. It is the condition he works within.
+- **Method:** Primarily oral history sessions; staff talk to Chalk because he is clearly not a compliance function. Also cross-references secondary sources and infers from the shape of redactions.
+- **The UNK problem:** Believes the ITCRuD Director's NARC-000 / UNK start date is a data entry error. Has submitted three HR requests to resolve it. All acknowledged. None resolved. Chalk considers this progress. Do not resolve it.
+- **"Interesting Miscellaneous" folder:** A physical folder in his filing system. HR is monitoring. Contents undefined — not for generation.
+- **Inadvertent danger:** The only person at NARC whose explicit job is to connect dots. Does not know he is dangerous. Is too busy being interested.
+- **Physical artifacts:** Works with paper, annotated hard copies, fountain pen. Not affectation — old documents come in old formats.
+- Dossier: `DOSSIER-YELLOW-CHALK-MORTIMER.md` | Lore bio: `LORE-BIO-HISTORIAN.md`
+
+---
+
+### Unit-FELIS — The Cat[^7]
+
+- **Clearance: Red (provisional)** — pending security review; consistent with NARC-Brew 3000 precedent
+- **AKA:** "The Cat" — informal designation used in all pre-onboarding correspondence; retired upon formal file creation but remains in common use
+- **Employee ID:** NARC-017 | **Status:** Active — Permanent Provisional Associate
+- **Origin:** A low-level HR employee filled out Form HR-ONB-001 for the cat because it would be funny. The form was submitted with complete field accuracy. It went through the system. It acquired a seal. It is now in the record.
+- **The institutional situation:** There have been emails. There have been memos. The correspondence generated ten incident entries (INC-FELIS-001 through 011) before concluding in onboarding. The cat remains. The file remains. The payroll record remains. None of these three problems has been resolved.
+- **Payroll anomaly:** A recurring payroll entry for Unit-FELIS appears in Finance. No money is moving. Smith has noted it. He cannot remove it. It is in his Pending Reconciliations spreadsheet under a category he has not named externally. Do not resolve this.
+- **ARIA logging:** Logs Unit-FELIS where she determines appropriate; criteria unspecified. Arrival is sometimes "not established" — determined to be present by other means after the fact. ARIA has noted this is consistent with at least one other entity in the facility. The observation is in the appendix.
+- **Departmental concerns (distinct scopes):** Watchful / Internal Security — access control pattern (INC-FELIS-006a); Firewall / CISO — input device proximity (INC-FELIS-006); Lee + ITCRuD Director — equipment proximity and ticket trend monitoring (INC-FELIS-008)
+- **Watchful adjacency:** Occupies the chair adjacent to Watchful in his security office on documented occasions. Watchful does not acknowledge this. The cat does not appear troubled. Both facts are in the record, uncommented upon.
+- **The Brew 3000 precedent:** Non-human entity with a personnel file, clearance level, and HR registry entry. The Brew 3000's security review is outstanding; Unit-FELIS has a clean record and no open review — technically stronger institutional position than the coffee machines.
+- Never a cute name in any document. The absence of a cute name is part of the joke.
+- Dossier: `DOSSIER-RED-UNIT-FELIS.md` | Lore bio: `LORE-BIO-UNIT-FELIS.md`
 
 ---
 
@@ -170,6 +218,10 @@ Author-facing character design documents for all named roster entries. Literary 
 | [`LORE-BIO-ARIA.md`](character-bios/LORE-BIO-ARIA.md) | ARIA v2.1 | The Procedural Witness | Ratified BR-003v2, 2026-04-14 |
 | [`LORE-BIO-NARCBREW3000.md`](character-bios/LORE-BIO-NARCBREW3000.md) | NARC-Brew 3000 | Infrastructure as Participant | Ratified BR-003v2, 2026-04-14 |
 | [`LORE-BIO-[REDACTED]-ITDIRECTOR.md`](character-bios/LORE-BIO-[REDACTED]-ITDIRECTOR.md) | Director, ITCRuD | The Infrastructural Constant | Ratified BR-003v2, 2026-04-14 |
+| [`LORE-BIO-[REDACTED]-FOUNDER.md`](character-bios/LORE-BIO-[REDACTED]-FOUNDER.md) | [REDACTED] Founder | The Prime Mover (Absent) | Ratified BR-003v3, 2026-04-18 |
+| [`LORE-BIO-THE-COMPUTER.md`](character-bios/LORE-BIO-THE-COMPUTER.md) | The Computer | The Infinite Arbiter (Structural) | Ratified BR-003v3, 2026-04-18 |
+| [`LORE-BIO-HISTORIAN.md`](character-bios/LORE-BIO-HISTORIAN.md) | Mortimer Chalk | The Sincere Reconstructor | Ratified BR-003v3, 2026-04-18 |
+| [`LORE-BIO-UNIT-FELIS.md`](character-bios/LORE-BIO-UNIT-FELIS.md) | Unit-FELIS | The Unauthorized Operational Constant | Ratified BR-003v3, 2026-04-18 |
 
 **Register warning (ITCRuD Director and Victor Watchful):** Both characters operate at the subtlest register in the roster. Their beats work through implication only. Read the lore bio register warnings before deploying either character.
 
@@ -181,7 +233,8 @@ Author-facing character design documents for all named roster entries. Literary 
 [^4]: Ratified — BR-003 staff-dossiers, 2026-04-10. Incorporates ChatGPT character brief reconciled against site canon; blinking/non-blinking light conflict resolved (Option 2); CTO-COO boundary notes added.
 [^5]: Role confirmed in site source; character assignment uncertain — not yet resolved.
 [^6]: Ratified — BR-003v2 staff-dossiers-continuation, 2026-04-14. Character lore bios incorporated into Section 02; clearance levels ratified for all named non-Founder staff.
+[^7]: Ratified — BR-003v3 staff-dossiers-final, 2026-04-18. Founder lore bio; The Computer lore bio; Mortimer Chalk (Official Historian) character and dossier; Unit-FELIS (The Cat) character and dossier; Founder and Computer Section 02 entries expanded; Chalk and Unit-FELIS added as supporting cast.
 
 ---
 
-*Section 02 last updated: BR-003v2 staff-dossiers-continuation, 2026-04-14 — 2026-04-15. Full character roster expanded; clearances ratified; character lore bios sub-section added; all confirmed details from lore bios incorporated.*
+*Section 02 last updated: BR-003v3 staff-dossiers-final, 2026-04-18. Founder and Computer entries expanded with lore bio notes; Chalk and Unit-FELIS added as supporting cast; bio register extended to 17 entries.*

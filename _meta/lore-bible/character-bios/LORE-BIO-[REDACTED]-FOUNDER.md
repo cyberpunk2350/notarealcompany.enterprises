@@ -2,9 +2,9 @@
 **Type:** Author-facing character design document
 **Format:** Lore Bio v1
 **Source:** Dossier `DOSSIER-ULTRAVIOLET-[REDACTED].md`; Lore Bible Section 01 (clearance levels, Paranoia flavor); Lore Bible Section 02 (Founder entry); Gemini bio `TheFounder.md` reviewed and substantially rejected — see Lore Flags
-**Last Updated:** 2026-04-17
+**Last Updated:** 2026-04-18
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — BR-003v3, 2026-04-17. Pending human ratification before incorporation into Section 02.
+**Status:** Ratified — BR-003v3, 2026-04-18
 
 > **Register warning:** The Founder is defined entirely by absence. Any document that makes them concrete — named, active, institutionally present — has broken the character. This bio exists to document what is known, what is permanently off-limits, and what is open for deliberate future development. Read the lore flags before writing any content that references the Founder.
 
@@ -25,7 +25,7 @@ The distinction matters. The Computer is everywhere and structural — present i
 
 The Founder's power as a lore element comes entirely from what is *not* said. The dossier is the model: almost entirely `[REDACTED]`. Three Known Associates rows, all classified above the filing clearance. Behavioral Notes: `[REDACTED]`. Incident History: `[REDACTED]`. The footer reads: "If you are reading this, something has gone wrong." That is the character. The joke is that the file exists, is formally structured, and contains nothing — because whatever the Founder is, it is above the level of anyone who would be reading this document.
 
-**The dossier as evidence:** It is worth noting explicitly that the dossier itself is a significant lore fact. Its existence — NARC-HR-DOSSIER-013, filed, given a file reference number, structured with the standard HR form — is the one piece of physical institutional evidence that the Founder is real. Every other signal is rumor or inference. The dossier is a fact in the record. Someone filed it. HR has a form for it. The classification seal is present. The document is almost entirely `[REDACTED]`, but it exists, and that existence is different in kind from a rumor about an office. This should not be understated: in a universe where everything that is real gets filed, the dossier's presence in the HR registry is the closest thing to a confirmed sighting of the Founder that any accessible clearance level provides.
+**The dossier as evidence:** The dossier itself — NARC-HR-DOSSIER-013, filed, given a file reference number, structured with the standard HR form — is the one piece of physical institutional evidence that the Founder is real. Every other signal is rumor or inference. The dossier is a fact in the record. Someone filed it. HR has a form for it. The classification seal is present. In a universe where everything that is real gets filed, the dossier's presence in the HR registry is the closest thing to a confirmed sighting of the Founder that any accessible clearance level provides.
 
 ---
 
@@ -87,22 +87,22 @@ Do not develop these without explicit human authoring. They are not gaps — the
 
 ### Open for Deliberate Development (Founding Page Territory)
 
-These are items flagged from Gemini bio review (A-01 through A-03) and general lore potential. None of these are canon. All require human authoring before incorporation. Listed here to preserve the ideas and prevent them from being reinvented incorrectly later.
+> **🔖 Future session:** All items below are flagged for expansion. None are canon. Reserved for founding page work.
 
 **A-01 — The ID anomaly concept**
-The Gemini bio proposes `root` as the Founder's employee ID. The specific implementation is rejected — it is too concrete and implies a technical architecture that should remain undefined. The underlying *concept* is worth developing: the Founder has no ID because an ID would imply they are a product of the system, and they are not a product — they are the origin. The correct execution is not `root` but the *absence* of a field: the ID field simply does not exist, or is blank, or the system returns an error when queried. It is never explained. This would be a strong detail for the founding page or for a legacy document that encounters the Founder's record and does not know what to do with it. Note: the ITCRuD Director's NARC-000 anomaly is a related structural joke — the ID system accommodated a zero it was not designed for; the Founder's record might simply have no entry where the ID field should be. Both anomalies. Different in character.
+The Gemini bio proposes `root` as the Founder's employee ID. The specific implementation is rejected — it is too concrete and implies a technical architecture that should remain undefined. The underlying *concept* is worth developing: the Founder has no ID because an ID would imply they are a product of the system, and they are not a product — they are the origin. The correct execution is not `root` but the *absence* of a field: the ID field simply does not exist, or is blank, or the system returns an error when queried. It is never explained. Note: the ITCRuD Director's NARC-000 anomaly is a related structural joke — the ID system accommodated a zero it was not designed for; the Founder's record might simply have no entry where the ID field should be. Both anomalies. Different in character.
 
 **A-02 — 2025 as institutional Year Zero**
-The idea that the organization's history begins in 2025 and that anything prior is operationally undefined is consistent with the ghost story framing. "The 2025 Event" as a named concept is premature (reserved for the founding page), but the underlying logic — that the institutional apparatus treats the founding as Year Zero, not because the Founder decreed it but because the record simply does not extend further — is worth preserving. Prior data exists or does not; the organization has no framework for it either way. Strong founding page material.
+The institutional apparatus treats the founding as Year Zero, not because the Founder decreed it but because the record simply does not extend further. Prior data exists or does not; the organization has no framework for it either way. "The 2025 Event" as a named concept is premature — reserve for the founding page.
 
 **A-03 — Founder as system-origin, not system-product**
-The directional design principle from the Gemini bio worth keeping: the Founder set something in motion. What exactly is undefined. The organization is the result of an act they performed in 2025. Whether they are still involved in any way — actively, passively, or as a "legacy presence whose commands are being executed by the infrastructure in perpetuity" (Gemini bio phrasing, worth noting as a design possibility) — is not established and should not be established outside the founding page. The distinction between "the Founder left and NARC runs itself" and "the Founder is still present at a level no one can access" is a founding page decision. Both are consistent with the ghost story framing. The tension between them is itself a lore asset.
+The Founder set something in motion. What exactly is undefined. Whether they are still involved — actively, passively, or as a "legacy presence whose commands are being executed by the infrastructure in perpetuity" — is not established and should not be established outside the founding page. The tension between "the Founder left and NARC runs itself" and "the Founder is still present at a level no one can access" is a founding page decision. Both are consistent with the ghost story framing.
 
 **A-04 — The dossier as founding page anchor**
-The dossier's existence — filed, numbered, classified — could serve as the structural anchor for the founding page. The page could be framed as NARC's institutional record of its own founding: heavily redacted, formally complete in structure, containing almost no accessible information. The founding page *is* DOSSIER-013 expanded to page scale. The founding story would be told through what is missing from the record rather than what is present in it. This is a new development item, not from the Gemini bio — noted here for the founding page brief.
+The founding page could be framed as NARC's institutional record of its own founding: heavily redacted, formally complete in structure, containing almost no accessible information. The founding story told through what is missing from the record rather than what is present in it. DOSSIER-013 expanded to page scale.
 
 **A-05 — The three Known Associates as founding page thread**
-Who are the three `[REDACTED]` Known Associates? This is a founding page development question. Options range from current senior staff (implying the Founder has ongoing classified relationships with people currently in the org chart) to entities that no longer exist in accessible records (implying the founding involved parties who are now themselves classified or gone). This is high-value lore territory and should be developed deliberately. Not for generation.
+Who are the three `[REDACTED]` Known Associates? Options range from current senior staff (implying the Founder has ongoing classified relationships with people currently in the org chart) to entities that no longer exist in accessible records (implying the founding involved parties who are now themselves classified or gone). High-value lore territory. Not for generation.
 
 ---
 
@@ -182,13 +182,19 @@ Read `DOSSIER-ULTRAVIOLET-[REDACTED].md` before writing any Founder content. It 
 Name, status, ID, any named relationship, any intellectual legacy, any financial role, any concrete artifact beyond the dossier itself, any founding narrative detail outside the founding page.
 
 **Open for development (summary — human authoring only):**
+> **🔖 Future session:** All items below flagged for expansion. Reserved for founding page work.
 - A-01: ID anomaly as absence rather than `root`
 - A-02: 2025 as institutional Year Zero (founding page)
 - A-03: Founder as system-origin, not system-product; active vs legacy presence as open question (founding page)
 - A-04: Founding page as DOSSIER-013 expanded to page scale — told through what is missing
 - A-05: The three `[REDACTED]` Known Associates — founding page development item; high-value lore territory
 
+**Ratification status — BR-003v3, 2026-04-18:**
+- Ghost story framing confirmed canonical
+- Dossier-as-evidence beat ratified
+- Development items A-01 through A-05 flagged for founding page session
+- Gemini bio conflicts recorded; all rejections confirmed
+
 ---
 
-*Lore Bio v1 — [REDACTED] Founder — BR-003v3, 2026-04-17*
-*Pending human ratification.*
+*Lore Bio v1 — [REDACTED] Founder — BR-003v3, 2026-04-17 | Ratified — BR-003v3, 2026-04-18*

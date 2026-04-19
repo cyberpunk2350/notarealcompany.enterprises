@@ -23,6 +23,7 @@ Items explicitly scoped and parked pending external conditions.
 | ~~Lore FAQ — author-facing~~ | BR-003 parking lot | **Complete — BR-003v3, 2026-04-17.** `narc-primer-appendix-lore-faq.md` (Appendix G). |
 | In-universe FAQ — site-renderable | BR-003 parking lot | Derived from Lore FAQ; NARC voice. Lore FAQ now complete — this item is unblocked. |
 | ARIA — "what constitutes a meeting" development | BR-003v2 Q-21 | Human-authored lore beat. Includes no-shutdown-path thread (D-04). Do not generate. |
+| Narrative consistency review — all bios, dossiers, profiles, Section 02 | BR-003v3, 2026-04-18 | Full cross-character review for consistency within the larger narrative and collectively. Read all bios and dossiers together before any major content expansion. Priority: before founding page session. |
 | lore-build cleanup — original lore bio files | BR-003v2 | Files at `narc-lore-build/branchs/BR-003 - Staff Dossiers/Lore Bios/` superseded by `_meta/lore-bible/character-bios/`. HITL archiving/removal. |
 | Dossier file rename scheme (CF-001) | BR-003 | Naming convention conflict; isolated in `assets/docs/hr/staff/`; human decision pending. |
 
@@ -49,6 +50,7 @@ Ideas and future deliverables set aside for later branches or sessions.
 | Item | Source(s) | Notes |
 |------|-----------|-------|
 | Expand supporting cast | BR-003 | NARC Historian, Office Cat, low-level staff. Future branch after roster bios complete. |
+| Internal/external site versions | BR-003v3, 2026-04-18 | Investigate dual site: internal (employee-facing compliance/operational register) and external (public-facing corporate PR register, Pitchman's domain). No real security between them — both accessible to real-world visitors as a storytelling device. The gap between what NARC says publicly and what employees deal with is part of the joke. "Confidential" documents accessible to anyone who clicks through. BR-004 scope. |
 | Qualifier catalog expansion | BR-003 | Change requests, purchase requests, memos, runbooks, HR docs. |
 | Clearance level hierarchy document | BR-003 | Joint HR + Internal Security; full spectrum + rules. |
 | Site-wide lore audit | BR-003 | Pre-canonisation inconsistencies; IR-2026-001 docs; title drift. |

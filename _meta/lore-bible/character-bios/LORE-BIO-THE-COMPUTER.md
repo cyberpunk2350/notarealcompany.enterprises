@@ -4,7 +4,7 @@
 **Source:** Lore Bible Section 01 (Paranoia RPG flavor, clearance levels); Lore Bible Section 02 (The Computer entry, canonical usage); Lore Bible Section 03 (Rule 11 — never named aloud); Gemini bio `TheComputer.md` reviewed — partial adoption, see Lore Flags
 **Last Updated:** 2026-04-17
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — BR-003v3, 2026-04-17. Pending human ratification before incorporation into Section 02.
+**Status:** Ratified — BR-003v3, 2026-04-18
 
 > **Register warning:** The Computer is never named aloud by employees. It does not speak, act, or react in any document. Its presence is structural. This bio exists to document what The Computer *is* as a lore device, how it functions in documents, and what is available for deliberate development. The moment The Computer becomes a character with mechanics, relationships, or opinions, it stops working.
 
@@ -161,7 +161,15 @@ Sentience, physical location, relationship with the Founder, any mechanism of op
 - B-04: The physical homelab layer — is there a server, a service, a process in the real infrastructure that would make a fitting The Computer candidate? The in-universe answer is undefined. The real-world answer is for the homelab operator to decide. If developed, should be treated the same way as Watchful's anomalies: observable in the record, never commented upon.
 - B-05: The Computer / Founder relationship — founding page territory. The two most undefined entities in the NARC universe. Whether they are connected is the most significant unresolved lore question. Reserve for deliberate development.
 
+> **🔖 Future session:** B-01 through B-05 flagged for expansion when founding page or atmospheric lore development is scoped.
+
+**Ratification status — BR-003v3, 2026-04-18:**
+- Restraint rule confirmed canonical
+- Seal-as-only-output confirmed
+- "What The Computer Is Not" constraint list ratified
+- Development items B-01 through B-05 flagged
+- Gemini bio conflicts recorded; all rejections confirmed
+
 ---
 
-*Lore Bio v1 — The Computer — BR-003v3, 2026-04-17*
-*Pending human ratification.*
+*Lore Bio v1 — The Computer — BR-003v3, 2026-04-17 | Ratified — BR-003v3, 2026-04-18*

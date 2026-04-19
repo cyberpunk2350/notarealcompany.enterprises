@@ -4,7 +4,7 @@
 **Source:** Human character brief (2026-04-13); Gemini bio `TheHistorian.md` reviewed — substantial adoption with adjustments; Lore Bible Section 02 (org structure, supporting cast); Founder lore bio; ITCRuD Director lore bio
 **Last Updated:** 2026-04-17
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — BR-003v3, 2026-04-17. Pending human ratification.
+**Status:** Ratified — BR-003v3, 2026-04-18
 
 ---
 
@@ -153,7 +153,16 @@ This is A-04 from the Founder lore bio realized: the founding page as DOSSIER-01
 - The founding page itself — first draft once ratified
 - Whether ARIA was present for the Lee conversation(s)
 
+> **🔖 Future session:** All three items above flagged for expansion. The "Interesting Miscellaneous" folder and the founding page are high-priority development items for the founding page session.
+
+**Ratification status — BR-003v3, 2026-04-18:**
+- Completeness paradox confirmed as central character tension
+- Founding page properties (accurate at Yellow; structurally incomplete; subtly wrong; unknowingly significant) ratified
+- Chalk as designated founding page author confirmed
+- UNK as believed filing error — do not resolve
+- Lee/Chalk off-record conversation flagged as open thread; ARIA presence unresolved
+- Development items flagged for founding page session
+
 ---
 
-*Lore Bio v1 — Mortimer Chalk, Official Historian — BR-003v3, 2026-04-17*
-*Pending human ratification.*
+*Lore Bio v1 — Mortimer Chalk, Official Historian — BR-003v3, 2026-04-17 | Ratified — BR-003v3, 2026-04-18*

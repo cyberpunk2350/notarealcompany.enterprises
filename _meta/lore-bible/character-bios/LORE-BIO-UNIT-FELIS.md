@@ -4,7 +4,7 @@
 **Source:** Human character brief (2026-04-13); Gemini bio `TheCat.md` reviewed — partial adoption with adjustments; Lore Bible Section 02 (org structure, ARIA, NARC-Brew 3000 as precedent for non-human roster entries)
 **Last Updated:** 2026-04-18
 **Filed Under:** Lore Bible Section 02 expansion
-**Status:** Draft — BR-003v3, 2026-04-17. Pending human ratification.
+**Status:** Ratified — BR-003v3, 2026-04-18
 
 ---
 
@@ -148,7 +148,18 @@ The Historian has noted Unit-FELIS in their working files as a point of institut
 - Whether the cat has ever been in the Server Room and what ARIA logged about it — the Brew 3000 unit NB3K-SRV-1138-AM is already there; the meeting of these two entities is an interesting question
 - The Historian's founding page decision — does Unit-FELIS appear in NARC's official history? The Historian has it flagged under "Institutional Texture — possible inclusion." This is a human decision.
 
+> **🔖 Future session:** All four items above flagged for expansion. Server Room crossover (Unit-FELIS / NB3K-SRV-1138-AM) and the founding page inclusion question are the highest-value development items.
+
+**Ratification status — BR-003v3, 2026-04-18:**
+- Unit-FELIS as institutional fact (not plot device) confirmed
+- Payroll anomaly permanent and unresolved — do not resolve
+- ARIA "where appropriate" judgment criteria unspecified — canonical
+- Watchful / adjacent chair (three documented occasions) ratified
+- Arrival "not established" parallel with Watchful ratified (appendix only; not official record)
+- AKA "The Cat" and INC-FELIS-001 through 011 pre-onboarding arc ratified
+- Departmental concern breakdown (Watchful=access; Firewall=input devices; Lee/ITCRuD=equipment trend) ratified
+- Development items flagged
+
 ---
 
-*Lore Bio v1 — Unit-FELIS — BR-003v3, 2026-04-17*
-*Pending human ratification.*
+*Lore Bio v1 — Unit-FELIS — BR-003v3, 2026-04-17 | Ratified — BR-003v3, 2026-04-18*
