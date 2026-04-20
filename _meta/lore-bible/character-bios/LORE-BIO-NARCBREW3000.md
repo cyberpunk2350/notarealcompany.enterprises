@@ -150,8 +150,11 @@ A: The security review would address this. The review is outstanding. In the mea
 - A specific "user surprise optimization" event affecting a named character in a specific meeting would be good texture — Chuck's morale assessment of it is already established
 - The moment the security review is completed is an open lore event — the fleet's status post-review is entirely unwritten
 
+**Institutional position note:**
+Unit-FELIS (NARC-017, Red provisional) holds a technically stronger institutional position than the Brew 3000 fleet: clean record, approved onboarding, no open security review. Brew 3000 is the only current non-human entity whose provisional status is actively pending rather than merely nominal. This comparison has not been made in any employee-authored document and should not be — it is author-facing context only.
+
 **For human review:**
-- Clearance level (Red, provisional) is confirmed in the dossier — provisional pending security review; this is the only provisional clearance in the roster
+- Clearance level (Red, provisional) is confirmed in the dossier — provisional pending security review; this is the only provisional clearance in the roster (Unit-FELIS shares the Red provisional designation but has no outstanding review)
 - The ADVISORY: format examples are canonised here as specific text strings — the closing advisory (decisions/action items/coffee reserve status) is the most elaborate canonical format; SESSION SUMMARY label is reserved for ARIA exclusively
 - The temperature variance correlated with meeting duration (from the brief) is noted in surface traits but not given a specific canonical range — confirm whether to establish one
 
