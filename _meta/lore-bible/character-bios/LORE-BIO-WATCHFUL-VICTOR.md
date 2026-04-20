@@ -154,6 +154,9 @@ A: Not established. The question has not been raised in any document. This is th
 - The edge of the Firewall/Watchful security domain boundary has never been tested in a document — a situation where it is unclear which of them has authority would be interesting lore
 - The pre-reviewed unstamped documents returning to circulation is an established behavior; a specific instance in a named document would make excellent atmospheric detail
 
+**Cross-character open threads (not for generation):**
+- Chalk/archives: Watchful has granted Chalk access to a physical archive of pre-digital-integration documents. Watchful is present during these sessions. Nothing unusual has been recorded. This is documented in Chalk's lore bio. It is a quiet beat consistent with Watchful's presence-without-comment register. Do not develop without human direction.
+
 **For human review:**
 - Clearance level (Indigo) is inferred — security function access by role; flag if ratification changes this
 - The chair behavior (chairs adjacent, never occupied) and the door behavior (already open, no recorded input) are canonised here for the first time as specific observable facts — confirm before use; they are the most overtly supernatural details in the roster and should be used very sparingly

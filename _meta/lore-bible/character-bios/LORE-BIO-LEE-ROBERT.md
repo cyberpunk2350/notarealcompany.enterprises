@@ -147,6 +147,9 @@ A: Yes, if an operational or process dimension is present — and at NARC, one u
 - The escalation for a non-ticketed resolution is a named incident type in his framework; no specific instance has been written yet
 - The Lee/ITCRuD Director dynamic has room for a single, carefully placed detail that implies history without stating it — this should be a human-authored lore beat, not generated
 
+**Cross-character open threads (not for generation):**
+- Lee/Chalk: Lee has spoken with Chalk off the record on at least one occasion. Content not in the official record. Whether ARIA was present is unresolved. This is documented in Chalk's lore bio. It implies Lee departs from his standard documentation-channel approach with Chalk. Do not make explicit without human direction.
+
 **For human review:**
 - Clearance level (Indigo) is inferred — consistent with C-suite peer status; flag if ratification changes this
 - The ITCRuD Director subtext is handled identically in the lore bible and this bio — confirm the register is right before this bio is used as a generation source, as getting the subtlety wrong in a document would flatten the beat

@@ -146,10 +146,13 @@ He/him and they/them are both canonical. Alex Firewall presents as masculine. Ei
 - The specific entries on the Outstanding Review Register beyond NARC-Brew 3000 and ARIA — the register exists and is extensive; specific entries are not established
 - The "systems that should not exist but do" parallel index — it overlaps with production infrastructure; specific systems are not listed
 
-**Open for development:**
+**Open for development — human authoring only:**
 - A document in which an Outstanding Review Register entry is formally closed would be significant lore — it has never happened; the first instance should be deliberate
 - A specific objection from Firewall that demonstrably changed an outcome — without acknowledgment — would be excellent lore; unwritten
 - The quarterly ritual firewall inspection has a checklist; the checklist has never been reproduced in a document; it would make good background content
+
+**Cross-character open threads (not for generation):**
+- Unit-FELIS: the Outstanding Review Register contains a Unit-FELIS entry under a sub-classification that has not been publicly specified. This is documented in the Unit-FELIS lore bio and dossier. No reciprocal flag was in Firewall's bio previously. Do not develop without human direction.
 
 **For human review:**
 - Clearance level (Indigo) is inferred — security clearance inherent to CISO role; flag if ratification changes this

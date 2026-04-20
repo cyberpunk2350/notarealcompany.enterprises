@@ -144,6 +144,9 @@ A: Within the frame of a NARC document, this question does not arise — her eff
 - The relationship between her virtualization instinct and NARC's actual infrastructure direction — she has occasionally been right; the specific instances where this occurred are unwritten
 - Her founding role — NARC-001 and Violet clearance are facts in the dossier; the circumstances of NARC's founding are reserved for the founding page and should not be developed here
 
+**Cross-character open threads (not for generation):**
+- Chalk interview: Doe suggested framing the pre-founding period "as infrastructure rather than narrative" during an oral history session. This detail is documented in Chalk's lore bio and working files. It has not been flagged here because Doe's awareness of Chalk's project is not established in her own record — the suggestion may have been made casually. Do not develop further without human direction.
+
 **For human review:**
 - Clearance level (Violet) is confirmed in the dossier as a founding officer assignment — consistent with her being the functional top of the visible org; no conflict
 - The "three-pass" structure is introduced here for the first time as a named pattern — it is consistent with the ChatGPT brief and the site description but has not previously been a named convention; flag if you want to keep it unnamed
