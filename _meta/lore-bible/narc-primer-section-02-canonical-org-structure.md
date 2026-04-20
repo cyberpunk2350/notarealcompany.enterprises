@@ -105,6 +105,7 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 - Does not respond to comments about itself (whether professional restraint or capability gap is unresolved and should remain so)
 - **Clearance: Red (provisional)** — pending security review[^6]
 - **Usage authorization: Infrared** — all employees and guests authorized to consume coffee; consumption is considered practically mandatory
+- **Institutional position vs. Unit-FELIS:** Unit-FELIS (NARC-017) holds a technically stronger institutional position — clean record, approved onboarding, no open security review. Brew 3000 has an outstanding security review, making it the only current non-human entity whose provisional status is actively pending rather than merely nominal. This comparison has not been made in any employee-authored document.
 - **Fleet serial number format:** `NB3K-[LOCATION]-[BREW COUNT]-[SUFFIX]` — assigned at registration (post-deployment, not at manufacture); location codes: CFR, BRK, SRV, EXC, LAB; suffix codes: EP (Espresso Protocol), DC (Drip Compliance), FR (French Roast), CF (Crema Certified), AM (Americano Mandate), PO (Pour Over), LX (Lungo Excess). Canonical examples and full registry in DOSSIER-RED-NARCBREW3000.md.
 - **"User surprise optimization":** Internal fleet label for tea substitution events during high-caffeine demand cycles. No rollback mechanism. No user has formally objected in a way that produced a system response.
 - **"Learning opportunity":** Internal log label for overflow events. No corrective action associated. Whether "learning" implies any system behavior change is not established.
@@ -169,11 +170,13 @@ The `README.md` mentions two roles in the contributing section.[^1]
 - **Title:** Official Historian / Office of Institutional Memory
 - **Employee ID:** NARC-016
 - **Primary deliverable:** The NARC company founding page — his voice, accurate at Yellow clearance, structurally incomplete, subtly wrong in ways he cannot know, unknowingly significant in places
+- **Founding page properties:** Accurate — at Yellow clearance, it will be the best record possible within those constraints. Structurally incomplete — the shape of the redactions tells a story Chalk cannot read. Subtly wrong — in ways that are not discoverable from Yellow. Unknowingly significant — in places Chalk cannot identify, because he lacks the context that would make the significance legible. These four properties coexist without contradiction and without Chalk's awareness.
 - **Archetype:** The Sincere Reconstructor — earnest, experienced, methodical; treats `[REDACTED]` blocks as archival challenges, not warnings
 - **The completeness paradox:** Tasked with the best possible historical record while structurally barred from the information that would make it accurate. This is not a problem he can solve. It is the condition he works within.
 - **Method:** Primarily oral history sessions; staff talk to Chalk because he is clearly not a compliance function. Also cross-references secondary sources and infers from the shape of redactions.
 - **The UNK problem:** Believes the ITCRuD Director's NARC-000 / UNK start date is a data entry error. Has submitted three HR requests to resolve it. All acknowledged. None resolved. Chalk considers this progress. Do not resolve it.
 - **"Interesting Miscellaneous" folder:** A physical folder in his filing system. HR is monitoring. Contents undefined — not for generation.
+- **Unit-FELIS flag:** Chalk has flagged Unit-FELIS under "Institutional Texture — possible inclusion" for the founding page. His reasoning is not documented. The flag exists in his working materials. It has not been raised with any other party.
 - **Inadvertent danger:** The only person at NARC whose explicit job is to connect dots. Does not know he is dangerous. Is too busy being interested.
 - **Physical artifacts:** Works with paper, annotated hard copies, fountain pen. Not affectation — old documents come in old formats.
 - Dossier: `DOSSIER-YELLOW-CHALK-MORTIMER.md` | Lore bio: `LORE-BIO-HISTORIAN.md`

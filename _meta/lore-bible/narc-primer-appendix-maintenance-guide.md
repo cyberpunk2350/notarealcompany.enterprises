@@ -164,16 +164,17 @@ Section numbers are zero-padded and reflect document order. Do not renumber exis
 
 ---
 
-## The Two `[REDACTED]` Identities
+## The `[REDACTED]` Identities — Three Distinct Categories
 
-A standing note for all future sessions: there are two distinct `[REDACTED]` identities in the NARC universe.
+A standing note for all future sessions: there are three distinct `[REDACTED]` or unnamed identity categories in the NARC universe.
 
-| Identity | Clearance | Context | Rule |
-|----------|-----------|---------|------|
-| `[REDACTED]` Founder | Ultraviolet | Ghost story mythology; canonical on founding page only | They/them; deflect if referenced |
-| `[REDACTED]` IT Director | — | Heads ITCRuD; appears in IT Operations documents | Use `[REDACTED]` consistently; do not invent a name |
+| Identity | Category | Clearance | Context | Rule |
+|----------|----------|-----------|---------|------|
+| `[REDACTED]` Founder | Named-but-redacted | Ultraviolet | Ghost story mythology; canonical on founding page only | They/them; deflect if referenced |
+| `[REDACTED]` IT Director | Named-but-redacted | Indigo (file: Violet) | Heads ITCRuD; appears in IT Operations documents | Use `[REDACTED]` consistently; do not invent a name |
+| The Computer | Structurally-unnamed | N/A (structural) | Passive institutional constant; seal is its only output | Never named aloud in employee-authored documents; do not mechanize |
 
-Context determines which is meant. Do not conflate them.
+Context determines which is meant for the two `[REDACTED]` identities. The Computer is distinct in that it is not redacted — it has simply never been named. Do not conflate any of the three.
 
 ---
 

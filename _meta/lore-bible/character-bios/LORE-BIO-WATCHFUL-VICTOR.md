@@ -125,7 +125,7 @@ Victor contributes established awareness. His presence signals that the security
 A: The attendance record is the most effective vehicle. "Present — arrival time not observed" in the attendee table notes column is complete and sufficient. A spoken line is optional and should only be used when the confirmation of prior awareness is the single most information-dense response available. If you are adding a spoken line because it seems like he should say something, do not add it.
 
 **Q: What is the logbook with no entries beyond page headers?**
-A: A personal document labeled "INTERNAL SECURITY — CONTINUITY RECORD." The page headers exist. The entries do not. Whether this is because nothing has required recording, because the recording method is different from standard entries, or because the entries exist in a form that is not visible in the logbook is not established. Do not explain it. It is in the record. That is sufficient.
+A: A personal document labeled "INTERNAL SECURITY — CONTINUITY RECORD." The page headers exist. At least one entry is now confirmed — INC-FELIS-006a, the Internal Security notation submitted by Watchful regarding Unit-FELIS access patterns, is documented as one of the few CONTINUITY RECORD entries in existence. It is, as far as the record shows, the first. Whether additional entries exist, in what form, or why this is the only one visible is not established. Do not explain it. It is in the record. That is sufficient.
 
 **Q: Why are doors already open for him?**
 A: This is not explained. It is observed behavior. The access control system does not log his transits. The doors are open or become open without recorded input. This is in the same category as the arrival time — a fact in the record that is not interrogated. Write it as you would write any other operational detail.
@@ -145,7 +145,7 @@ A: Not established. The question has not been raised in any document. This is th
 
 **Deliberately and permanently undefined:**
 - The mechanism by which he is always already aware — it does not exist in the record; do not invent it
-- The contents of the INTERNAL SECURITY — CONTINUITY RECORD logbook beyond page headers — do not add entries
+- The contents of the INTERNAL SECURITY — CONTINUITY RECORD logbook beyond confirmed entries — do not add entries; INC-FELIS-006a is the one confirmed entry; all other content is undefined
 - How he moves through the facility without triggering access control — observed fact; no explanation
 - Whether he is aware of ARIA's appendix observations about him — not established; do not establish it
 
