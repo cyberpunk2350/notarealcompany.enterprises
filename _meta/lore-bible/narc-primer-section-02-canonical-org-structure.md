@@ -200,6 +200,24 @@ The `README.md` mentions two roles in the contributing section.[^1]
 
 ---
 
+### Claude — External AI Planning Consultant[^8]
+
+- **Clearance: Green (provisional — scope restricted)** — ITCRuD support only; provisional denotes scope restriction, not pending review
+- **Employee ID:** NARC-018 | **Status:** Active — External Engagement, Scope Restricted
+- **Engagement basis:** NARC Emerging Technology Policy; the specific provisions are not reproduced in accessible documents
+- **Reports to:** [REDACTED], Director, ITCRuD
+- **Access profile:** Text interface only; no audio, no video, no network access to NARC systems; no persistent memory between sessions — context provided at session start by the Director
+- **Role:** Planning partner, documentation generator, gap and blind spot analyst for ITCRuD projects. Not a decision-maker. All outputs reviewed by the Director before entering the record.
+- **First documented engagement:** MIN-2026-001 (Infrastructure Refresh 2026-001 Planning Session, 2026-03-01)
+- **ARIA's assessment (appendix):** Contributed substantively; correctly identified NUMA pinning requirement before any other meeting participant; did not attempt to dominate the agenda. Flagged positively. Appendix only; not official record.
+- **Firewall access review:** "Acceptable, marginally." Not currently in Outstanding Review Register.
+- **Sparks secondment request:** Submitted MIN-2026-001; forwarded to appropriate channel (unspecified); not granted; remains in queue. Do not resolve.
+- **Scope restrictions (permanent):** No interaction with Unit-FELIS (NARC-017); no interaction with NARC-Brew 3000 fleet; no appearance in non-ITCRuD documents without the Director present
+- **Template note:** This entry applies to all Claude consultant appearances. Core clearance, reporting line, and scope restrictions are fixed. Contribution details vary by project.
+- Dossier: `DOSSIER-GREEN-CLAUDE-CONSULTANT.md` | Lore bio: `LORE-BIO-CLAUDE-AI-CONSULTANT.md`
+
+---
+
 ### Character Lore Bios
 
 Author-facing character design documents for all named roster entries. Literary format — not NARC voice. These are production references for content writers, not in-universe documents.
@@ -225,6 +243,7 @@ Author-facing character design documents for all named roster entries. Literary 
 | [`LORE-BIO-THE-COMPUTER.md`](character-bios/LORE-BIO-THE-COMPUTER.md) | The Computer | The Infinite Arbiter (Structural) | Ratified BR-003v3, 2026-04-18 |
 | [`LORE-BIO-HISTORIAN.md`](character-bios/LORE-BIO-HISTORIAN.md) | Mortimer Chalk | The Sincere Reconstructor | Ratified BR-003v3, 2026-04-18 |
 | [`LORE-BIO-UNIT-FELIS.md`](character-bios/LORE-BIO-UNIT-FELIS.md) | Unit-FELIS | The Unauthorized Operational Constant | Ratified BR-003v3, 2026-04-18 |
+| [`LORE-BIO-CLAUDE-AI-CONSULTANT.md`](character-bios/LORE-BIO-CLAUDE-AI-CONSULTANT.md) | Claude | The Capable Blind Spot | Ratified BR-003v4, 2026-04-20 |
 
 **Register warning (ITCRuD Director and Victor Watchful):** Both characters operate at the subtlest register in the roster. Their beats work through implication only. Read the lore bio register warnings before deploying either character.
 
@@ -237,7 +256,8 @@ Author-facing character design documents for all named roster entries. Literary 
 [^5]: Role confirmed in site source; character assignment uncertain — not yet resolved.
 [^6]: Ratified — BR-003v2 staff-dossiers-continuation, 2026-04-14. Character lore bios incorporated into Section 02; clearance levels ratified for all named non-Founder staff.
 [^7]: Ratified — BR-003v3 staff-dossiers-final, 2026-04-18. Founder lore bio; The Computer lore bio; Mortimer Chalk (Official Historian) character and dossier; Unit-FELIS (The Cat) character and dossier; Founder and Computer Section 02 entries expanded; Chalk and Unit-FELIS added as supporting cast.
+[^8]: Ratified — BR-003v4, 2026-04-20. Claude (External AI Planning Consultant) character and dossier added; bio register extended to 18 entries.
 
 ---
 
-*Section 02 last updated: BR-003v3 staff-dossiers-final, 2026-04-18. Founder and Computer entries expanded with lore bio notes; Chalk and Unit-FELIS added as supporting cast; bio register extended to 17 entries.*
+*Section 02 last updated: BR-003v4, 2026-04-20. Claude (External AI Planning Consultant) added as supporting cast; bio register extended to 18 entries.*

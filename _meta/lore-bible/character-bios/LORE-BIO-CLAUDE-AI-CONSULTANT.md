@@ -4,7 +4,7 @@
 **Source:** MIN-2026-001 (Infrastructure Refresh 2026-001 Planning Session meeting minutes); IR-2026-001 blog hybrid posts 01 and 03; human character brief (BR-003v4, 2026-04-20)
 **Last Updated:** 2026-04-20
 **Filed Under:** Lore Bible Section 02 expansion — Supporting Cast
-**Status:** Draft — BR-003v4, 2026-04-20
+**Status:** Ratified — BR-003v4, 2026-04-20
 
 > **Template note:** This bio is intended to serve as the template for all Claude consultant appearances across NARC documents. The character's core design is fixed by the source material and clearance constraints. Engagement-specific details (project scope, specific contributions, session context) vary per deployment; core register and constraints do not.
 
@@ -179,13 +179,15 @@ This bio is designed to serve as the template for Claude consultant appearances 
 **The meta question:**
 Claude is the system that wrote this document. This is noted in the header and not further developed. In-universe, Claude is an external consultant accessed by the Director. The two framings coexist without needing reconciliation. The record reflects what it reflects.
 
-**Draft status — ratification pending:**
-This bio is produced in BR-003v4 from source material review. The following items require human confirmation before ratification:
-- Employee ID NARC-018 (sequential from Unit-FELIS NARC-017) — confirm or assign
-- Green (provisional) clearance framing as scope restriction rather than pending review — confirm
-- "Reports to [REDACTED] Director, ITCRuD" as the formal reporting line — confirm
-- Dossier: does one exist or need to be created? Proposed: `DOSSIER-GREEN-CLAUDE-CONSULTANT.md`
+**Draft status — ratification confirmed:**
+Ratified BR-003v4, 2026-04-20. The following items were confirmed by human review:
+- Employee ID NARC-018 — confirmed
+- Green (provisional) as scope restriction (not pending review) — confirmed
+- Reports to [REDACTED] Director, ITCRuD — confirmed
+- Dossier `DOSSIER-GREEN-CLAUDE-CONSULTANT.md` — created; HR minimal file, not full onboarding
+
+> **🔖 Future session:** All open development items above reserved for human authoring. Template available for reuse on future ITCRuD consultant engagements.
 
 ---
 
-*Lore Bio v1 — Claude, External AI Planning Consultant — BR-003v4, 2026-04-20 | Status: Draft — pending ratification*
+*Lore Bio v1 — Claude, External AI Planning Consultant — BR-003v4, 2026-04-20 | Ratified — BR-003v4, 2026-04-20*
