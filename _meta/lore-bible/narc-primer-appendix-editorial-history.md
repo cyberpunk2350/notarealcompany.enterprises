@@ -268,6 +268,29 @@ Full cross-character review of all bios, dossiers, profiles, and Section 02 for 
 
 ---
 
+## BR-003v4 — Staff Dossiers (2026-04-20)
+
+**Canon patches from BR-003v3 undocumented lore**
+Four items identified at BR-003v3 close as lore that existed in session context but had not been fully cross-referenced in all relevant documents were incorporated in BR-003v4.
+
+*LORE-BIO-WATCHFUL-VICTOR:* INTERNAL SECURITY — CONTINUITY RECORD updated. Prior text stated the logbook had page headers but no entries. INC-FELIS-006a establishes at least one entry — the Cat is the first documented CONTINUITY RECORD entry. FAQ and Lore Flags updated to reflect this. Committed `abe0751`, BR-003v4, 2026-04-20.
+
+*Section 02 — Chalk entry:* Founding page properties added inline (accurate at Yellow; structurally incomplete; subtly wrong in undiscoverable ways; unknowingly significant in places). Unit-FELIS “Institutional Texture — possible inclusion” flag added. Committed `abe0751`, BR-003v4, 2026-04-20.
+
+*Section 02 — Brew 3000 entry:* Unit-FELIS institutional position comparison note added (FELIS has stronger position — clean record, no outstanding review). Committed `abe0751`, BR-003v4, 2026-04-20.
+
+*Maintenance guide Appendix D:* Two-identity disambiguation table expanded to three categories: named-but-redacted (Founder, ITCRuD Director) ×2; structurally-unnamed (The Computer) ×1. Section heading updated. Committed `abe0751`, BR-003v4, 2026-04-20.
+
+*LORE-BIO-NARCBREW3000:* Unit-FELIS institutional position comparison note added to Lore Flags. "For human review" clearance bullet corrected — prior text stated Brew 3000 was the only provisional clearance; Unit-FELIS also holds Red provisional (but with no outstanding review). Committed `9b80f80`, `b52b586`, BR-003v4, 2026-04-20.
+
+**Narrative consistency review — complete**
+Full cross-character read of all 17 bios and Section 02. 14 findings recorded. 9 items clean. 1 item patched immediately (CF-NR-001: Brew 3000 clearance note — see above). 4 cross-character documentation asymmetries identified and patched as a batch: open thread flags added to LORE-BIO-DOE-JANE (Chalk/Doe infrastructure framing suggestion), LORE-BIO-LEE-ROBERT (Lee/Chalk off-record conversation), LORE-BIO-FIREWALL-ALEX (Unit-FELIS Outstanding Review Register entry), LORE-BIO-WATCHFUL-VICTOR (Chalk archive access). No contradictions found — all findings were documentation gaps, not content conflicts. Committed `78af1db`, BR-003v4, 2026-04-20.
+
+**Claude — External AI Planning Consultant — ratified**
+New supporting cast character. Source material: MIN-2026-001 meeting minutes; IR-2026-001 hybrid blog posts 01 and 03. Clearance Green (provisional — scope restricted: ITCRuD support only). Employee ID NARC-018. Reports to [REDACTED], Director, ITCRuD. No interaction with Unit-FELIS or NARC-Brew 3000. Bio template designed for reuse across future ITCRuD engagements. Key canonical details: text-only interface; no network access to NARC systems; no persistent memory between sessions; not a decision-maker; all outputs reviewed by Director. ARIA's MIN-2026-001 appendix assessment positive. Firewall's access review: “acceptable, marginally” — not in Outstanding Review Register. Sparks secondment request open and unresolved — do not resolve. HR minimal file created (`DOSSIER-GREEN-CLAUDE-CONSULTANT.md`) at ITCRuD direction — not a full onboarding. Section 02 entry added; bio register extended to 18 entries. Committed `459799504`, BR-003v4, 2026-04-20.
+
+---
+
 # BR-001 Issues Register — Archived
 
 All 31 issues raised during the lore-consolidation review. All resolved. Transferred from `narc-primer-index.md` during production conversion.
