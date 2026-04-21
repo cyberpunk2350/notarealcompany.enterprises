@@ -21,9 +21,9 @@ Items explicitly scoped and parked pending external conditions.
 | NARC website blog section build | Session 09 / BR-004 | 12 posts exist. Interim path: `blogs/` from root. Final path and section design owned by BR-004. |
 | Stale image reference fix — R&D-SystemDesign-Internal-MediaMCPServers.md | Session 08 | §3: `architecture-placeholder.svg` → `architecture-mediamcpservers.svg`. BR-002 action. |
 | ~~Lore FAQ — author-facing~~ | BR-003 parking lot | **Complete — BR-003v3, 2026-04-17.** `narc-primer-appendix-lore-faq.md` (Appendix G). |
-| In-universe FAQ — site-renderable | BR-003 parking lot | Derived from Lore FAQ; NARC voice. Lore FAQ now complete — this item is unblocked. |
+| ~~In-universe FAQ — site-renderable~~ | BR-003 parking lot | **Complete — BR-003v4, 2026-04-20.** Three documents produced: `Corp-FAQ-Internal-VariantA-ComplianceRegister.md` (straight compliance register), `Corp-FAQ-Internal-VariantB-ElevatedRegister.md` (elevated register — compare with A before selecting for production), `Corp-FAQ-Public-ExternalFrequentlyAskedQuestions.md` (PA corporate PR voice). All in `assets/docs/corp/`. Joint HR + PA authorship (internal); PA authorship (external). Register selection for internal version pending human review. |
 | ARIA — "what constitutes a meeting" development | BR-003v2 Q-21 | Human-authored lore beat. Includes no-shutdown-path thread (D-04). Do not generate. |
-| Narrative consistency review — all bios, dossiers, profiles, Section 02 | BR-003v3, 2026-04-18 | Full cross-character review for consistency within the larger narrative and collectively. Read all bios and dossiers together before any major content expansion. Priority: before founding page session. |
+| ~~Narrative consistency review — all bios, dossiers, profiles, Section 02~~ | BR-003v3, 2026-04-18 | **Complete — BR-003v4, 2026-04-20.** Full cross-character review of all 17 bios and Section 02. 14 findings; 9 clean; 1 patched immediately (CF-NR-001); 4 cross-character documentation gaps closed (P-12–15). No contradictions found. |
 | lore-build cleanup — original lore bio files | BR-003v2 | Files at `narc-lore-build/branchs/BR-003 - Staff Dossiers/Lore Bios/` superseded by `_meta/lore-bible/character-bios/`. HITL archiving/removal. |
 | Dossier file rename scheme (CF-001) | BR-003 | Naming convention conflict; isolated in `assets/docs/hr/staff/`; human decision pending. |
 
@@ -49,21 +49,21 @@ Ideas and future deliverables set aside for later branches or sessions.
 
 | Item | Source(s) | Notes |
 |------|-----------|-------|
-| Expand supporting cast | BR-003 | NARC Historian, Office Cat, low-level staff. Future branch after roster bios complete. |
+| Expand supporting cast | BR-003 | **Partially complete.** Four new supporting cast characters added BR-003v3: [REDACTED] Founder (ratified), The Computer (ratified), Mortimer Chalk/Official Historian (ratified), Unit-FELIS/The Cat (ratified). Claude AI Planning Consultant added BR-003v4 (ratified). Remaining scope: CCO, PA Director (parked — see PA/CCO entry), Internal Security Bureaucrat (vacancy notice exists; character unassigned), low-level staff. |
 | Internal/external site versions | BR-003v3, 2026-04-18 | Investigate dual site: internal (employee-facing compliance/operational register) and external (public-facing corporate PR register, Pitchman's domain). No real security between them — both accessible to real-world visitors as a storytelling device. The gap between what NARC says publicly and what employees deal with is part of the joke. "Confidential" documents accessible to anyone who clicks through. BR-004 scope. |
 | Public Affairs (PA) + CCO — position development | BR-003v4, 2026-04-20 | PA and Marketing are peer departments under a Chief Communications Officer (CCO). CCO: name TBD; clearance Indigo assumed (C-suite peer); personality undefined — future session. PA Director: name TBD; Park covering administratively for now. PA voice register: measured and formal (official statements, press, institutional communications) — distinct from Pitchman's forward-leaning brand narrative. Structural tension: what Pitchman calls the story vs what PA officially says publicly may be amusingly misaligned. Develop CCO and PA Director as named characters before any documents formally attribute authorship to them. |
 | Qualifier catalog expansion | BR-003 | Change requests, purchase requests, memos, runbooks, HR docs. |
 | Clearance level hierarchy document | BR-003 | Joint HR + Internal Security; full spectrum + rules. |
 | Site-wide lore audit | BR-003 | Pre-canonisation inconsistencies; IR-2026-001 docs; title drift. |
 | Employee photos | BR-003 | New/replacement portrait assets. Human. |
-| Security files | BR-003 | Internal Security equivalent of dossiers. |
+| Security files | BR-003 | **In Progress — BR-003v4, 2026-04-20.** Internal Security equivalent of HR dossiers, maintained by Victor Watchful / Internal Security. Template design in progress this session; generation prompt template to be added to Appendix F. Initial file data generation to be offloaded to external model (ChatGPT/Gemini) using prompt template. |
 | Park/Watchful relationship brief | BR-003 | ChatGPT candidate; both deal with institutional control through different mechanisms. |
 | Sparks/Pitchman collaborative artifact | BR-003 | First specific named joint output. |
-| Internal Security Bureaucrat assignment | BR-003 | Vacancy stub in place; awaiting character assignment. |
+| Internal Security Bureaucrat assignment | BR-003 | **Partially complete.** Vacancy notice created and moved to `assets/docs/hr/notices/HR-Notice-Internal-VacancyInternalSecurityBureaucrat.md` (BR-003v3). Old stub `VACANT-InternalSecurityBureaucrat.md` removed from hr/staff/ (HITL, confirmed done BR-003v4). Character still unassigned; security file template (in progress this session) will include a placeholder for this role once assigned. |
 | Condensed primer / quick-reference for artifact building | BR-001 | Full primer is lore bible; condensed version needed for cold-session artifact work. Scope TBD. |
 | NARC Lexicon | BR-001 / ISS-023 | New document. Starting entries: Complexity Points, Approved Language Registry, Class 2 Infraction, Form 27-C. Add further terms as they emerge. |
 | NARC founding page | BR-001 | 2025 canonical; narrative and framing TBD. Lore-significant; not urgent. |
-| `[REDACTED]` Founder — full lore profile | BR-001 | They/them. Ghost story mythology. Office rumors, founding narrative, document presence, org relationship. Distinct from ITCRuD Director `[REDACTED]`. |
+| ~~`[REDACTED]` Founder — full lore profile~~ | BR-001 | **Complete — BR-003v3, 2026-04-18.** `LORE-BIO-[REDACTED]-FOUNDER.md` ratified; Section 02 entry expanded; founding page development items A-01–A-05 flagged for founding page session. Ghost story framing canonical. Gemini bio substantially rejected. |
 | Division registry design | BR-001 | Pun-forward naming convention; growing meta-joke; website expression; retirement mechanism. |
 | ARIA project card | BR-001 | New project card to be created for the site. |
 | Logo design briefs (logo1.svg, logo4.svg) | ISS-019 | Both flagged for possible future use; needs design brief before deployment. |
