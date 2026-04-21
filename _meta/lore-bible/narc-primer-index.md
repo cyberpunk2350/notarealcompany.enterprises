@@ -73,6 +73,7 @@ The lore bible is divided into numbered sections and appendices. Sections 01–0
 | [`narc-primer-appendix-qualifier-catalog.md`](narc-primer-appendix-qualifier-catalog.md) | **Appendix E (Qualifier Catalog):** Meeting minutes qualifier entries (QUAL-MM-A01 through A05, QUAL-MM-B01 through B04) and shared character beat qualifiers. BR-003 production artifact. |
 | [`narc-primer-appendix-chatgpt-prompt-templates.md`](narc-primer-appendix-chatgpt-prompt-templates.md) | **Appendix F (ChatGPT Prompt Templates):** Four generation prompt templates for lore-consistent content production. BR-003 production artifact. |
 | [`narc-primer-appendix-lore-faq.md`](narc-primer-appendix-lore-faq.md) | **Appendix G (Lore FAQ):** Author-facing plain-English reference covering all foundational NARC concepts: what NARC is, The Computer, clearance levels, ITCRuD, Happy Packets, ARIA, the Founder, NARC-Brew 3000, the homelab, and how the humor works. The one place that explains the joke. BR-003v3 production artifact. |
+| [`narc-primer-appendix-brew3k-advisory-samples.md`](narc-primer-appendix-brew3k-advisory-samples.md) | **Appendix H (Brew 3000 Advisory Sample Catalog):** Curated illustrative sample of ADVISORY: format messages across all notice types. ~25 entries covering meeting duration, environmental observations, User Surprise Optimization, supply status, inter-unit transmissions, closing session advisory, and Mandatory Fun adjacency. Includes curation notes on what was removed from source material and why. BR-003v4 production artifact. |
 
 ---
 
