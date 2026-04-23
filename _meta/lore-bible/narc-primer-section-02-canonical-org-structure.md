@@ -91,7 +91,6 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 - **Victor Watchful arrival:** Logs his arrival time as "not observed" — valid telemetry, not a data gap. Does not escalate. Canonical.
 - **Lee personal minutes index:** ARIA has noted that Lee re-catalogs her meeting minutes outputs. This observation has not been shared with Lee.
 - `v2.1` designation used; v1.x history is undefined and should remain so unless deliberately developed
-- Gets a project card — see parking lot
 
 **NARC-Brew 3000**[^3]
 
@@ -111,7 +110,6 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 - **"Learning opportunity":** Internal log label for overflow events. No corrective action associated. Whether "learning" implies any system behavior change is not established.
 - **Temperature variance:** Beverage temperature varies with meeting duration. No canonical range established — leave unspecified; mutable.
 - **ADVISORY: format:** Deadpan operational register applied to human situations. Examples in LORE-BIO-NARCBREW3000.md. Session SUMMARY label belongs to ARIA — Brew 3000 advisories are beverage-scoped only.
-- Gets a lore bible bio — see parking lot
 
 ### The Founder
 
