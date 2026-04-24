@@ -13,7 +13,7 @@
 
 ---
 
-> *This document has been reviewed for compliance with NARC Information Dissemination Policy 4.7.1. Citizens of Infrared clearance who have accessed this document are reminded that curiosity is a wellness concern. Please report to Chuck Cheerful immediately.*
+> *This document has been reviewed for compliance with NARC Information Dissemination Policy 4.7.1. Employees of Infrared clearance who have accessed this document are reminded that curiosity is a wellness concern. Please report to Chuck Cheerful immediately.*
 
 ---
 
@@ -111,9 +111,9 @@ The consultant facilitated structured decision-making across a multi-topic plann
 
 The engagement produced measurable value in one specific area: the consultant's structured self-review process — a blind spot analysis conducted at session close — identified several assumptions ITCRuD had treated as confirmed facts when they were, in practice, inferred. Hardware described as "installed" had in some cases only been received. Dependency chains in the task list were incomplete. The cluster master role of pve1 had not been flagged as a blocking question for the decommission phase.
 
-These findings were corrected before planning concluded. The Computer approved of the thoroughness.
+These findings were corrected before planning concluded. Approval was obtained through established channels.
 
-**Documented limitations:** The consultant cannot verify physical hardware state. Its output requires independent validation. Judgment calls belong to the human operator. Linda Park (HR) has asked whether the consultant is eligible for PTO accrual. It is not. Chuck Cheerful has added it to the morale distribution list regardless.
+**Documented limitations:** The consultant cannot verify physical hardware state. Its output requires independent validation. Judgment calls belong to the human operator. Linda Park (HR) has asked whether the consultant is eligible for the NARC Employee Wellness Program. It is not. Chuck Cheerful has added it to the morale distribution list regardless.
 
 ---
 
@@ -134,7 +134,7 @@ The legacy NAS (pve1) remains in active service. Jellyfin continues to serve med
 
 ---
 
-*Post 2 in this series covers storage architecture and network design — ZFS pool layout, the PERC H710 IT mode flash, and NIC allocation. Citizens who enjoy ZFS are encouraged to continue reading. Citizens who do not yet know what ZFS is are also encouraged to continue reading. The Computer recommends it.*
+*Post 2 in this series covers storage architecture and network design — ZFS pool layout, the PERC H710 IT mode flash, and NIC allocation. Employees who enjoy ZFS are encouraged to continue reading. Employees who do not yet know what ZFS is are also encouraged to continue reading. Continuation has been approved through established channels.*
 
 ---
 
