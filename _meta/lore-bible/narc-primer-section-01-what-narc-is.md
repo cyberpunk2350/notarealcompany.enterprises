@@ -39,16 +39,32 @@ NARC operates with a deliberate **Alpha Complex** undertone drawn from the *Para
 Key Paranoia-derived elements in active use:
 
 | Element | Usage in NARC |
-|---------|--------------|
+|---------|---------------|
 | The Computer | Omnipresent. Visible in every seal and approval. Never named aloud.[^1][^3] |
 | Employees | Term for all staff in formal documents; replaces "Citizens" (governmental framing, retired).[^3] |
-| Clearance levels (colours) | Access tiers for documents and systems. Full Paranoia spectrum in use: Infrared, Red, Orange, Yellow, Green, Blue, Indigo, Violet. Implementation mechanics undefined.[^4] |
+| Clearance levels (colors) | Access tiers for documents and systems. Full Paranoia spectrum in use: Infrared, Red, Orange, Yellow, Green, Blue, Indigo, Violet. Implementation mechanics undefined.[^2][^4] |
 | Termination | Consequence label for serious violations; replaces "Treason / Treason Event" (RPG framing, retired).[^3] |
 | Mandatory Fun | Chuck Cheerful's domain; also a tone element.[^1] |
 
-**Clearance level spectrum confirmed in use:** Infrared (lowest), Red, Orange, Yellow, Green, Blue, Indigo, Violet.[^2]
+---
 
-**Ultraviolet** — reserved exclusively for the `[REDACTED]` Founder.[^2] This is a distinct use of `[REDACTED]` from the ITCRuD Director — two separate redacted identities; do not conflate them.
+**Clearance level spectrum confirmed in use:** <br>
+| Clearance Level        | Hexcode   | Badge                                                        |
+| ---------------------  | --------- | ------------------------------------------------------------ | 
+| Infrared (lowest)      | #000000 | ![Infrared](../../images/seals/clearance/infrared.svg)       |
+| Red (employees)        | #FF0000 | ![Red](../../images/seals/clearance/red.svg)                 |
+| Orange                 | #FFA500 | ![Orange](../../images/seals/clearance/orange.svg)           |
+| Yellow                 | #FFFF00 | ![Yellow](../../images/seals/clearance/yellow.svg)           |
+| Green                  | #00FF00 | ![Green](../../images/seals/clearance/green.svg)             |
+| Blue                   | #0000FF | ![Blue](../../images/seals/clearance/blue.svg)               |
+| Indigo                 | #4B0082 | ![Indigo](../../images/seals/clearance/indigo.svg)           |
+| Violet (highest)       | #9400D3 | ![Violet](../../images/seals/clearance/violet.svg)           |
+| Ultraviolet (Reserved) | #FFFFFF | ![Ultraviolet](../../images/seals/clearance/ultraviolet.svg) |
+
+**Ultraviolet** — reserved exclusively for the `[REDACTED]` Founder.[^2][^6]. <br>
+**Infrared** — reserved for non-employee access, such as contractors, vendors, or visitors.
+
+---
 
 ### The Core Tone Rule
 
@@ -61,5 +77,6 @@ The joke lives in the metadata, the framing, and the subject matter — not in t
 [^1]: Site-confirmed — verified in NARC site source files (NARC-master.zip, 2026-03-22).
 [^2]: Ratified — BR-001 lore-consolidation review, 2026-03-22.
 [^3]: Ruling — BR-001 lore-consolidation review, 2026-03-22. Supersedes prior session-established usage.
-[^4]: Site-confirmed (partial) — individual clearance colours confirmed in site content; full Paranoia spectrum ratified BR-001, 2026-03-22.
+[^4]: Site-confirmed (partial) — individual clearance colors confirmed in site content; full Paranoia spectrum ratified BR-001, 2026-03-22.
 [^5]: Site-confirmed — derived from analysis of actual site documents (NARC-master.zip, 2026-03-22).
+[^6]: This is a distinct use of `[REDACTED]` separate from the ITCRuD Director — two separate redacted identities; do not conflate them.
