@@ -67,6 +67,7 @@ Organized by conceptual cluster for author navigation. Clusters are author-facin
 | **Asymmetry** | Not balanced or symmetrical in its relationship to surrounding systems or entities. |
 | **Expansive** | Operational presence consistently exceeds defined scope boundaries without formal amendment. Applied where reach is the defining characteristic rather than any specific conduct. |
 | **Connective** | The subject forms links between otherwise separate information streams, personnel, or systems. The connections are functional. Their aggregate effect is not fully mapped. |
+| **Catalytic** | Outputs are consistently absorbed into operational environments before review states are complete. The system moves because the subject has already acted. Applied where the defining characteristic is the acceleration of adoption independent of authorization sequencing. |
 
 ---
 

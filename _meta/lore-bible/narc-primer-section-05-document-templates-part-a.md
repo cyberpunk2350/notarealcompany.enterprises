@@ -1,6 +1,6 @@
 # NARC Lore Primer — Section 05: Document Format Templates (Part A: §5.1–5.5)
 
-> **Cross-references:** Section 04 (naming convention), Section 06 (document format templates Part B: §5.6–5.11), Section 07 (seal/image assets), Section 09 (site index files)
+> **Cross-references:** Section 04 (naming convention), Section 06 (document format templates Part B: §5.6–5.11), Section 07 (seal/image assets), Section 09 (site index files), Appendix I (content generation kickoff prompt)
 
 ---
 

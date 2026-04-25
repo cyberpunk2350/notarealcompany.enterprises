@@ -1,6 +1,6 @@
 # NARC Lore Primer — Section 04: Document File Naming Convention
 
-> **Cross-references:** Section 05 (document format templates), Section 09 (site index files — how filenames parse), Section 12 (artifact inventory)
+> **Cross-references:** Section 05 (document format templates), Section 09 (site index files — how filenames parse), Section 12 (artifact inventory), Appendix I (content generation kickoff prompt)
 
 ---
 

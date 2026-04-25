@@ -1,6 +1,6 @@
 # NARC Lore Primer — Section 06: Document Format Templates (Part B: §5.6–5.11)
 
-> **Cross-references:** Section 05 (document format templates Part A: §5.1–5.5), Section 03 (voice and tone), Section 08 (blog post styles — full style descriptions)
+> **Cross-references:** Section 05 (document format templates Part A: §5.1–5.5), Section 03 (voice and tone), Section 08 (blog post styles — full style descriptions), Appendix I (content generation kickoff prompt)
 
 ---
 
