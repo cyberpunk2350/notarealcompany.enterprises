@@ -78,5 +78,5 @@ The joke lives in the metadata, the framing, and the subject matter — not in t
 [^2]: Ratified — BR-001 lore-consolidation review, 2026-03-22.
 [^3]: Ruling — BR-001 lore-consolidation review, 2026-03-22. Supersedes prior session-established usage.
 [^4]: Site-confirmed (partial) — individual clearance colors confirmed in site content; full Paranoia spectrum ratified BR-001, 2026-03-22.
-[^5]: Site-confirmed — derived from analysis of actual site documents (NARC-master.zip, 2026-03-22).
+[^5]: Site-confirmed — derived from analysis of actual site documents (NARC-master.zip, 2026-03-22). 
 [^6]: This is a distinct use of `[REDACTED]` separate from the ITCRuD Director — two separate redacted identities; do not conflate them.
