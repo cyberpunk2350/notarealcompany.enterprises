@@ -61,7 +61,7 @@ Key Paranoia-derived elements in active use:
 | Violet (highest)       | #9400D3 | ![Violet](../../images/seals/clearance/violet.svg)           |
 | Ultraviolet (Reserved) | #FFFFFF | ![Ultraviolet](../../images/seals/clearance/ultraviolet.svg) |
 
-**Ultraviolet** — reserved exclusively for the `[REDACTED]` Founder.[^2][^6]. <br>
+**Ultraviolet** — reserved exclusively for the `[REDACTED]` Founder.[^2][^5]. <br>
 **Infrared** — reserved for non-employee access, such as contractors, vendors, or visitors.
 
 ---
@@ -70,7 +70,7 @@ Key Paranoia-derived elements in active use:
 
 **Write as if the organization is real, serious, and slightly paranoid. Let the context do the comedy.**
 
-The joke lives in the metadata, the framing, and the subject matter — not in the prose itself. Documents never wink at the camera. The author voice is a mid-level compliance officer who believes the procedures are reasonable.[^5]
+The joke lives in the metadata, the framing, and the subject matter — not in the prose itself. Documents never wink at the camera. The author voice is a mid-level compliance officer who believes the procedures are reasonable.[^6]
 
 ---
 
@@ -78,5 +78,5 @@ The joke lives in the metadata, the framing, and the subject matter — not in t
 [^2]: Ratified — BR-001 lore-consolidation review, 2026-03-22.
 [^3]: Ruling — BR-001 lore-consolidation review, 2026-03-22. Supersedes prior session-established usage.
 [^4]: Site-confirmed (partial) — individual clearance colors confirmed in site content; full Paranoia spectrum ratified BR-001, 2026-03-22.
-[^5]: Site-confirmed — derived from analysis of actual site documents (NARC-master.zip, 2026-03-22). 
-[^6]: This is a distinct use of `[REDACTED]` separate from the ITCRuD Director — two separate redacted identities; do not conflate them.
+[^5]: This is a distinct use of `[REDACTED]` separate from the ITCRuD Director — two separate redacted identities; do not conflate them.
+[^6]: Site-confirmed — derived from analysis of actual site documents (NARC-master.zip, 2026-03-22). 
