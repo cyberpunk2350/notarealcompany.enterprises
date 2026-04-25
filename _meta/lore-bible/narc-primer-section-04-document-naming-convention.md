@@ -1,6 +1,10 @@
 # NARC Lore Primer — Section 04: Document File Naming Convention
 
-> **Cross-references:** Section 05 (document format templates), Section 09 (site index files — how filenames parse), Section 12 (artifact inventory), Appendix I (content generation kickoff prompt)
+> **Cross-references:** <br>
+> Section 05 (document format templates)<br>
+> Section 09 (site index files — how filenames parse)<br>
+> Section 12 (artifact inventory)<br>
+> Appendix I (content generation kickoff prompt)<br>
 
 ---
 
@@ -80,6 +84,6 @@ The following naming corrections are pending execution in BR-002:
 
 ---
 
-[^1]: Site-confirmed — verified in NARC site source files (NARC-master.zip, 2026-03-22).
-[^2]: Ratified — BR-001 lore-consolidation review, 2026-03-22. Prior prefixes retired; all new documents must use canonical prefix.
-[^3]: Session-established — introduced in session 09 documents; adopted as standard.
+[^1]: Site-confirmed — verified in NARC site source files (NARC-master.zip, 2026-03-22).<br>
+[^2]: Ratified — BR-001 lore-consolidation review, 2026-03-22. Prior prefixes retired; all new documents must use canonical prefix.<br>
+[^3]: Session-established — introduced in session 09 documents; adopted as standard.<br>
