@@ -1,14 +1,14 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
+# Release Status: Confidential / Internal NSEC
 
 # NARC INTERNAL SECURITY FILE
 ## [SUBJECT NAME] — [TITLE]
 
 **File Reference:** NARC-IS-SECFILE-[NNN]<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** [DATE]<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-[NNN]<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 
@@ -110,6 +110,12 @@
 *Standing notation on subject. Passive voice throughout. No attribution. No inference stated as fact. Observations are observations.*
 
 [Standing assessment — two to five sentences maximum. Passive voice. States what is observed and what has been noted. Does not speculate. Does not editorialize. Does not explain Watchful's methods. If the subject presents no items of interest: "No items of current Internal Security interest. File maintained as standard practice. Posture: routine monitoring."]
+
+---
+![Classification Seal](../../../images/seals/confidential2.svg)
+![Internal Seal](../../../images/seals/internal-NSEC.svg)
+![Indigo](../../../images/seals/clearance/indigo.svg)
+![Approved by the Computer](../../../images/seals/approved-by-computer.svg)
 
 ---
 
