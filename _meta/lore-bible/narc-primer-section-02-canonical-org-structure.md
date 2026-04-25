@@ -45,12 +45,12 @@ Division codes appear in `assets/docs/` documents and in the employee badge SVG.
 
 The following are the founding set:
 
-| Code | Full Name |
-|------|-----------|
-| NOPS | Operations |
-| NIS | Infrastructure Services |
-| NSEC | Security Division |
-| NRD | Research Division |
+| Code | Full Name | Internal Seal |
+|------|-----------|-------------- |
+| NOPS | Operations | ![NOPS](../../images/seals/internal-NOPS.svg) |
+| NIS | Infrastructure Services | ![NIS](../../images/seals/internal-NIS.svg) |
+| NSEC | Security Division | ![NSEC](../../images/seals/internal-NSEC.svg) |
+| NRD | Research Division | ![NRD](../../images/seals/internal-NRD.svg) |
 
 New divisions follow the same pun-forward naming convention. Existing codes are retained as-is; expanded names may be revised toward puns in a future pass. Full division registry design is a parking lot item.
 
