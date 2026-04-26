@@ -72,9 +72,18 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 - **Lore Beat — institutional deference:** The ITCRuD Director is not given more deference than any other sub-division director. He has no more authority than any employee at his level. But there is something different about him, and how people treat him. A subtle tone shift. Nothing outright acknowledged, confirmed, admitted, or stated.
 - **Firewall/ITCRuD dynamic:** Both parties produce extensive documentation; neither acts on the other's. An observed mutual non-collision. This dynamic is unnamed — describe the behavior only; do not label it.
 
+### Roles Referenced in README
+
+The `README.md` mentions two roles in the contributing section.[^1]
+
+- **Happiness Officer** — "Pull requests will be routed through the Happiness Officer…" — confirmed as Chuck Cheerful[^1]
+- **Internal Security Bureaucrat** — mentioned alongside Happiness Officer in README contributing section — not mapped to a named character[^5]
+
+---
+
 ### Supporting Cast
 
-**ARIA — Automated Record and Intelligence Assistant, v2.1**[^3]
+### ARIA — Automated Record and Intelligence Assistant, v2.1[^3]
 
 - AI note-taking system — introduced site-wide
 - **Required for all meeting minutes** — not optional; any meeting minutes entry must have ARIA as author
@@ -91,8 +100,11 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 - **Victor Watchful arrival:** Logs his arrival time as "not observed" — valid telemetry, not a data gap. Does not escalate. Canonical.
 - **Lee personal minutes index:** ARIA has noted that Lee re-catalogs her meeting minutes outputs. This observation has not been shared with Lee.
 - `v2.1` designation used; v1.x history is undefined and should remain so unless deliberately developed
+- Lore bio: [`LORE-BIO-ARIA.md`](character-bios/LORE-BIO-ARIA.md)
 
-**NARC-Brew 3000**[^3]
+---
+
+### NARC-Brew 3000[^3]
 
 - AI-enabled coffee machine fleet — a product of R&D; canonical origin is the existing CoffeeBot AI project card
 - **Fleet, not a single unit** — everywhere, because coffee is everywhere
@@ -110,10 +122,11 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 - **"Learning opportunity":** Internal log label for overflow events. No corrective action associated. Whether "learning" implies any system behavior change is not established.
 - **Temperature variance:** Beverage temperature varies with meeting duration. No canonical range established — leave unspecified; mutable.
 - **ADVISORY: format:** Deadpan operational register applied to human situations. Examples in LORE-BIO-NARCBREW3000.md. Session SUMMARY label belongs to ARIA — Brew 3000 advisories are beverage-scoped only.
+- Dossier: `DOSSIER-RED-NARCBREW3000.md` | Lore bio: [`LORE-BIO-NARCBREW3000.md`](character-bios/LORE-BIO-NARCBREW3000.md)
 
-### The Founder
+---
 
-**`[REDACTED]` Founder**[^3]
+### `[REDACTED]` Founder[^3]
 
 - Pronoun: **they/them** — canonical; apply even if source material uses other pronouns
 - Clearance: **Ultraviolet** — reserved exclusively for the Founder; above the entire visible org chart
@@ -128,13 +141,13 @@ New divisions follow the same pun-forward naming convention. Existing codes are 
 - **Founding page:** Canonical appearance for lore development. Framing: institutional record of the founding, heavily redacted, told through what is missing. Chalk is the designated author.[^7]
 - **Canonical appearance:** the founding/history page only (TBD)
 - **Distinct `[REDACTED]` identity** from the ITCRuD Director — do not conflate; context determines which is meant
-- Full lore bio: `LORE-BIO-[REDACTED]-FOUNDER.md` — ratified BR-003v3, 2026-04-18[^7]
+- Dossier: `NARC-HR-DOSSIER-013` | Lore bio: [`LORE-BIO-[REDACTED]-FOUNDER.md`](character-bios/LORE-BIO-[REDACTED]-FOUNDER.md)
 
-### The Computer
+---
 
-The `approved-by-computer.svg` seal exists in `images/seals/`, and approval blocks appear in site documents.[^1]
+### The Computer[^1][^3]
 
-**Nature of The Computer:**[^3] Omnipresent. Visible in every seal and approval. Never named aloud. The Computer permeates everything — documents, stamps, approval blocks — but no employee ever directly acknowledges it by name. Everyone knows it is there; no one will admit it out loud. Naming it directly is avoided, as if doing so might cause it to manifest. It functions as a dark urban legend embedded in corporate bureaucracy.
+Omnipresent. Visible in every seal and approval. Never named aloud. The Computer permeates everything — documents, stamps, approval blocks — but no employee ever directly acknowledges it by name. Everyone knows it is there; no one will admit it out loud. Naming it directly is avoided, as if doing so might cause it to manifest. It functions as a dark urban legend embedded in corporate bureaucracy.
 
 **Design rule:** The Computer is a *passive institutional constant* — it does not act; things act in its name. It is not a character with mechanics, relationships, or opinions. The seal is its only legible output. The moment it is mechanized — overriding registers, normalizing anomalies, retroactively legitimizing accidents — it collapses from atmosphere into plot device. Do not mechanize it.[^7]
 
@@ -151,14 +164,7 @@ Canonical usage:
 - The Computer row in Approvals tables — valid as a structural reference
 - Direct verbal invocation by employees — **not permitted**
 
-Full lore bio: `LORE-BIO-THE-COMPUTER.md` — ratified BR-003v3, 2026-04-18[^7]
-
-### Roles Referenced in README (not in leadership.html)
-
-The `README.md` mentions two roles in the contributing section.[^1]
-
-- **Happiness Officer** — "Pull requests will be routed through the Happiness Officer…" — confirmed as Chuck Cheerful[^1]
-- **Internal Security Bureaucrat** — mentioned alongside Happiness Officer in README contributing section — not mapped to a named character[^5]
+- Lore bio: [`LORE-BIO-THE-COMPUTER.md`](character-bios/LORE-BIO-THE-COMPUTER.md)
 
 ---
 
@@ -258,4 +264,4 @@ Author-facing character design documents for all named roster entries. Literary 
 
 ---
 
-*Section 02 last updated: BR-003v4, 2026-04-20. Claude (External AI Planning Consultant) added as supporting cast; bio register extended to 18 entries.*
+*Section 02 last updated: BR-003v5, 2026-04-26. Supporting cast restructured to unified H3 format; Roles Referenced in README moved before Supporting Cast; dossier/bio links added to ARIA, Brew 3000, Founder, and Computer entries.*
