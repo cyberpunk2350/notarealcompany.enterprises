@@ -222,6 +222,27 @@ Canonical usage:
 
 ---
 
+### CCO — Chief Communications Officer *(TBD)*
+
+- **Position:** Chief Communications Officer — C-suite peer; sits above Marketing & Communications and Public Affairs
+- **Character:** Name TBD. Clearance: Indigo (assumed, consistent with C-suite peers). Personality undefined.
+- **Scope:** Marketing (Pitchman) and Public Affairs (PA Director) are peer departments reporting to the CCO.
+- **Current state:** Position established structurally in BR-003v4. Character not yet developed. Do not generate name, personality, or voice until a dedicated session assigns them.
+- No dossier. No bio. No documents attributed to this role until the character is named.
+
+---
+
+### PA Director — Public Affairs Director *(TBD)*
+
+- **Position:** Director, Public Affairs — peer to Max Pitchman (Marketing) under the CCO
+- **Character:** Name TBD. Linda Park is covering administratively for now — PA correspondence routes through HR pending assignment.
+- **Voice register:** Measured and formal — official statements, press communications, institutional voice. Distinct from Pitchman's forward-leaning brand narrative. Structural tension: what Pitchman calls the story vs. what PA officially says may be amusingly misaligned.
+- **Current state:** Position established structurally in BR-003v4. Character not yet developed. Do not generate name, personality, or voice until a dedicated session assigns them.
+- No dossier. No bio. No documents formally attributed to this role until the character is named.
+
+---
+
+
 ### Character Lore Bios
 
 Author-facing character design documents for all named roster entries. Literary format — not NARC voice. These are production references for content writers, not in-universe documents.
@@ -264,4 +285,4 @@ Author-facing character design documents for all named roster entries. Literary 
 
 ---
 
-*Section 02 last updated: BR-003v5, 2026-04-26. Supporting cast restructured to unified H3 format; Roles Referenced in README moved before Supporting Cast; dossier/bio links added to ARIA, Brew 3000, Founder, and Computer entries.*
+*Section 02 last updated: BR-003v5, 2026-04-26. Supporting cast restructured to unified H3 format; Roles Referenced in README moved before Supporting Cast; dossier/bio links added to ARIA, Brew 3000, Founder, Computer; CCO and PA Director placeholder entries added.*
