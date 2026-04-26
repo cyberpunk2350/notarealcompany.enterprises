@@ -130,7 +130,7 @@ Internal Security files are maintained at:
 File naming: SECFILE-[NNN]-[NAME].md
 Numbering sequence is independent (NARC-IS-SECFILE-[NNN]). Check the secfiles
 directory to determine the next available number.
-Template: /projects/narc-website/assets/docs/security/SECFILE-TEMPLATE-InternalSecurityFileTemplateB.md
+Template: /projects/narc-website/assets/docs/security/Security-Template-Internal-SecurityFile.md
 Risk Classification label vocabulary: /projects/narc-website/_meta/lore-bible/narc-secfile-risk-classification-vocabulary.md
 
 ---

@@ -31,6 +31,7 @@ Items explicitly scoped and parked pending external conditions.
 
 | Item | Issue | Details |
 |------|-------|---------|
+| Rename `narc-secfile-risk-classification-vocabulary.md` → `narc-primer-appendix-secfile-risk-classification-vocabulary.md` | P-18, BR-003v5 | Naming convention compliance. HITL: `git mv` in narc-website repo, branch br-003-staff-dossiers. Update all cross-references (Appendix I prompt body, index, README). |
 | Rename `IT-Operations-*` project cards → `IT-*` | ISS-012 | VPNMesh, MockSaaS, CorporateDNS, FakeCorporateSaaS, CarrierPigeonMessaging. Update `assets/projects/index.json` for each. |
 | Rename `Corporate-Governance-Internal-DocumentationStandards.md` | ISS-011 | → `Corp-Standard-Internal-DocumentationStandards.md`. Update `assets/index.json`. |
 | Rename `Corp-Template-LetterheadOfficial-Memo.md` | ISS-026 | → `Corp-Templates-LetterheadOfficial-Memo.md`. Update `assets/index.json`. |
@@ -56,10 +57,12 @@ Ideas and future deliverables set aside for later branches or sessions.
 | Clearance level hierarchy document | BR-003 | Joint HR + Internal Security; full spectrum + rules. |
 | Site-wide lore audit | BR-003 | Pre-canonisation inconsistencies; IR-2026-001 docs; title drift. |
 | Employee photos | BR-003 | New/replacement portrait assets. Human. |
-| Security files | BR-003 | **In Progress — BR-003v4, 2026-04-20.** Internal Security equivalent of HR dossiers, maintained by Victor Watchful / Internal Security. Template design in progress this session; generation prompt template to be added to Appendix F. Initial file data generation to be offloaded to external model (ChatGPT/Gemini) using prompt template. |
+| ~~Security files~~ | BR-003 | **Complete — BR-003v4, 2026-04-20.** 16 SECFILEs generated and committed. Template finalized (`Security-Template-Internal-SecurityFile.md`). NSEC seal added. Clearance badges from `images/seals/clearance/`. All 16 existing files need header/footer update to match revised template — P-27, BR-003v5. |
 | Park/Watchful relationship brief | BR-003 | ChatGPT candidate; both deal with institutional control through different mechanisms. |
 | Sparks/Pitchman collaborative artifact | BR-003 | First specific named joint output. |
 | Internal Security Bureaucrat assignment | BR-003 | **Partially complete.** Vacancy notice created and moved to `assets/docs/hr/notices/HR-Notice-Internal-VacancyInternalSecurityBureaucrat.md` (BR-003v3). Old stub `VACANT-InternalSecurityBureaucrat.md` removed from hr/staff/ (HITL, confirmed done BR-003v4). Character still unassigned; security file template (in progress this session) will include a placeholder for this role once assigned. |
+| Clean up lore-bible meta references | BR-003v5, P-29 | Session/branch references embedded in main content sections to be moved to footnotes and/or Appendix C. Add session reference index. Low/medium priority. |
+| Reconcile Risk Classification vocabulary doc with SECFILE template | BR-003v5, P-30 | Template uses: Monitored, Noted, Flagged, Routine, Pending, Institutional Constant — not all present in vocabulary doc. Needs alignment pass. Low priority. |
 | Condensed primer / quick-reference for artifact building | BR-001 | Full primer is lore bible; condensed version needed for cold-session artifact work. Scope TBD. |
 | NARC Lexicon | BR-001 / ISS-023 | New document. Starting entries: Complexity Points, Approved Language Registry, Class 2 Infraction, Form 27-C. Add further terms as they emerge. |
 | NARC founding page | BR-001 | 2025 canonical; narrative and framing TBD. Lore-significant; not urgent. |

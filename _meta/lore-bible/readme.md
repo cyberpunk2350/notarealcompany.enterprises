@@ -74,10 +74,16 @@ Part 3 — Artifact Inventory
   narc-primer-section-12-part3-artifact-inventory.md
 
 Appendices
-  narc-primer-section-13-appendix-open-questions.md   [Appendix A — Resolved Questions]
-  narc-primer-section-14-appendix-parking-lot.md      [Appendix B — Parking Lot]
-  narc-primer-appendix-editorial-history.md           [Appendix C — Editorial History]
-  narc-primer-appendix-maintenance-guide.md           [Appendix D — Maintenance Guide]
+  narc-primer-section-13-appendix-open-questions.md              [Appendix A — Open Questions]
+  narc-primer-section-14-appendix-parking-lot.md                 [Appendix B — Parking Lot]
+  narc-primer-appendix-editorial-history.md                      [Appendix C — Editorial History]
+  narc-primer-appendix-maintenance-guide.md                      [Appendix D — Maintenance Guide]
+  narc-primer-appendix-qualifier-catalog.md                      [Appendix E — Qualifier Catalog]
+  narc-primer-appendix-chatgpt-prompt-templates.md               [Appendix F — Prompt Templates]
+  narc-primer-appendix-lore-faq.md                               [Appendix G — Lore FAQ]
+  narc-primer-appendix-brew3k-advisory-samples.md                [Appendix H — Brew 3000 Advisory Catalog]
+  narc-primer-appendix-content-kickoff-prompt.md                 [Appendix I — Content Generation Kickoff Prompt]
+  narc-primer-appendix-secfile-risk-classification-vocabulary.md [Appendix J — SECFILE Risk Classification Vocabulary]
 ```
 
 ---
@@ -122,7 +128,7 @@ NARC is a mock-corporate homelab. Real infrastructure; fictional corporate frami
 |--------|----|--------|
 | Lore consolidation review | BR-001 | Complete — produced this document set |
 | Site reorganisation | BR-002 | Planned — unblocked |
-| Staff dossiers | BR-003 | Planned — unblocked |
+| Staff dossiers | BR-003 through BR-003v5 | In Progress (BR-003v5 active) — see index Branch Reference for full detail |
 | Site expansion and development | BR-004 | Planned — blocked by BR-002 |
 
 ---
