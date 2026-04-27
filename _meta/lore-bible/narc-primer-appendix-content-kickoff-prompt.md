@@ -61,11 +61,10 @@ Blog post examples:
   /projects/narc-website/blogs/IR-2026-001/blog-hybrid-post-02.md     ← hybrid format reference
 
 IMPORTANT — known lore violations in existing hybrid posts: the hybrid posts in
-IR-2026-001 contain some pre-consolidation language ("Citizens" in the memo summary
-block; a direct Computer invocation in post-01). These specific lines are
-non-compliant. When using hybrid posts as format references, use the structural
-format only — do not reproduce those lines. The NARC v2 posts are fully
-lore-compliant and safe to use without reservation.
+IR-2026-001 previously contained pre-consolidation language ("Citizens" in the memo
+summary block; a direct Computer invocation in post-01). These have been corrected
+as of BR-003v6 (2026-04-27). The hybrid posts are now lore-compliant. The NARC v2
+posts remain fully lore-compliant and safe to use without reservation.
 
 Document artifact examples (fully lore-compliant):
   /projects/narc-website/assets/projects/it/IR-2026-001/
@@ -131,7 +130,7 @@ File naming: SECFILE-[NNN]-[NAME].md
 Numbering sequence is independent (NARC-IS-SECFILE-[NNN]). Check the secfiles
 directory to determine the next available number.
 Template: /projects/narc-website/assets/docs/security/Security-Template-Internal-SecurityFile.md
-Risk Classification label vocabulary: /projects/narc-website/_meta/lore-bible/narc-secfile-risk-classification-vocabulary.md
+Risk Classification label vocabulary: /projects/narc-website/_meta/lore-bible/narc-primer-appendix-secfile-risk-classification-vocabulary.md
 
 ---
 
@@ -235,7 +234,9 @@ This prompt assumes the lore bible at `/projects/narc-website/_meta/lore-bible/`
 `narc-primer-section-08-blog-post-styles.md` exists and is current. Use it.
 
 **Known lore violations in existing hybrid posts:**
-The hybrid posts in IR-2026-001 contain pre-consolidation language — "Citizens" in the memo summary block, and a direct Computer invocation in post-01. These are not lore-compliant. The prompt flags this in Step 2. The NARC v2 posts are clean. New hybrid posts should follow the lore-compliant format, not the non-compliant lines in the existing examples.
+Previously non-compliant lines in the IR-2026-001 hybrid posts ("Citizens" in the
+memo summary block; direct Computer invocation in post-01) were corrected in
+BR-003v6 (2026-04-27). All hybrid posts are now lore-compliant.
 
 **SECFILE sessions:**
 For security file generation, also supply:
