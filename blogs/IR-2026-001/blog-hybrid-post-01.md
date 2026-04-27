@@ -18,7 +18,7 @@
 
 **Summary:** The IT department's primary storage infrastructure has been designated a Legacy Optimization Opportunity and is being replaced. A Dell PowerEdge R720xd has been procured, Proxmox VE 9 is installed, and the storage controller has been configured. Platform selection has been completed: TrueNAS SCALE running as a Proxmox VM with PCIe passthrough. An AI planning consultant was engaged. It performed adequately. This memo summarizes the decisions made; the full technical narrative follows below for those who wish to understand why.
 
-*Citizens who do not wish to understand why are reminded that understanding is encouraged but not mandatory. The Computer, however, notes your lack of curiosity.*
+*Employees who do not wish to understand why are reminded that understanding is encouraged but not mandatory. Lack of curiosity is, however, noted.*
 
 ---
 
