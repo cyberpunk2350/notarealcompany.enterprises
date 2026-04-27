@@ -385,3 +385,52 @@ All decisions made during the BR-001 review session. Transferred from `narc-prim
 ---
 
 *End of BR-001 archived records.*
+
+---
+
+## Branch Reference History
+
+*Consolidated from the lore bible index — BR-003v7, 2026-04-27. For working notes and in-session decision logs, see the BR-003 working notes in `narc-lore-build/branches/BR-003 - Staff Dossiers/03.BranchWorkingNotes/`.*
+
+| Branch ID | Name | Status | Notes |
+|-----------|------|--------|-------|
+| `BR-001` | lore-consolidation-review-v2 | Complete | Produced this document set. Lore bible compiled; all 31 issues resolved; 26 lore rulings recorded. See BR-001 Issues Register and Lore Rulings above. |
+| `BR-002` | site-reorg | Planned — unblocked | File renames, seal replacements, parser compliance. Action list in Appendix B. |
+| `BR-003` | staff-dossiers | Complete | Multi-session arc. All dossiers (17), profiles (11), and staff index produced. Character lore bios (18 entries) ratified and incorporated into Section 02. SECFILE system established (template + 16 files). Appendices G–J produced. CCO/PA Director placeholder org structure established. Session-by-session detail in BR-003 through BR-003v7 entries in this appendix. For in-session working notes, see `narc-lore-build/branches/BR-003 - Staff Dossiers/03.BranchWorkingNotes/`. |
+| `BR-004` | site-expansion-and-development | Planned — blocked by BR-002 | Site expansion and new content. Requires clean file structure from BR-002. |
+
+---
+
+## BR-003v5 — Staff Dossiers (2026-04-26)
+
+**Section 02 — restructure and maintenance**
+Supporting cast section restructured to unified H3 heading format for consistency. Roles Referenced in README moved to appear before Supporting Cast. Dossier/bio cross-reference links added to ARIA, NARC-Brew 3000, Founder, and The Computer entries (previously missing). CCO and PA Director placeholder entries added to establish org structure ahead of future character development. No lore changes — structural maintenance only. BR-003v5, 2026-04-26.
+
+**Appendix J — vocabulary doc renamed**
+Risk Classification Vocabulary document renamed from `narc-secfile-risk-classification-vocabulary.md` to `narc-primer-appendix-secfile-risk-classification-vocabulary.md` to conform to lore bible appendix naming convention. Appendix J index entry updated to reflect new path. No content changes. BR-003v5, 2026-04-26.
+
+---
+
+## BR-003v6 — Staff Dossiers (2026-04-26–27)
+
+**SECFILE footer seal standardization — all 16 files + template**
+All 16 populated SECFILEs (`SECFILE-001` through `SECFILE-018`; 014/015 unassigned) updated to footer-only seal block pattern (classification seal + NSEC division seal + clearance seal + Approved by the Computer seal). Header seals and inline seal patterns removed from all files. SECFILE template updated to match. Decision D-BR4-15 (footer-only seals) applied to the complete SECFILE corpus. Human HITL commits: `974dba3` (vocabulary doc rename), `0643d9f` (round-1 SECFILE batch updates). BR-003v6, 2026-04-26–27.
+
+**Violation notes update — SECFILE template**
+Assessor Notes instruction block in the SECFILE template updated to include a violation notation example and passive-voice guidance. Human edit (unstaged at BR-003v7 open). BR-003v6.
+
+**Appendix I — vocabulary doc path correction**
+Content Generation Kickoff Prompt (Appendix I) updated to reference the renamed vocabulary doc path (`narc-primer-appendix-secfile-risk-classification-vocabulary.md`). Committed `1ed10dad`, BR-003v6.
+
+---
+
+## BR-003v7 — Staff Dossiers (2026-04-27)
+
+**P-26 — Seal/badge placement investigation**
+Full audit of seal placement across all document types in `assets/docs/`. Finding: D-BR4-15 (footer-only seals) was applied to SECFILEs specifically; no site-wide mandate exists or is required. Header seals on dossiers (single classification seal) and inline-table seals on FAQs and hybrid blog posts are structurally appropriate and rendering correctly in the NGINX/marked.js context. No changes made. Decision D-BR7-01 recorded. Parking lot item PL-BR7-01 added: future-branch review of non-SECFILE seal placement across ~35 files. BR-003v7, 2026-04-27.
+
+**P-30 — SECFILE template risk classification vocabulary reconciliation**
+Six non-canonical example labels in the SECFILE template author note (`Monitored`, `Noted`, `Flagged`, `Routine`, `Pending`, `Institutional Constant`) replaced with six canonical vocabulary-doc labels (`Inert`, `Attended`, `Acknowledged`, `Variance`, `Deferred Review`, `Structural`). Canonical source pointer added to template author note. Vocabulary doc (Appendix J) unchanged — it was already correct. Template EOL artifact (mode/whitespace diff) cleaned up as side effect of commit. Committed `04cdfe74`, narc-website. Decision D-BR7-02 recorded. BR-003v7, 2026-04-27.
+
+**P-29 — Lore-bible meta references cleanup**
+Index Branch Reference table condensed to a four-row summary with pointer to this appendix; full per-session detail removed from index. Section 02 maintenance changelog footer line removed. This appendix updated: Branch Reference History section added; BR-003v5, BR-003v6, BR-003v7 session entries added. Key Decisions table in index flagged for second-pass update (PL-BR7-05). Parking lot items PL-BR7-02 (Section 07 image asset update + BR-002 footnotes), PL-BR7-03 (Section 09 BR-002 reference update), PL-BR7-04 (Section 12 overhaul) recorded. BR-003v7, 2026-04-27.

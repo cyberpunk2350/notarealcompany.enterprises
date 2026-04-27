@@ -17,15 +17,18 @@ The lore bible is divided into numbered sections and appendices. Sections 01–0
 
 ## Branch Reference
 
-| Branch ID | Name | Status | Notes |
-|-----------|------|--------|-------|
-| `BR-001` | lore-consolidation-review-v2 | Complete | Produced this document set. |
-| `BR-002` | site-reorg | Planned — unblocked | File renames, seal replacements, parser compliance. See Appendix B for action list. |
-| `BR-003` | staff-dossiers | Complete | All dossiers, profiles, staff index produced. Lore Bible Section 02 updated throughout. Character lore bios ratified and incorporated into Section 02. Bios at `_meta/lore-bible/character-bios/`. Qualifier catalog and prompt templates at `_meta/lore-bible/`. |
-| `BR-003v2` | staff-dossiers-continuation | Complete | All 13 human decisions resolved. Full character roster lore bio incorporation into Section 02. Clearance levels ratified. Lore bio register added to Section 02. `_meta/lore-bible/` established as home for non-website lore artifacts. |
-| `BR-003v3` | staff-dossiers-final | Complete | Dossier verification; Lore FAQ (Appendix G); Gemini supporting cast bio review (Founder, Computer, Historian, Cat); Mortimer Chalk and Unit-FELIS ratified and added to Section 02; narrative consistency review added to parking lot. |
-| `BR-003v4` | staff-dossiers (2026-04-20) | Complete | Canon patches (Watchful CONTINUITY RECORD, Section 02 Chalk/Brew3k, maintenance guide three-category identities); narrative consistency review (14 findings; 9 clean; 1 patched; 4 cross-character gaps closed); Claude AI Consultant ratified (bio + HR minimal file; NARC-018; bio register to 18 entries); Brew 3000 advisory sample catalog (Appendix H); in-universe FAQs (3 variants — Corp-FAQ-Internal-VariantA/B, Corp-FAQ-Public); risk classification vocabulary doc; content generation kickoff prompt (Appendix I); all 16 SECFILEs generated; PA/CCO org structure established; updated SECFILE template. |
-| `BR-004` | site-expansion-and-development | Planned — blocked by BR-002 | Site expansion and new content. Requires clean file structure from BR-002. |
+See **Appendix C — Editorial History** for the full branch reference history, session summaries, and decision records.
+
+| Branch ID | Name | Status |
+|-----------|------|--------|
+| `BR-001` | lore-consolidation-review-v2 | Complete |
+| `BR-002` | site-reorg | Planned — unblocked |
+| `BR-003` | staff-dossiers | Complete — see Appendix C for session detail |
+| `BR-004` | site-expansion-and-development | Planned — blocked by BR-002 |
+
+---
+
+*Full branch history, session-by-session summaries, and per-session decision records are maintained in Appendix C. For working notes and in-session decision logs, see the BR-003 working notes in `narc-lore-build/branches/BR-003 - Staff Dossiers/03.BranchWorkingNotes/`.*
 
 ---
 
@@ -68,7 +71,7 @@ The lore bible is divided into numbered sections and appendices. Sections 01–0
 |------|---------|
 | [`narc-primer-section-13-appendix-open-questions.md`](narc-primer-section-13-appendix-open-questions.md) | **Appendix A:** All open questions register. Q-01–Q-20 resolved. Q-21 (ARIA meeting definition) open. |
 | [`narc-primer-section-14-appendix-parking-lot.md`](narc-primer-section-14-appendix-parking-lot.md) | **Appendix B:** Required-deferred items, BR-002 action list, and nice-to-have parked items. |
-| [`narc-primer-appendix-editorial-history.md`](narc-primer-appendix-editorial-history.md) | **Appendix C (Editorial History):** All resolved conflicts, model observations, and lore rulings from BR-001. Issues register and lore rulings table archived here. BR-003, BR-003v2, and BR-003v3 entries appended. |
+| [`narc-primer-appendix-editorial-history.md`](narc-primer-appendix-editorial-history.md) | **Appendix C (Editorial History):** All resolved conflicts, model observations, and lore rulings from BR-001. Issues register and lore rulings table archived here. BR-003 through BR-003v7 session entries appended. Branch reference history consolidated here from index. |
 | [`narc-primer-appendix-maintenance-guide.md`](narc-primer-appendix-maintenance-guide.md) | **Appendix D (Maintenance Guide):** Conventions and style guide for updating and extending this lore bible. |
 | [`narc-primer-appendix-qualifier-catalog.md`](narc-primer-appendix-qualifier-catalog.md) | **Appendix E (Qualifier Catalog):** Meeting minutes qualifier entries (QUAL-MM-A01 through A05, QUAL-MM-B01 through B04) and shared character beat qualifiers. BR-003 production artifact. |
 | [`narc-primer-appendix-chatgpt-prompt-templates.md`](narc-primer-appendix-chatgpt-prompt-templates.md) | **Appendix F (ChatGPT Prompt Templates):** Four generation prompt templates for lore-consistent content production. BR-003 production artifact. |
@@ -82,6 +85,8 @@ The lore bible is divided into numbered sections and appendices. Sections 01–0
 ## Quick Reference
 
 ### Key decisions at a glance
+
+> *Second-pass update pending (PL-BR7-05): this table was last reviewed at BR-003v4 and has not been updated to reflect BR-003v5 through BR-003v7 decisions. Treat entries as accurate but incomplete. Full decision record is in Appendix C.*
 
 | Topic | Decision | Section |
 |-------|----------|---------|

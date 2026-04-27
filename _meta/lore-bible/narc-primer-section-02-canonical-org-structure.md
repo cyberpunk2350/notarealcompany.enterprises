@@ -282,7 +282,3 @@ Author-facing character design documents for all named roster entries. Literary 
 [^6]: Ratified — BR-003v2 staff-dossiers-continuation, 2026-04-14. Character lore bios incorporated into Section 02; clearance levels ratified for all named non-Founder staff.
 [^7]: Ratified — BR-003v3 staff-dossiers-final, 2026-04-18. Founder lore bio; The Computer lore bio; Mortimer Chalk (Official Historian) character and dossier; Unit-FELIS (The Cat) character and dossier; Founder and Computer Section 02 entries expanded; Chalk and Unit-FELIS added as supporting cast.
 [^8]: Ratified — BR-003v4, 2026-04-20. Claude (External AI Planning Consultant) character and dossier added; bio register extended to 18 entries.
-
----
-
-*Section 02 last updated: BR-003v5, 2026-04-26. Supporting cast restructured to unified H3 format; Roles Referenced in README moved before Supporting Cast; dossier/bio links added to ARIA, Brew 3000, Founder, Computer; CCO and PA Director placeholder entries added.*
