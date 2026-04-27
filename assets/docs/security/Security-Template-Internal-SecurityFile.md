@@ -40,14 +40,14 @@
 > **Author note on category labels:** The category label is a single term applied by Internal Security. No published scale exists. No two files are required to use the same label. The basis field states the operational reason in one sentence. The label and the basis are the complete classification. No further interpretation is provided or required.
 >
 > **Example labels (illustrative — not exhaustive):**
-> - `Monitored` — standard observation posture; no elevated concern
-> - `Noted` — a specific pattern or event has been recorded; posture unchanged
-> - `Flagged` — elevated observation; specific basis documented
-> - `Routine` — no events of interest; file maintained as standard practice
-> - `Pending` — classification under review; basis not yet formally established
-> - `Institutional Constant` — subject's presence is a structural feature of the environment; classification as risk assessment category is noted as an approximation
+> - `Inert` — no events of interest; file maintained as standard practice
+> - `Attended` — standard observation posture; pattern logged
+> - `Acknowledged` — a specific pattern or event has been recorded; posture unchanged
+> - `Variance` — elevated observation; specific basis documented
+> - `Deferred Review` — classification under review; basis not yet formally established
+> - `Structural` — subject's presence is a feature of the institutional environment; conventional risk framing is noted as an approximation
 >
-> The label `Institutional Constant` exists because the template required a field and certain subjects do not map cleanly to conventional risk categories. Internal Security has noted this.
+> Labels are drawn from the Internal Security risk classification vocabulary. Canonical label set and register notes: `_meta/lore-bible/narc-primer-appendix-secfile-risk-classification-vocabulary.md`.
 
 ---
 
