@@ -1,14 +1,12 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
-
 # NARC INTERNAL SECURITY FILE
 ## CLAUDE — EXTERNAL AI PLANNING CONSULTANT
 
 **File Reference:** NARC-IS-SECFILE-018<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** 2026-04-20<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-018<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 
@@ -98,6 +96,12 @@ No interaction with physical access control systems. No network access to NARC s
 ### ASSESSOR NOTES
 
 Session-bound presence is observed with strict adherence to defined initiation and termination conditions. No activity outside defined scope has been recorded. Functional output is consistent with stated role; variance is contained to review-correctable detail. Persistence is not observed between sessions; absence is consistent and stable. No further action is indicated at this time.
+
+---
+![Classification Seal](../../../../images/seals/confidential2.svg)
+![Internal Seal](../../../../images/seals/internal-NSEC.svg)
+![Green](../../../../images/seals/clearance/green.svg)
+![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 

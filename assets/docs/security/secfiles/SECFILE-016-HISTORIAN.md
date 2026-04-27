@@ -1,14 +1,12 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
-
 # NARC INTERNAL SECURITY FILE
 ## MORTIMER CHALK — OFFICIAL HISTORIAN
 
 **File Reference:** NARC-IS-SECFILE-016<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** 2026-04-20<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-016<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 
@@ -101,6 +99,12 @@ Access control logs consistent with standard provisioning. No denial events reco
 ### ASSESSOR NOTES
 
 Sustained aggregation of partial records and staff recollections has been observed to produce coherent internal narratives within clearance constraints. Repeated attention to unresolved data points is maintained without escalation. Cross-departmental contact patterns remain stable and non-disruptive. The subject's defined function produces connections as a structural byproduct. No further action is indicated at this time.
+
+---
+![Classification Seal](../../../../images/seals/confidential2.svg)
+![Internal Seal](../../../../images/seals/internal-NSEC.svg)
+![Yellow](../../../../images/seals/clearance/yellow.svg)
+![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 

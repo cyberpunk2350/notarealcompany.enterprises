@@ -1,14 +1,12 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
-
 # NARC INTERNAL SECURITY FILE
 ## UNIT-FELIS — PERMANENT PROVISIONAL ASSOCIATE
 
 **File Reference:** NARC-IS-SECFILE-017<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** 2026-04-20<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-017<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 
@@ -107,6 +105,12 @@ No credential interaction recorded at any access point. No denial events recorde
 ### ASSESSOR NOTES
 
 Continuous presence has been recorded across all monitored facility zones without corresponding access events. Administrative systems reflect a complete personnel state concurrent with unresolved logging conditions. The access pattern is stable and unchanged across all reporting intervals. No further action is indicated at this time.
+
+---
+![Classification Seal](../../../../images/seals/confidential2.svg)
+![Internal Seal](../../../../images/seals/internal-NSEC.svg)
+![Red](../../../../images/seals/clearance/red.svg)
+![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 
