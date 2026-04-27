@@ -1,14 +1,12 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
-
 # NARC INTERNAL SECURITY FILE
 ## MARY JOHNSON — CHIEF TECHNOLOGY OFFICER
 
 **File Reference:** NARC-IS-SECFILE-003<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** 2026-04-18<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-003<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 
@@ -96,6 +94,12 @@ Indicator systems in CTO office maintain non-alert status irrespective of upstre
 ### ASSESSOR NOTES
 
 System interactions reflect consistent alignment between observed state and declared constraints. Intervention thresholds are present but not externally defined. Environmental indicators remain stable under all recorded conditions. No further action is indicated at this time.
+
+---
+![Classification Seal](../../../../images/seals/confidential2.svg)
+![Internal Seal](../../../../images/seals/internal-NSEC.svg)
+![Indigo](../../../../images/seals/clearance/indigo.svg)
+![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 

@@ -1,14 +1,12 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
-
 # NARC INTERNAL SECURITY FILE
 ## JOHN SMITH — CHIEF FINANCIAL OFFICER
 
 **File Reference:** NARC-IS-SECFILE-002<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** 2026-04-18<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-002<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 
@@ -97,6 +95,12 @@ Private reconciliation artifact exists without system presence or access log ent
 ### ASSESSOR NOTES
 
 Financial states are consistently identified at the point of emergence and carried forward without closure until resolved. References to figures not present in formal systems are maintained in parallel without disruption to official records. Reconciliation activity is continuous and externally unobservable. No further action is indicated at this time.
+
+---
+![Classification Seal](../../../../images/seals/confidential2.svg)
+![Internal Seal](../../../../images/seals/internal-NSEC.svg)
+![Indigo](../../../../images/seals/clearance/indigo.svg)
+![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 

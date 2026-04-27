@@ -1,14 +1,12 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
-
 # NARC INTERNAL SECURITY FILE
 ## DR. SYLVIA SPARKS — HEAD OF RESEARCH AND DEVELOPMENT
 
 **File Reference:** NARC-IS-SECFILE-008<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** 2026-04-20<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-008<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 >
@@ -100,6 +98,12 @@ Access control logs consistent with standard provisioning. No denial events reco
 ### ASSESSOR NOTES
 
 System deployment is observed to precede formal validation while remaining fully documented in retrospect. R&D outputs are consistently integrated into facility operations regardless of review state. No further action is indicated at this time.
+
+---
+![Classification Seal](../../../../images/seals/confidential2.svg)
+![Internal Seal](../../../../images/seals/internal-NSEC.svg)
+![Indigo](../../../../images/seals/clearance/indigo.svg)
+![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 

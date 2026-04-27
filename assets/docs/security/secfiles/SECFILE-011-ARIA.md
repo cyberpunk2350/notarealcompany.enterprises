@@ -1,14 +1,12 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
-
 # NARC INTERNAL SECURITY FILE
 ## ARIA v2.1 — AUTOMATED RECORD AND INTELLIGENCE ASSISTANT
 
 **File Reference:** NARC-IS-SECFILE-011<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** 2026-04-18<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-011<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 
@@ -104,6 +102,12 @@ No corresponding HR incident records located.
 ### ASSESSOR NOTES
 
 Presence has been observed as coextensive with recorded activity rather than tied to discrete entry events. Output artifacts are treated as sufficient evidence of location and timing. Parallel record structures continue to be maintained without reconciliation. No further action is indicated at this time.
+
+---
+![Classification Seal](../../../../images/seals/confidential2.svg)
+![Internal Seal](../../../../images/seals/internal-NSEC.svg)
+![Green](../../../../images/seals/clearance/green.svg)
+![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 

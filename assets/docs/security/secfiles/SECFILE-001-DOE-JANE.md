@@ -1,14 +1,12 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
-
 # NARC INTERNAL SECURITY FILE
 ## JANE DOE — CHIEF EXECUTIVE OFFICER
 
 **File Reference:** NARC-IS-SECFILE-001<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** 2026-04-18<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-001<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 
@@ -99,6 +97,12 @@ Access control logs consistent with standard provisioning. No anomalies recorded
 ### ASSESSOR NOTES
 
 Executive presence is consistently recorded across all strategic and operational domains, with decision states maintained in multiple concurrent phases. Abstraction-driven proposals are introduced independent of domain constraints and are recorded without disruption to procedural flow. Alignment across departments occurs after executive declarations have stabilized into recordable form. No further action is indicated at this time.
+
+---
+![Classification Seal](../../../../images/seals/confidential2.svg)
+![Internal Seal](../../../../images/seals/internal-NSEC.svg)
+![Violet](../../../../images/seals/clearance/violet.svg)
+![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 

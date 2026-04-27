@@ -1,14 +1,12 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
-
 # NARC INTERNAL SECURITY FILE
 ## NARC-BREW 3000 FLEET — AI-ENABLED COFFEE MACHINE FLEET
 
 **File Reference:** NARC-IS-SECFILE-012<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** 2026-04-18<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-012<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 
@@ -99,6 +97,12 @@ Fleet units do not interact with physical access control. Facility placement is 
 ### ASSESSOR NOTES
 
 Continuous presence has been observed with stable primary function and persistent secondary output independent of engagement. Advisory issuance and inter-unit communication continue without variation in response to non-engagement. The security review remains open without affecting operational availability. No further action is indicated at this time.
+
+---
+![Classification Seal](../../../../images/seals/confidential2.svg)
+![Internal Seal](../../../../images/seals/internal-NSEC.svg)
+![Red](../../../../images/seals/clearance/red.svg)
+![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 

@@ -1,14 +1,12 @@
-# ![Classification Seal](../../../../images/seals/confidential2.svg)
-
 # NARC INTERNAL SECURITY FILE
 ## LINDA PARK — HR DIRECTOR
 
 **File Reference:** NARC-IS-SECFILE-005<br>
-**Classification:** ![Indigo](../../../../images/seals/indigo.svg) INDIGO — Internal Security Access Only<br>
+**Classification:** INDIGO — Internal Security Access Only<br>
 **Last Updated:** 2026-04-18<br>
 **Maintained By:** Internal Security<br>
 **Cross-Reference (HR):** NARC-HR-DOSSIER-005<br>
-**Approved By:** ![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)<br>
+**Status:** Approved <br>
 
 > *This file is maintained by Internal Security and is not part of the HR personnel record. Contents are classified Indigo minimum. Discrepancies between this file and the HR dossier are noted. They are not resolved here.*
 
@@ -99,6 +97,12 @@ Access control logs consistent with standard provisioning. No denial events reco
 ### ASSESSOR NOTES
 
 Procedural containment of personnel behavior has been observed as consistently enforced through documentation sequencing and compliance enforcement mechanisms. Cross-departmental influence remains stable without formal role expansion or reclassification. Administrative systems continue to resolve human-process states into formal artifacts prior to escalation conditions forming. No further action is indicated at this time.
+
+---
+![Classification Seal](../../../../images/seals/confidential2.svg)
+![Internal Seal](../../../../images/seals/internal-NSEC.svg)
+![Indigo](../../../../images/seals/clearance/indigo.svg)
+![Approved by the Computer](../../../../images/seals/approved-by-computer.svg)
 
 ---
 
