@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+
+<style>
+.title { font-family: Impact, sans-serif; font-size: 40px; fill:#ff3b3b;}
+.subtitle { font-family: Arial; font-size: 14px; fill:#00ffcc;}
+.box { fill:#0a0a0a; stroke:#00ffcc; stroke-width:3;}
+</style>
+
+<!-- NOPS -->
+<rect class="box" x="20" y="40" width="180" height="120" rx="8"/>
+<text class="title" x="60" y="105">NOPS</text>
+<text class="subtitle" x="60" y="130">OPERATIONS</text>
+
+<!-- NIS -->
+<rect class="box" x="240" y="40" width="180" height="120" rx="8"/>
+<text class="title" x="300" y="105">NIS</text>
+<text class="subtitle" x="275" y="130">INFRASTRUCTURE</text>
+
+<!-- NSEC -->
+<rect class="box" x="460" y="40" width="180" height="120" rx="8"/>
+<text class="title" x="520" y="105">NSEC</text>
+<text class="subtitle" x="520" y="130">SECURITY</text>
+
+<!-- NRD -->
+<rect class="box" x="680" y="40" width="180" height="120" rx="8"/>
+<text class="title" x="740" y="105">NRD</text>
+<text class="subtitle" x="730" y="130">RESEARCH</text>
+
+</svg>

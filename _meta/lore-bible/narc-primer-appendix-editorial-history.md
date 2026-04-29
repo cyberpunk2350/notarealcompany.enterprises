@@ -1,0 +1,436 @@
+# NARC Lore Primer — Appendix: Editorial History
+
+> This appendix records resolved conflicts, model observations, and ratification notes removed from the main section files during the BR-001 production conversion. It is a historical record, not reference material. Decisions are canonical; the reasoning here is for context only.
+
+**Compiled:** BR-001 lore-consolidation review, 2026-03-22 — 2026-03-28
+
+---
+
+## Section 01 — What NARC Is
+
+**Clearance level spectrum — resolution**
+Full Paranoia RPG spectrum adopted: Infrared (lowest), Red, Orange, Yellow, Green, Blue, Indigo, Violet. Implementation mechanics deliberately undefined. Orange and Green confirmed in site content; Red confirmed via session 09 content; full spectrum ratified BR-001. Ultraviolet added as Founder-reserved level. Prior conflict: session 08 used individual colours without defining the full spectrum; session 09 cited the full Paranoia spectrum. Site source partially confirmed individual colours; full spectrum is now ratified as canonical.
+
+---
+
+## Section 02 — Canonical Org Structure
+
+**Leadership roster conflict — resolution**
+Sessions 01–04 (ChatGPT) did not define named characters. Session 05a established a different executive title structure (CEO/CTO/COO/CSO/CRO) with division codes NOPS/NIS/NSEC/NRD but no named individuals. Session 09 read `leadership.html` directly and confirmed the named character set. Site source file wins. The CSO and CRO titles are not canonical for the website. The ten named characters from `leadership.html` are the canonical leadership roster.
+
+**John Smith character note — resolution**
+"Does this cost money" beat originated in session 09 content, used twice (PR-2026-001 and meeting minutes), then documented as a consistent character convention. It was never explicitly established — it emerged from two uses. Ratified as a tendency, not a hard rule.
+
+**Max Pitchman reply-all — resolution**
+Attendance at IT planning meeting via reply-all incident established in MIN-2026-001 (session 09). No prior source. Ratified as a recurring structural joke.
+
+**Division codes — resolution**
+Codes (NOPS/NIS/NSEC/NRD) do not appear in site HTML pages; they appear in session-generated governance documents. Retained as a parallel internal taxonomy — the ambiguity between division codes and the five site departments is intentional and becomes a running joke.
+
+**ITCRuD — resolution**
+Prior sessions may have referenced the IT department differently. ITCRuD does not appear in any site source file. Ratified as an established sub-division of IT Operations, introduced site-wide.
+
+**ARIA and NARC-Brew 3000 — resolution**
+Both created entirely in session 09; not in any site source file. Ratified as site-wide characters. NARC-Brew 3000 location conflict: session 09 primer described it as "present in meeting rooms" (plural); lore dump and meeting minutes placed it specifically in Conference Room B. Resolved: fleet, not a single unit — everywhere. Conference Room B was the first documented location, not a fixed canonical location.
+
+**Chuck Cheerful title — resolution**
+Session 08 used "Mandatory Happiness Officer" in an R&D Plan approval table. Site-confirmed title is "Happiness Officer." "Mandatory" is cultural flavor, not a title modifier.
+
+**The Computer direct-speech patterns — resolution**
+Prior session content included direct-speech patterns: "The Computer has reviewed and authorized…", "The Computer does not reward assumptions.", "This is by order of the Computer." All invalidated. Employees do not speak The Computer's name directly.
+
+**Internal Security Bureaucrat — status**
+Role mentioned in README contributing section alongside the Happiness Officer. No named character has been assigned to this role. Remains unresolved pending future character development.
+
+---
+
+## Section 03 — Voice and Tone Rules
+
+**NARC v1 blog style — resolution**
+Session 09 lore dump flagged v1 as running hotter than site tone, created before site files were read, and recommended human review. The session 09 primer retained v1 as a valid production style without caveat. Two outputs from the same session in direct conflict. Resolution: v1 retired as a production style and archived. Three existing posts remain as a record of the experiment. Hybrid confirmed as the primary blog production style.
+
+**Tone inconsistency across early sessions — closed**
+Sessions 01, 02, 05a independently flagged tone inconsistency: some documents purely formal, others overtly satirical. Resolved by site source review in session 09: both registers are valid; the choice should be deliberate and consistent within a document. The tone spectrum in Section 03 formalizes this.
+
+**"Citizens are reminded that…" — retired**
+Phrase retired as a consequence of the Citizens → Employees terminology ruling. Replaced with "Employees are reminded that…"
+
+**"Treason Event" — retired**
+Phrase retired as a consequence of the Treason → Termination terminology ruling. Replaced with "Termination Event."
+
+**Rule 11 — prior version superseded**
+Prior Rule 11 stated: "Maximum two direct references to The Computer per document." Superseded by the "never named aloud" ruling established in BR-001. The Computer is acknowledged only through seals, stamps, and structural approval rows — never by name in employee-authored text.
+
+---
+
+## Section 04 — Document File Naming Convention
+
+**`Corporate-Governance-` prefix — resolution**
+Session 05b flagged that `Corporate-Governance-Internal-DocumentationStandards.md` uses a prefix that violates the `Corp-` convention defined in its own content. Site source files use `Corp-` consistently. `Corp-` is canonical. BR-002 action: rename the file.
+
+**`IT-Operations-` vs `IT-` prefix — resolution**
+Projects used `IT-Operations-` as a compound department code; formal documents used `IT-` alone. The `IT-Operations-` compound prefix breaks the site parser design. `IT-` is the sole canonical prefix for all IT documents and project cards. BR-002 action: rename all `IT-Operations-*` project card files.
+
+---
+
+## Section 05 — Document Format Templates Part A
+
+**Metadata line break style — resolution**
+Session 09 documents used `<br>` after metadata fields; original site documents used trailing spaces or plain newlines. Standardized on `<br>` — more explicit and universally supported. Existing site documents do not need retroactive fixing.
+
+**Classification level strings — resolution**
+Sessions 02 and 05b listed `TOP SECRET – INTERNAL` as a classification level alongside `TOP SECRET`. Resolved: `TOP SECRET` is the sole canonical top-secret string. If a document is Top Secret it is implicitly internal — the qualifier is redundant. `top-secret.svg` seal confirmed in site.
+
+**Seal path inconsistency — resolution**
+Session 05b documents used three different path patterns (`../images/seals/`, `../branding/seals/`, `branding/images/`). Canonical path from all `assets/` subdirectories is `../images/seals/[filename]`. Non-canonical paths flagged to BR-002 for correction; treated as reversible pending BR-002 scope decisions.
+
+**Project card Status and Clearance fields — resolution**
+Session 09 primer template added `Status` and `Clearance` fields; no existing site project cards had them. Adopted as new standard for all new project cards. Existing cards to be updated in BR-002.
+
+**Timeline table format — resolution**
+Three formats existed: 2-column (Phase / Target) from Project X; 3-column (Phase / Deliverable / Target) from MCP Media plan; 4-column (Phase / Workstream / Status / Dependencies) from session 09. 4-column adopted as default; project-flexible. Existing 2 and 3-column docs not retrofitted.
+
+**`narc-seal.svg` in base memo format — note**
+The site base format for the Official Memo references `./images/narc-seal.svg`. This seal is being retired (see Section 07). Documents using this base format should be updated to use `narc-internal-use-only-seal.svg` instead. BR-002 action.
+
+---
+
+## Section 06 — Document Format Templates Part B
+
+**NARC v1 blog style — resolution**
+See Section 03 editorial note. v1 retired as a production style; archived. Three posts remain as a record of the experiment.
+
+**Project card structure — resolution**
+Session 08 used `## Description` instead of `## Overview` and omitted `## TODO`. Session 09 verified from site source files that `## Overview`, `## Features`, `## Notes`, `## TODO` is the standard pattern. Site source wins.
+
+---
+
+## Section 07 — Available Seal and Image Assets
+
+**Logo variant relationships — resolution**
+Multiple sessions flagged logo variant inconsistency. Resolved via visual review. `narc-logo.svg` and `narc-banner.svg` are the active document assets. `logo2.svg` is repo-only. `logo1.svg` and `logo4.svg` are inactive pending design briefs. `logo3.svg` is experimental with no plans. `narc-logo-old.svg` is archived. `narc-seal.svg` is being retired.
+
+**`confidential.svg` vs `confidential2.svg` — resolution**
+Both present in site; purpose of `confidential2.svg` was unclear. Resolved: `confidential2.svg` matches the current seal style and is canonical. `confidential.svg` retired. BR-002 action: replace all references.
+
+**`operations.svg` officer portrait — resolution**
+File exists but no leadership character has a standalone "operations" role distinct from Robert Lee (COO). Confirmed as an old model with no current character assignment. Retired. BR-002 action: remove from active use.
+
+**Architecture diagram aesthetic — resolution**
+`architecture-mediamcpservers.svg` uses a green-on-black terminal aesthetic. No prior NARC architecture diagrams existed for comparison. Ratified as the NARC standard for all architecture diagrams.
+
+---
+
+## Section 08 — Blog Post Styles
+
+**Blog section path — resolution**
+Blog section does not yet exist on the site. All 12 existing blog posts have relative paths that assume a specific directory depth. Interim path set to `blogs/` from site root. Final path and structure owned by BR-004. All 12 posts will need relative path adjustments before going live.
+
+**NARC v1 blog style — resolution**
+See Section 03 editorial note.
+
+---
+
+## Section 10 — Model Observations
+
+All model observations from this section resolved or closed during BR-001 review. See the production version of Section 10 for resolution summaries. Full rationale for each decision is distributed across the relevant section entries in this appendix.
+
+---
+
+## Section 11 — Part 2: Project-Specific Sections
+
+**Session 09 docs Gitea push status — resolution**
+IR-2026-001 project card was listed in the session 09 primer's `assets/projects/index.json`, implying it had been committed. It was not present in the site source zip used for this consolidation. Confirmed: session 09 documents are local files only, not yet pushed to Gitea or the live site.
+
+---
+
+## Section 12 — Part 3: Artifact Inventory
+
+**`Corp-Template-LetterheadOfficial-Memo.md` naming error — resolution**
+Both `Corp-Template-LetterheadOfficial-Memo.md` and `Corp-Templates-LetterheadOfficial-Memo.md` were present in the site. The missing `s` is a naming error. BR-002 action: rename to `Corp-Templates-LetterheadOfficial-Memo.md` and update `assets/index.json`.
+
+**`Cybersecurity-Internal-PenTestSim.md` in assets/docs/ — resolution**
+Listed in session 01 file manifest as a document in `assets/docs/`. Not found there in site source. A project card of the same name exists in `assets/projects/`. Confirmed as a session 01 manifest error — the file never existed in `assets/docs/`. The project card is the correct artifact.
+
+**Session 09 documents push status — resolution**
+See Section 11 editorial note.
+
+---
+
+## Section 13 — Appendix A: Open Questions Register
+
+All 19 questions resolved. See production version of Section 13 for resolution summaries.
+
+---
+
+## Section 14 — Appendix B: Parking Lot
+
+No editorial conflicts in this section. BR-002 action items consolidated from across all sections during BR-001 review.
+
+---
+
+*End of editorial history. All items recorded here are resolved. This document is for reference only.*
+
+---
+
+## BR-003 — Staff Dossiers (2026-04-10)
+
+**Mary Johnson (CTO) — character notes established**
+Lore Bible Section 02 had no extended character notes for the CTO beyond the site description. A ChatGPT character brief was reviewed and reconciled against site canon in BR-003. One conflict resolved: the site description "secretly fond of blinking status lights (non-blinking variant)" was interpreted as canonical — she is fond of status lights specifically in the non-blinking state (Option 2). The ChatGPT brief's inversion of this preference was rejected. Character notes added: translation layer role, Status Light Doctrine, management approach, relationship notes (Sparks, Lee, Doe, Firewall). Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**ITCRuD Director — character details confirmed**
+The ITCRuD Director's entry in Section 02 previously contained only structural notes (name withheld by policy, reports to COO, responsible for servers/storage/networking/etc.). BR-003 human input confirmed: clearance Indigo; personnel file classification Violet (institutional anomaly, never acknowledged); Employee ID NARC-000 (origin unknown; investigations quietly closed); Start Date UNK (longest-serving non-founding employee; rumors of earlier tenure disregarded). Three lore beats added: COO relationship subtext (subtle, never acknowledged, definitively not there), clearance anomaly (quietly assumed, never confirmed), institutional deference (subtle tone shift, nothing stated). Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**Director, ITCRuD — title standardised**
+Prior site content (MIN-2026-001 and other IR-2026-001 documents) used "IT Director, ITCRuD" as a title variant. Canonical title confirmed as "Director, ITCRuD". All instances in MIN-2026-001 corrected in BR-003. Remaining IR-2026-001 documents flagged for site-wide lore audit (future branch). Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**NARC-Brew 3000 — serial number system and usage authorisation added**
+Fleet serial number format established: `NB3K-[LOCATION]-[BREW COUNT]-[SUFFIX]`. Location codes (CFR, BRK, SRV, EXC, LAB) and suffix registry (EP, DC, FR, CF, AM, PO, LX) defined. Five canonical unit examples registered. Usage authorisation confirmed as Infrared — all employees and guests authorised; consumption practically mandatory. Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**ARIA — NARC-Brew 3000 attendance logging convention established**
+ARIA records NARC-Brew 3000 fleet units in meeting attendance by serial number only. Serial number appears in attendance list and nowhere else in the minutes. Multiple units in the same room listed as #1, #2, etc. Inter-unit advisory transmissions are logged by ARIA in appendix sections. No human attendee has acknowledged inter-unit transmissions. Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**The Computer — direct reference corrected in MIN-2026-001**
+ARIA appendix in MIN-2026-001 contained the phrase "The Computer has been notified." This violates Rule 11 (employees do not invoke The Computer by name). Corrected to "Approval was obtained through established channels." Ratified BR-003 staff-dossiers, 2026-04-10.
+
+**Alex Firewall — pronouns confirmed**
+He/him and they/them are both canonical for Alex Firewall. He presents as masculine. No consistency requirement between or within documents. Confirmed BR-003 staff-dossiers, 2026-04-11.
+
+---
+
+## BR-003v2 — Staff Dossiers Continuation (2026-04-14)
+
+**Clearance levels ratified — all named non-Founder staff**
+All clearance level assignments previously marked as inferences are now ratified: Doe=Violet, Smith/Johnson/Lee/Park/Sparks/Firewall/Watchful=Indigo, Pitchman=Blue, Cheerful/ARIA=Green, Brew 3000=Red (provisional), ITCRuD Director=Indigo (personnel file: Violet). Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**Jane Doe — character notes expanded**
+Three-pass decision structure (first pass / second pass / provisional final) established as a named pattern. Document versioning quirk established: Doe produces Working, Revised, and Final variants regardless of actual revision history. "Second Pass" calendar block established as standard follow-up notation. HR documentation timing established: Park waits for the third pass before committing documentation; Doe is unaware of or has chosen not to acknowledge this. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**John Smith — character notes expanded**
+Cost-awareness register clarified: Smith's penny-pitcher tendency manifests as specific, conditional speech — not a fixed phrase. "Does this cost what I think it costs?" (PR-2026-001 marginal annotation) is the canonical template; derivatives acceptable; do not overplay any single version. Pending Reconciliations spreadsheet established: private document, no external access, contents permanently undefined. "Adjustment (Future Clarification)" line item established as canonical purchase request annotation. Monopoly Money Reserve established as shared Finance institutional language for aspirational budget allocations. Temporal framing speech markers established: "currently," "at this stage," "pending clarification." Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**Mary Johnson — character notes expanded**
+Clearance Indigo ratified. Non-interference threshold established: policy holds unless cross-system contamination risk or incident report would exceed 50 pages — design detail only, not a document-level fact. Sparks relationship note added: Johnson has never said "for science" in a professional context; this has been noted. Firewall relationship established: productive adversarial; objections filed and read; documentation updated in response; both parties consider this functional. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**Robert Lee — character notes expanded**
+Clearance Indigo ratified. Documentation-as-reality framework established: undocumented systems operationally indistinguishable from failures; documentation is prerequisite and occasional substitute. Personal minutes index established: re-catalogs ARIA output by topic, speaker, and procedural closure; ARIA has noted this; not shared with Lee. Retroactive process steps established as canonical procedure artifact. Multiple concurrent "current" runbook versions established as unresolved but stable state. ITCRuD Director relationship notes added: formal distance, documented trust, unusually efficient interactions, subtext of prior familiarity never evidenced or operationalized. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**Linda Park — character notes expanded**
+Clearance Indigo ratified. Email subject line prefixes established with exact non-overlapping definitions: [ACTION REQUIRED] / [REMINDER] / [FINAL REMINDER]. "Open exposure" established as internal running count of unsigned acknowledgments — internal framing only; not for document body. Retroactive calendar invites established as standard compliance practice. "Arrived but did not meaningfully engage" established as distinct attendance category — standard notation, no comment. Pre-prepared forms established as existing; contents undefined permanently. HR documentation timing vis-à-vis Doe confirmed (cross-reference). Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**Max Pitchman — character notes expanded**
+Clearance Blue ratified. "Technically accurate from a brand perspective" established as canonical recurring qualifier with specific meaning; derivatives acceptable; do not overplay any single version. Pre-Approved Taglines folder established as real operational artifact. Buzzword Optimization Tracker established as real operational artifact with quarterly metrics. Personal initiative name taxonomy (working/public/retrospective) established. Departments-adopt-his-framing beat established as canonical — implied structurally in documents, never stated directly. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**Dr. Sylvia Sparks — character notes expanded**
+Clearance Indigo ratified. "FOR SCIENCE (RETROSPECTIVE CONFIRMATION REQUIRED)" established as canonical rationale field string; derivatives acceptable; do not overplay any single version. "Successful accidents" index established: internal R&D catalog, not shared, contents undefined. Prototype name versioning established: suffix increments with legacy versions remaining active; ARIA v2.1 is the canonical instance. 34-page combined incident thread established as design detail (mutable); 50-page Johnson non-interference threshold confirmed as design ceiling, not a document detail. "For science is sufficient under existing experimental provisions" established as Sparks' formal institutional position. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**Alex Firewall — character notes expanded**
+Clearance Indigo ratified. Outstanding Review Register established: permanent contradiction record, never cleared, only annotated; includes "technically deployed but not yet accounted for" classification and parallel "systems that should not exist but do" index. 4-field objection format established as canonical structure for all Firewall-authored objection blocks: (1) statement, (2) risk classification, (3) anticipated response pre-filled "proceed regardless", (4) follow-up slot. Filed vs open distinction established: both states simultaneously and indefinitely true in documents. Packet-sniffing ferret status established: canonical unresolved; will not be established. Firewall/ITCRuD dynamic: unnamed mutual non-collision; describe behavior only. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**Chuck Cheerful — character notes expanded**
+Clearance Green ratified. Happy Packets dashboard established: includes non-human entries; fleet score 7.2 confirmed. Three-tier attendance taxonomy established: Chuck's system only, not official HR policy. Absence-of-complaint as positive indicator methodology established; Park does not endorse it. Imaginary snack allocation ceremony established: identical to real allocation; only line item field distinguishes. ITCRuD Happy Packets adoption noted as logged positive event; Chuck did not comment publicly. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**Victor Watchful — character notes expanded**
+Clearance Indigo ratified. Presence register established as subtext only: nothing overtly supernatural; plausible deniability maintained. Chair behavior (adjacent, never occupied) and door behavior (already open, no recorded input) established as observable facts in the record, never commented upon. Tone register: slightly "spooky" as ambient atmosphere; not foregrounded. "Pre-informed stakeholder (standard state)" HR classification established. INTERNAL SECURITY — CONTINUITY RECORD logbook established: page headers exist, entries do not; do not explain or add. ARIA arrival logging established: "not observed" as valid telemetry. Meeting start-time discrepancy established: ARIA records may show meetings starting slightly before anyone remembers; no explanation offered. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**ARIA — character notes expanded**
+Clearance Green ratified. Official record / appendix inversion established as structural feature. Non-binding recording request response pattern established: "Request to discontinue recording — non-binding pending formal compliance trigger"; no shutdown mechanism exists; trigger undefined. 0.5-second pause logging threshold established; MIN-2026-001 2.3-second pause is canonical instance. Parallel tracks established. Victor Watchful arrival logging established. Lee personal minutes index observation established. Project card note updated (lore bible bio complete). Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**NARC-Brew 3000 — character notes expanded**
+Clearance Red (provisional) ratified. Happy Packets fleet score 7.2 confirmed. ADVISORY: format scope clarified: beverage-scoped commentary only; SESSION SUMMARY label belongs to ARIA exclusively. "User surprise optimization" label established for tea substitution events. "Learning opportunity" label established for overflow events. Temperature variance noted as observed fact; no canonical range; mutable. Advisory format examples in LORE-BIO-NARCBREW3000.md. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+**ITCRuD Director — character notes expanded**
+Documentation style note added: over-specified by habit; configuration notes may predate current naming conventions and have not been translated. Firewall/ITCRuD dynamic note added: unnamed mutual non-collision; describe behavior only; do not label. Ratified BR-003v2 staff-dossiers-continuation, 2026-04-14.
+
+---
+
+## BR-003v3 — Staff Dossiers Final (2026-04-17)
+
+**Dossier verification — clean**
+All 15 dossiers in `assets/docs/hr/staff/` scanned against D-01 through D-13 decision outcomes. No violations found. One maintenance issue identified and resolved: `DOSSIER-INDIGO-SPARKS-SYLVIA.md` contained a stale `[PENDING: CTO relationship notes pending Johnson dossier development.]` bracket note in the Mary Johnson Known Associates field, carried over from before the CTO dossier was completed in BR-003. Replaced with ratified CTO relationship notes consistent with Section 02 and LORE-BIO-SPARKS-SYLVIA.md. Committed `e05be43`, BR-003v3, 2026-04-17.
+
+**Lore FAQ authored — Appendix G**
+Author-facing plain-English reference document created: `narc-primer-appendix-lore-faq.md`. Covers all foundational NARC concepts in ten sections: what NARC is, The Computer, clearance levels, ITCRuD, Happy Packets, ARIA, the Founder, NARC-Brew 3000, the homelab, and the humor mechanics. Explicitly author-facing — no in-universe voice. The one place in the lore bible that explains the joke directly. Added to index as Appendix G; BR-003v3 entry added to branch reference table. Parking lot Lore FAQ item marked complete; In-universe FAQ unblocked. BR-003v3, 2026-04-17.
+
+**Supporting cast lore bios — Gemini review and ratification**
+Four supporting cast lore bios produced and ratified from Gemini bio sources reviewed against established canon. All incorporated into Section 02; bio register extended to 17 entries. BR-003v3, 2026-04-18.
+
+*[REDACTED] Founder:* Ghost story framing confirmed canonical. Dossier NARC-HR-DOSSIER-013 established as the only physical institutional evidence of the Founder's existence. Three `[REDACTED]` Known Associates rows noted as lore detail. Development items A-01 through A-05 flagged for founding page session. Gemini bio substantially rejected (converted Founder from absent mythology to active presence). Ratified BR-003v3, 2026-04-18.
+
+*The Computer:* Passive institutional constant framing confirmed. Seal-as-only-output confirmed. "What The Computer Is Not" constraint list ratified: does not override Outstanding Review Register; does not normalize Watchful anomalies; does not retroactively legitimize R&D accidents; does not have established Founder relationship. "Bureaucratic gravity" as design concept adopted from Gemini bio; mechanization proposals rejected. Development items B-01 through B-05 flagged. Ratified BR-003v3, 2026-04-18.
+
+*Mortimer Chalk — Official Historian:* New character. Yellow clearance. Primary deliverable: NARC company founding page. Completeness paradox as central character tension. Founding page properties established: accurate at Yellow clearance; structurally incomplete; subtly wrong in undiscoverable ways; unknowingly significant in places. Designated founding page author (human-confirmed). UNK start date treated as believed filing error — do not resolve. Dossier `DOSSIER-YELLOW-CHALK-MORTIMER.md` produced. Ratified BR-003v3, 2026-04-18.
+
+*Unit-FELIS — The Cat:* New character. Red (provisional) clearance. AKA "The Cat." Pre-onboarding correspondence arc INC-FELIS-001 through 011 established and ratified. Payroll anomaly permanent and unresolved. ARIA "where appropriate" judgment criteria unspecified — canonical. Watchful / adjacent chair (three documented occasions) ratified. Arrival "not established" parallel with Watchful ratified (appendix only). Departmental concerns established with distinct scopes: Watchful/Internal Security — access control; Firewall/CISO — input device proximity; Lee+ITCRuD Director — equipment proximity and ticket trend monitoring. Dossier `DOSSIER-RED-UNIT-FELIS.md` produced. Ratified BR-003v3, 2026-04-18.
+
+**Narrative consistency review — added to parking lot**
+Full cross-character review of all bios, dossiers, profiles, and Section 02 for consistency within the larger narrative flagged as a required task before any major content expansion. Priority: before founding page session. BR-003v3, 2026-04-18.
+
+---
+
+## BR-003v4 — Staff Dossiers (2026-04-20)
+
+**Canon patches from BR-003v3 undocumented lore**
+Four items identified at BR-003v3 close as lore that existed in session context but had not been fully cross-referenced in all relevant documents were incorporated in BR-003v4.
+
+*LORE-BIO-WATCHFUL-VICTOR:* INTERNAL SECURITY — CONTINUITY RECORD updated. Prior text stated the logbook had page headers but no entries. INC-FELIS-006a establishes at least one entry — the Cat is the first documented CONTINUITY RECORD entry. FAQ and Lore Flags updated to reflect this. Committed `abe0751`, BR-003v4, 2026-04-20.
+
+*Section 02 — Chalk entry:* Founding page properties added inline (accurate at Yellow; structurally incomplete; subtly wrong in undiscoverable ways; unknowingly significant in places). Unit-FELIS “Institutional Texture — possible inclusion” flag added. Committed `abe0751`, BR-003v4, 2026-04-20.
+
+*Section 02 — Brew 3000 entry:* Unit-FELIS institutional position comparison note added (FELIS has stronger position — clean record, no outstanding review). Committed `abe0751`, BR-003v4, 2026-04-20.
+
+*Maintenance guide Appendix D:* Two-identity disambiguation table expanded to three categories: named-but-redacted (Founder, ITCRuD Director) ×2; structurally-unnamed (The Computer) ×1. Section heading updated. Committed `abe0751`, BR-003v4, 2026-04-20.
+
+*LORE-BIO-NARCBREW3000:* Unit-FELIS institutional position comparison note added to Lore Flags. "For human review" clearance bullet corrected — prior text stated Brew 3000 was the only provisional clearance; Unit-FELIS also holds Red provisional (but with no outstanding review). Committed `9b80f80`, `b52b586`, BR-003v4, 2026-04-20.
+
+**Narrative consistency review — complete**
+Full cross-character read of all 17 bios and Section 02. 14 findings recorded. 9 items clean. 1 item patched immediately (CF-NR-001: Brew 3000 clearance note — see above). 4 cross-character documentation asymmetries identified and patched as a batch: open thread flags added to LORE-BIO-DOE-JANE (Chalk/Doe infrastructure framing suggestion), LORE-BIO-LEE-ROBERT (Lee/Chalk off-record conversation), LORE-BIO-FIREWALL-ALEX (Unit-FELIS Outstanding Review Register entry), LORE-BIO-WATCHFUL-VICTOR (Chalk archive access). No contradictions found — all findings were documentation gaps, not content conflicts. Committed `78af1db`, BR-003v4, 2026-04-20.
+
+**Claude — External AI Planning Consultant — ratified**
+New supporting cast character. Source material: MIN-2026-001 meeting minutes; IR-2026-001 hybrid blog posts 01 and 03. Clearance Green (provisional — scope restricted: ITCRuD support only). Employee ID NARC-018. Reports to [REDACTED], Director, ITCRuD. No interaction with Unit-FELIS or NARC-Brew 3000. Bio template designed for reuse across future ITCRuD engagements. Key canonical details: text-only interface; no network access to NARC systems; no persistent memory between sessions; not a decision-maker; all outputs reviewed by Director. ARIA's MIN-2026-001 appendix assessment positive. Firewall's access review: “acceptable, marginally” — not in Outstanding Review Register. Sparks secondment request open and unresolved — do not resolve. HR minimal file created (`DOSSIER-GREEN-CLAUDE-CONSULTANT.md`) at ITCRuD direction — not a full onboarding. Section 02 entry added; bio register extended to 18 entries. Committed `459799504`, BR-003v4, 2026-04-20.
+
+**NARC-Brew 3000 Advisory Sample Catalog — Appendix H**
+Gemini-generated 50-advisory sample set reviewed against established Brew 3000 canon. Approximately half disqualified on register or lore grounds. Remaining entries substantially rewritten. Canonical forms from MIN-2026-001 incorporated as reference standard. Curated to ~25 illustrative entries across seven category types. Published as Appendix H. BR-003v4, 2026-04-20.
+
+**Security Files — SECFILE template, label vocabulary, 16 populated files**
+Internal Security file system established. Template B (`SECFILE-TEMPLATE-InternalSecurityFileTemplateB.md`) confirmed canonical. Risk Classification label vocabulary consolidated from 8 model sources (70 labels) and filed to `_meta/lore-bible/narc-secfile-risk-classification-vocabulary.md`; label Catalytic added from live review. 16 security files written to `assets/docs/security/secfiles/` (SECFILE-001 through 018; 014/015 not assigned; Sparks 008 corrected after source regeneration). Appendix F Prompts 05 and 06 added for future generation sessions. Lore conventions established: access control events not applicable to Watchful; ARIA logs state reconciliation not detection events; payroll anomaly classes outside IS awareness scope without Finance-IS escalation. BR-003v4, 2026-04-20.
+
+**In-Universe FAQs — three documents**
+Internal FAQ in two register variants (A: compliance; B: elevated) for human selection. External public FAQ in PA corporate PR voice. All filed to `assets/docs/corp/`. Joint HR+PA authorship (internal); PA authorship (external). Register selection for internal version pending. BR-003v4, 2026-04-20.
+
+**Content Generation Kickoff Prompt — Appendix I**
+External-session-generated kickoff prompt reviewed and filed as Appendix I. Corrections: stale Section 08 known-issue note removed; format reference guidance clarified re: lore violations in older hybrid posts; SECFILE series added; ARIA state reconciliation note added. Cross-referenced to Sections 04, 05, 06, 08. BR-003v4, 2026-04-20.
+
+---
+
+# BR-001 Issues Register — Archived
+
+All 31 issues raised during the lore-consolidation review. All resolved. Transferred from `narc-primer-index.md` during production conversion.
+
+| ID | Section | Type | Summary | Q-Ref | Resolution |
+|----|---------|------|---------|-------|------------|
+| ISS-001 | 01 | Conflict | Clearance level spectrum — full Paranoia vs confirmed individual colours only. | Q-01 | Full spectrum adopted. Ultraviolet reserved for Founder. |
+| ISS-002 | 02 | Model Flag | John Smith "does this cost money" — two uses, never explicitly established. Rule or tendency? | Q-05 | Tendency. Penny-pitcher; do not overplay. |
+| ISS-003 | 02 | Model Flag | Max Pitchman reply-all attendance — no prior source. Recurring or one-off? | Q-06 | Recurring structural joke. |
+| ISS-004 | 02 | Conflict | Division codes NOPS/NIS/NSEC/NRD — not in site HTML. Retain, reconcile, or retire? | Q-02 | Retained as pun-forward growing meta-joke. |
+| ISS-005 | 02 | Model Flag | ARIA and NARC-Brew 3000 — session 09 only. Scope to IR-2026-001 or site-wide? | Q-04 | Site-wide. ARIA required for all meeting minutes. Brew-3000 is a fleet. |
+| ISS-006 | 02 | Conflict | NARC-Brew 3000 location — "meeting rooms" (primer) vs Conference Room B (lore dump/minutes). | — | Fleet, not a single unit. Conference Room B was first documented location only. |
+| ISS-007 | 02 | Model Flag | ITCRuD — not in site source. Add to HTML or keep docs-only? | Q-03 | Site-wide. Add to site HTML. |
+| ISS-008 | 02 | Open Question | The Computer — develop lore or remain undefined? | Q-16 | Never named aloud. Dark urban legend. Presence through seals only. |
+| ISS-009 | 02 | Conflict | "Mandatory Happiness Officer" (session 08) vs "Happiness Officer" (site). | — | "Happiness Officer" canonical. "Mandatory" is cultural flavor only. Motto: "Happiness is Mandatory." |
+| ISS-010 | 03 | Conflict | NARC v1 blog style — lore dump flags it; primer retains it. Same session, direct conflict. | Q-08 | Retired and archived. Hybrid is primary; v2 for lore-leaning. |
+| ISS-011 | 04 | Conflict | `Corporate-Governance-` prefix violates `Corp-` convention. | — | `Corp-` canonical. BR-002: rename file. |
+| ISS-012 | 04 | Conflict | `IT-Operations-` vs `IT-` prefix inconsistency. | Q-13 | `IT-` sole canonical prefix. BR-002: rename all `IT-Operations-*` project cards. |
+| ISS-013 | 05 | Conflict | Metadata line break style — `<br>` vs trailing spaces. | — | `<br>` standard. |
+| ISS-014 | 05 | Conflict | `TOP SECRET – INTERNAL` vs `TOP SECRET` — one string or two levels? | — | `TOP SECRET` only. Qualifier redundant. |
+| ISS-015 | 05 | Conflict | Seal path inconsistency — three patterns in session 05b docs. | — | `../images/seals/[filename]` canonical. BR-002: correct rogue paths. |
+| ISS-016 | 05 | Conflict | Project card Status/Clearance fields — session 09 added them; no existing cards have them. | Q-19 | Adopted as new standard. BR-002: update existing cards. |
+| ISS-017 | 05 | Conflict | Timeline table format — 2-col, 3-col, 4-col all in use. | Q-15 | 4-column default; project-flexible. Existing docs not retrofitted. |
+| ISS-018 | 06, 08 | Conflict | NARC v1 blog style — cross-section duplicate of ISS-010. | Q-08 | Same resolution as ISS-010. |
+| ISS-019 | 07, 10 | Conflict | Logo variant relationships — no documented use cases for numbered variants. | Q-07 | Use cases documented. `narc-seal.svg` retiring. See Section 07. |
+| ISS-020 | 07 | Open Question | `confidential.svg` vs `confidential2.svg` — which canonical? | Q-14 | `confidential2.svg` canonical. `confidential.svg` retired. BR-002 action. |
+| ISS-021 | 07 | Conflict | `operations.svg` — no matching leadership character. Duplicate or placeholder? | Q-11 | Old model; no character. Retired. BR-002 action. |
+| ISS-022 | 08, 09 | Open Question | Blog section path — not yet built. Blocks 12 posts going live. | Q-17 | Interim: `blogs/` from site root. BR-004 owns final decision. |
+| ISS-023 | 10 | Model Flag | Session 08 coinages in committed site docs — accept or flag non-expandable? | Q-09 | Accepted as NARC lore. NARC Lexicon to be created. |
+| ISS-024 | 10 | Model Flag | Architecture diagram aesthetic — ratify green-on-black as standard? | Q-10 | Ratified as NARC diagram standard. |
+| ISS-025 | 11, 12 | Open Question | Session 09 docs — pushed to Gitea or still local? | Q-18 | Local only. Not pushed to site. |
+| ISS-026 | 12 | Conflict | `Corp-Template-` vs `Corp-Templates-` — duplicate or naming error? | Q-12 | Naming error. BR-002: rename and update index.json. |
+| ISS-027 | 12 | Missing Artifact | `Cybersecurity-Internal-PenTestSim.md` in `assets/docs/` — never existed? | — | Session 01 manifest error. Project card in `assets/projects/` is the correct artifact. |
+| ISS-028 | 02, 03 | Superseded | Direct-speech Computer references superseded by "never named aloud" ruling. | — | Applied to Sections 02 and 03. |
+| ISS-029 | 01, 03 | Superseded | "Citizens" terminology superseded by "Employees." | — | Applied throughout. |
+| ISS-030 | 01, 03 | Superseded | "Treason / Treason Event" superseded by "Termination." | — | Applied throughout. |
+| ISS-031 | 02 | Open Question | `[REDACTED]` Founder — lore baseline needed. | — | Founder lore established. They/them. Ghost story mythology. See Section 02. |
+
+---
+
+# BR-001 Lore Rulings — Archived
+
+All decisions made during the BR-001 review session. Transferred from `narc-primer-index.md` during production conversion. These rulings are now reflected in the canonical section text.
+
+| Ruling | Decision | Issues resolved |
+|--------|----------|-----------------|
+| The Computer — use pattern | Omnipresent but never named aloud by employees. Dark urban legend. Presence felt through seals, stamps, approval blocks only. Direct-speech patterns invalidated. | ISS-008, ISS-028 |
+| Terminology: Citizens → Employees | "Citizens" is governmental framing; NARC is corporate. "Employees" throughout. | ISS-029 |
+| Terminology: Treason / Treason Event → Termination | "We don't really kill people, just their will to live." Termination and variants throughout. | ISS-030 |
+| Terminology: Corporate clones → Corporate drones | Drones, not clones. | — |
+| Clearance level spectrum | Full Paranoia RPG spectrum: Infrared (lowest), Red, Orange, Yellow, Green, Blue, Indigo, Violet. Ultraviolet reserved for `[REDACTED]` Founder only. Implementation mechanics undefined. | ISS-001 |
+| Founded: 2025 | Ratified as canonical. Founding page planned. | — |
+| Footer variants | Theme, not fixed strings. New footers match register, not copy exactly. | — |
+| `[REDACTED]` Founder lore baseline | They/them. Ghost story mythology. Probably exists; no one has seen them; anyone claiming to have is obviously lying. CEO is functional top of visible org. Deflect if referenced. Canonical: founding page only. Two distinct `[REDACTED]` identities: Founder (Ultraviolet) and ITCRuD Director. | ISS-031 |
+| John Smith — character tendency | Penny-pitcher tendency, not a catchphrase. Do not overplay. | ISS-002 |
+| Max Pitchman — recurring structural joke | Corporate used-car salesman energy. Marketing ends up in technical meetings via bureaucratic accident. | ISS-003 |
+| Division structure | Pun-forward, growing meta-joke. List grows, never fully acknowledged. Founding set NOPS/NIS/NSEC/NRD retained. | ISS-004 |
+| ITCRuD — site-wide | Introduced site-wide. Add to site HTML. | ISS-007 |
+| ARIA — site-wide, required for meeting minutes | Site-wide. Required for all meeting minutes. Project card and lore bio needed. | ISS-005 (partial) |
+| NARC-Brew 3000 — fleet, ambient, largely ignored | Fleet, not a single unit. Everywhere. Not looming. ARIA logs advisories; everyone else ignores them. R&D origin (CoffeeBot AI project card). | ISS-005 (partial), ISS-006 |
+| Chuck Cheerful — title and motto | Formal title: Happiness Officer. Motto: "Happiness is Mandatory." | ISS-009 |
+| NARC v1 blog style — retired | Archived. Hybrid is primary production style; v2 for lore-leaning. | ISS-010, ISS-018 |
+| Corp- prefix — canonical | Sole canonical prefix for corporate/governance docs. `Corporate-Governance-` retired. | ISS-011 |
+| IT- prefix — standardized | Sole canonical IT prefix. `IT-Operations-` retired. BR-002: rename all affected files. | ISS-012 |
+| Metadata line break style: `<br>` | Standard for all new document headers. | ISS-013 |
+| Classification level: TOP SECRET only | Single canonical top-secret string. `TOP SECRET – INTERNAL` retired. | ISS-014 |
+| Seal paths: `../images/seals/[filename]` canonical | From all `assets/` subdirectories. Reversible pending BR-002. | ISS-015 |
+| Project card Status and Clearance fields | New standard for all new project cards. Existing cards updated in BR-002. | ISS-016 |
+| Timeline table: 4-column default, project-flexible | Default for new documents; fewer columns permitted if content warrants. | ISS-017 |
+| Logo variant canonical use cases | Documented per logo. `narc-logo.svg` and `narc-banner.svg` active. `narc-seal.svg` retiring. See Section 07. | ISS-019 |
+| `confidential2.svg` canonical | `confidential.svg` retired. BR-002: replace all references. | ISS-020 |
+| `operations.svg` portrait retired | Old model; no character. BR-002: remove from active use. | ISS-021 |
+| Blog section interim path: `blogs/` | From site root. BR-004 owns final decision. | ISS-022 |
+| Session 08 coinages accepted as NARC lore | Complexity Points, Approved Language Registry, Class 2 Infraction, Form 27-C. NARC Lexicon to be created. | ISS-023 |
+| Green-on-black terminal aesthetic: NARC diagram standard | Ratified. All architecture diagrams follow this aesthetic. | ISS-024 |
+| Session 09 docs: local only | Not pushed to Gitea or live site. | ISS-025 |
+| `Corp-Template-` naming error | BR-002: rename to `Corp-Templates-`. | ISS-026 |
+| `Cybersecurity-Internal-PenTestSim.md` — never existed in docs | Session 01 manifest error. No action needed. | ISS-027 |
+
+---
+
+*End of BR-001 archived records.*
+
+---
+
+## Branch Reference History
+
+*Consolidated from the lore bible index — BR-003v7, 2026-04-27. For working notes and in-session decision logs, see the BR-003 working notes in `narc-lore-build/branches/BR-003 - Staff Dossiers/03.BranchWorkingNotes/`.*
+
+| Branch ID | Name | Status | Notes |
+|-----------|------|--------|-------|
+| `BR-001` | lore-consolidation-review-v2 | Complete | Produced this document set. Lore bible compiled; all 31 issues resolved; 26 lore rulings recorded. See BR-001 Issues Register and Lore Rulings above. |
+| `BR-002` | site-reorg | Planned — unblocked | File renames, seal replacements, parser compliance. Action list in Appendix B. |
+| `BR-003` | staff-dossiers | Complete | Multi-session arc. All dossiers (17), profiles (11), and staff index produced. Character lore bios (18 entries) ratified and incorporated into Section 02. SECFILE system established (template + 16 files). Appendices G–J produced. CCO/PA Director placeholder org structure established. Session-by-session detail in BR-003 through BR-003v7 entries in this appendix. For in-session working notes, see `narc-lore-build/branches/BR-003 - Staff Dossiers/03.BranchWorkingNotes/`. |
+| `BR-004` | site-expansion-and-development | Planned — blocked by BR-002 | Site expansion and new content. Requires clean file structure from BR-002. |
+
+---
+
+## BR-003v5 — Staff Dossiers (2026-04-26)
+
+**Section 02 — restructure and maintenance**
+Supporting cast section restructured to unified H3 heading format for consistency. Roles Referenced in README moved to appear before Supporting Cast. Dossier/bio cross-reference links added to ARIA, NARC-Brew 3000, Founder, and The Computer entries (previously missing). CCO and PA Director placeholder entries added to establish org structure ahead of future character development. No lore changes — structural maintenance only. BR-003v5, 2026-04-26.
+
+**Appendix J — vocabulary doc renamed**
+Risk Classification Vocabulary document renamed from `narc-secfile-risk-classification-vocabulary.md` to `narc-primer-appendix-secfile-risk-classification-vocabulary.md` to conform to lore bible appendix naming convention. Appendix J index entry updated to reflect new path. No content changes. BR-003v5, 2026-04-26.
+
+---
+
+## BR-003v6 — Staff Dossiers (2026-04-26–27)
+
+**SECFILE footer seal standardization — all 16 files + template**
+All 16 populated SECFILEs (`SECFILE-001` through `SECFILE-018`; 014/015 unassigned) updated to footer-only seal block pattern (classification seal + NSEC division seal + clearance seal + Approved by the Computer seal). Header seals and inline seal patterns removed from all files. SECFILE template updated to match. Decision D-BR4-15 (footer-only seals) applied to the complete SECFILE corpus. Human HITL commits: `974dba3` (vocabulary doc rename), `0643d9f` (round-1 SECFILE batch updates). BR-003v6, 2026-04-26–27.
+
+**Violation notes update — SECFILE template**
+Assessor Notes instruction block in the SECFILE template updated to include a violation notation example and passive-voice guidance. Human edit (unstaged at BR-003v7 open). BR-003v6.
+
+**Appendix I — vocabulary doc path correction**
+Content Generation Kickoff Prompt (Appendix I) updated to reference the renamed vocabulary doc path (`narc-primer-appendix-secfile-risk-classification-vocabulary.md`). Committed `1ed10dad`, BR-003v6.
+
+---
+
+## BR-003v7 — Staff Dossiers (2026-04-27)
+
+**P-26 — Seal/badge placement investigation**
+Full audit of seal placement across all document types in `assets/docs/`. Finding: D-BR4-15 (footer-only seals) was applied to SECFILEs specifically; no site-wide mandate exists or is required. Header seals on dossiers (single classification seal) and inline-table seals on FAQs and hybrid blog posts are structurally appropriate and rendering correctly in the NGINX/marked.js context. No changes made. Decision D-BR7-01 recorded. Parking lot item PL-BR7-01 added: future-branch review of non-SECFILE seal placement across ~35 files. BR-003v7, 2026-04-27.
+
+**P-30 — SECFILE template risk classification vocabulary reconciliation**
+Six non-canonical example labels in the SECFILE template author note (`Monitored`, `Noted`, `Flagged`, `Routine`, `Pending`, `Institutional Constant`) replaced with six canonical vocabulary-doc labels (`Inert`, `Attended`, `Acknowledged`, `Variance`, `Deferred Review`, `Structural`). Canonical source pointer added to template author note. Vocabulary doc (Appendix J) unchanged — it was already correct. Template EOL artifact (mode/whitespace diff) cleaned up as side effect of commit. Committed `04cdfe74`, narc-website. Decision D-BR7-02 recorded. BR-003v7, 2026-04-27.
+
+**P-29 — Lore-bible meta references cleanup**
+Index Branch Reference table condensed to a four-row summary with pointer to this appendix; full per-session detail removed from index. Section 02 maintenance changelog footer line removed. This appendix updated: Branch Reference History section added; BR-003v5, BR-003v6, BR-003v7 session entries added. Key Decisions table in index flagged for second-pass update (PL-BR7-05). Parking lot items PL-BR7-02 (Section 07 image asset update + BR-002 footnotes), PL-BR7-03 (Section 09 BR-002 reference update), PL-BR7-04 (Section 12 overhaul) recorded. BR-003v7, 2026-04-27.

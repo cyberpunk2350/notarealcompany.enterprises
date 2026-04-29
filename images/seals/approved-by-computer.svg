@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
-  <circle cx="150" cy="150" r="140" fill="none" stroke="green" stroke-width="10"/>
-  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle"
-        font-family="monospace" font-size="28" fill="green" font-weight="bold">APPROVED</text>
-  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle"
-        font-family="monospace" font-size="20" fill="green">BY THE COMPUTER</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="90" fill="none" stroke="green" stroke-width="8"/>
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="30" fill="green" font-weight="bold">APPROVED</text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="18" fill="green">BY THE COMPUTER</text>
 </svg>

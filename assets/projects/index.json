@@ -1,13 +1,15 @@
 [
-  "IT-Operations-Internal-VPNMesh.md",
-  "R&D-Prototype-External-AI_CoffeeBot.md",
-  "Cybersecurity-Internal-PenTestSim.md",
-  "Marketing-Prototype-External-HypeMachine.md",
-  "R&D-Prototype-Internal-SmartDesk.md",
-  "IT-Operations-External-MockSaaS.md",
-  "IT-Operations-Internal-CorporateDNS.md",
-  "IT-Operations-Internal-FakeCorporateSaaS.md",
-  "R&D-Prototype-Internal-AlphaComplexMemos.md",
-  "IT-Operations-Prototype-External-CarrierPigeonMessaging.md",
-  "R&D-Prototype-Internal-MediaMCPServers.md"
+  "it/IT-Infrastructure-Internal-VPNMesh.md",
+  "it/IT-Infrastructure-External-MockSaaS.md",
+  "it/IT-Infrastructure-Internal-CorporateDNS.md",
+  "it/IT-Infrastructure-Internal-FakeCorporateSaaS.md",
+  "it/IT-Prototype-External-CarrierPigeonMessaging.md",
+  "it/IT-Infrastructure-Internal-InfrastructureRefresh2026.md",
+  "rnd/R&D-Prototype-External-AI_CoffeeBot.md",
+  "rnd/R&D-Prototype-Internal-AlphaComplexMemos.md",
+  "rnd/R&D-Prototype-Internal-ARIA.md",
+  "rnd/R&D-Prototype-Internal-MediaMCPServers.md",
+  "rnd/R&D-Prototype-Internal-SmartDesk.md",
+  "cybersecurity/Cybersecurity-Internal-PenTestSim.md",
+  "marketing/Marketing-Prototype-External-HypeMachine.md"
 ]

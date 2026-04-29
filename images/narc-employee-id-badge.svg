@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="260" viewBox="0 0 420 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#111111"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#00ffcc"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="420" height="260" fill="url(#bg)" rx="16"/>
+
+  <text x="20" y="40" font-family="Impact, sans-serif" font-size="28" fill="#ff3b3b">
+    NARC
+  </text>
+
+  <text x="20" y="60" font-family="Arial" font-size="12" fill="#00ffcc">
+    NOT A REAL COMPANY
+  </text>
+
+  <rect x="20" y="80" width="90" height="110" fill="#1a1a1a" stroke="#00ffcc"/>
+
+  <text x="140" y="100" fill="#ffffff" font-family="Arial" font-size="14">
+    Name: __________
+  </text>
+
+  <text x="140" y="125" fill="#ffffff" font-family="Arial" font-size="14">
+    Title: __________
+  </text>
+
+  <text x="140" y="150" fill="#ffffff" font-family="Arial" font-size="14">
+    Division: _______
+  </text>
+
+  <text x="140" y="175" fill="#ffffff" font-family="Arial" font-size="14">
+    ID: NARC-0001
+  </text>
+
+  <rect x="310" y="70" width="90" height="90" rx="10" fill="#0a0a0a" stroke="#00ffcc" filter="url(#glow)"/>
+
+  <circle cx="335" cy="110" r="7" fill="#00ffcc"/>
+  <circle cx="375" cy="110" r="7" fill="#00ffcc"/>
+  <path d="M335 135 Q355 155 375 135" stroke="#00ffcc" stroke-width="3" fill="none"/>
+
+  <text x="210" y="230" text-anchor="middle" fill="#00ffcc" font-family="Arial" font-size="12">
+    Making Fake Work Feel Real Since 2025
+  </text>
+</svg>
