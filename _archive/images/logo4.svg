@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>NARC Corporate Cyberpunk Logo</title>
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00ffcc" flood-opacity="0.8"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#ff3b3b" flood-opacity="0.6"/>
+    </filter>
+
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#1c1c1c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="1000" fill="url(#bgGradient)"/>
+
+  <!-- Emblem Badge -->
+  <g>
+    <ellipse cx="500" cy="500" rx="400" ry="350" fill="#1e1e1e" stroke="#00ffcc" stroke-width="6"/>
+  </g>
+
+  <!-- Friend Computer-inspired Monitor -->
+  <g transform="translate(300,350)">
+    <!-- Frame -->
+    <rect x="0" y="0" width="400" height="320" rx="32" ry="32" fill="#101010" stroke="#00ffcc" stroke-width="6" filter="url(#glow)"/>
+    <!-- Screen -->
+    <rect x="32" y="32" width="336" height="224" rx="16" ry="16" fill="#0a0a0a" stroke="#00ffcc" stroke-width="3"/>
+    <!-- Eyes -->
+    <circle cx="100" cy="120" r="16" fill="#00ffcc"/>
+    <circle cx="236" cy="120" r="16" fill="#00ffcc"/>
+    <!-- Rounded Smile -->
+    <path d="M100 200 Q168 240 236 200" stroke="#00ffcc" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <!-- Stand -->
+    <rect x="160" y="320" width="80" height="24" rx="12" fill="#1a1a1a"/>
+    <rect x="140" y="344" width="120" height="12" rx="6" fill="#1a1a1a"/>
+  </g>
+
+  <!-- NARC Wordmark -->
+  <g transform="translate(100,250)">
+    <text x="0" y="0" font-family="Impact, sans-serif" font-size="200" fill="#ff3b3b" stroke="#000" stroke-width="6" filter="url(#glow)">NARC</text>
+  </g>
+
+  <!-- Full Company Name + Motto -->
+  <g transform="translate(500,900)" text-anchor="middle">
+    <text font-family="Arial, sans-serif" font-size="48" fill="#eaeaea" font-weight="700">Not A Real Company</text>
+    <text y="60" font-family="Arial, sans-serif" font-size="32" fill="#b0b0b0" font-style="italic">Making Fake Work Feel Real Since 2025</text>
+  </g>
+
+  <!-- Neon Accents -->
+  <g stroke-width="2" stroke="#ff3b3b" fill="none">
+    <line x1="100" y1="250" x2="900" y2="250"/>
+    <line x1="100" y1="900" x2="900" y2="900"/>
+  </g>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" viewBox="0 0 1000 500">
+  <title>NARC Corporate Dystopia Logo</title>
+  <defs>
+    <!-- Neon Glow Filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#00ff88" flood-opacity="0.8"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#ff3b3b" flood-opacity="0.6"/>
+    </filter>
+
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#1c1c1c"/>
+    </linearGradient>
+
+    <!-- Shield Shape -->
+    <clipPath id="shieldClip">
+      <path d="M500 50 L750 150 L750 350 L500 450 L250 350 L250 150 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="800" fill="url(#bgGradient)"/>
+
+  <!-- Shield Badge -->
+  <g clip-path="url(#shieldClip)">
+    <path d="M500 50 L750 150 L750 350 L500 450 L250 350 L250 150 Z" fill="#1e1e1e" stroke="#00ff88" stroke-width="6"/>
+  </g>
+
+  <!-- Friend Computer Monitor (stylized) -->
+  <g transform="translate(400,150)">
+    <!-- Frame -->
+    <rect x="0" y="0" width="200" height="160" rx="16" ry="16" fill="#0f1116" stroke="#00ff88" stroke-width="4" filter="url(#glow)"/>
+    <!-- Screen -->
+    <rect x="16" y="16" width="168" height="112" rx="8" ry="8" fill="#101010" stroke="#00ff88" stroke-width="2"/>
+    <!-- Eyes -->
+    <circle cx="50" cy="60" r="10" fill="#00ff88"/>
+    <circle cx="118" cy="60" r="10" fill="#00ff88"/>
+    <!-- Rounded Smile -->
+    <path d="M50 100 Q84 128 118 100" stroke="#00ff88" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <!-- Stand -->
+    <rect x="80" y="160" width="40" height="16" fill="#1a1a1a" rx="4"/>
+    <rect x="70" y="176" width="60" height="8" fill="#1a1a1a" rx="4"/>
+  </g>
+
+  <!-- NARC Wordmark -->
+  <g transform="translate(250,100)">
+    <text x="0" y="0" font-family="Impact, sans-serif" font-size="200" fill="#ff3b3b" stroke="#000" stroke-width="6" filter="url(#glow)">NARC</text>
+  </g>
+
+  <!-- Corporate Subtext -->
+  <g transform="translate(500,400)" text-anchor="middle">
+    <text font-family="Arial, sans-serif" font-size="36" fill="#eaeaea" font-weight="700">Not A Real Company</text>
+    <text y="40" font-family="Arial, sans-serif" font-size="24" fill="#b0b0b0" font-style="italic">Making Fake Work Feel Real Since 2025</text>
+  </g>
+
+  <!-- Accents -->
+  <g stroke-width="2" stroke="#ff3b3b" fill="none">
+    <line x1="250" y1="100" x2="750" y2="100"/>
+    <line x1="250" y1="400" x2="750" y2="400"/>
+  </g>
+</svg>

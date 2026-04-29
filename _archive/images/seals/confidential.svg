@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <circle cx="150" cy="150" r="140" fill="none" stroke="red" stroke-width="12"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="sans-serif" font-size="36" fill="red" font-weight="bold"
+        transform="rotate(-15 150 150)">CONFIDENTIAL</text>
+</svg>
