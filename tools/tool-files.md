@@ -1,2 +1,2 @@
 tools
-(Meshcentral Agent)[.\meshagent64-ContractWork.exe]
+[Meshcentral Agent](.\meshagent64-ContractWork.exe)
