@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="60" height="60">
+  <!-- Monitor Frame -->
+  <rect x="0" y="0" width="220" height="180" rx="12" ry="12" fill="#1e1e1e" stroke="#000" stroke-width="4"/>
+  
+  <!-- Screen -->
+  <rect x="18" y="18" width="184" height="126" rx="8" ry="8" fill="#0f1116" stroke="#000" stroke-width="2" filter="url(#crt-glow)"/>
+  
+  <!-- Eyes -->
+  <circle cx="65" cy="80" r="8" fill="#00ff88"/>
+  <circle cx="145" cy="80" r="8" fill="#00ff88"/>
+  
+  <!-- Rounded Smile -->
+  <path d="M 60 115 Q 110 140 160 115" stroke="#00ff88" stroke-width="6" fill="none" stroke-linecap="round"/>
+  
+  <!-- Monitor Base -->
+  <rect x="80" y="180" width="50" height="18" rx="4" ry="4" fill="#2a2a2a"/>
+  <rect x="65" y="198" width="80" height="8" rx="4" fill="#2a2a2a"/>
+  
+  <!-- Glow filter for screen -->
+  <defs>
+    <filter id="crt-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#00ff88" flood-opacity="0.7"/>
+    </filter>
+  </defs>
+</svg>
